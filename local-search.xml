@@ -4,11 +4,68 @@
   
   
   <entry>
-    <title>早</title>
-    <link href="/winningcn/2021-05/wakeup/%E6%97%A9/"/>
-    <url>/winningcn/2021-05/wakeup/%E6%97%A9/</url>
+    <title>六月指北</title>
+    <link href="/%E5%8C%97%E6%9E%81%E6%98%9F/2021-05/%E5%85%AD%E6%9C%88%E6%8C%87%E5%8C%97/"/>
+    <url>/%E5%8C%97%E6%9E%81%E6%98%9F/2021-05/%E5%85%AD%E6%9C%88%E6%8C%87%E5%8C%97/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>老激动了。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>北极星</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>跑路要提高姿势水平</title>
+    <link href="/running/2021-05/%E8%B7%91%E8%B7%AF%E8%A6%81%E6%8F%90%E9%AB%98%E5%A7%BF%E5%8A%BF%E6%B0%B4%E5%B9%B3/"/>
+    <url>/running/2021-05/%E8%B7%91%E8%B7%AF%E8%A6%81%E6%8F%90%E9%AB%98%E5%A7%BF%E5%8A%BF%E6%B0%B4%E5%B9%B3/</url>
+    
+    <content type="html"><![CDATA[<h2 id="姿势就是知识"><a href="#姿势就是知识" class="headerlink" title="姿势就是知识"></a>姿势就是知识</h2><p>跑步虽然不是什么高深的技术，比不上解微积分，但是，没有正确的姿势，就解决不了跑的更快，更好，当然也就不可能跑的过那些香港记者。</p><h3 id="评估当前的姿势"><a href="#评估当前的姿势" class="headerlink" title="评估当前的姿势"></a>评估当前的姿势</h3><p>如果不能正确的评估当前的姿势，剩下的一切工作无从开展了。</p><ul><li>跑前装备预备好了嘛？</li><li>跑前热身了嘛？</li><li>呼吸调整好了嘛？</li><li>姿势保持了嘛？</li><li>跑后拉伸了嘛？</li><li>跑后感觉满意了嘛？</li><li> and so on ……<h3 id="跑出舒适区"><a href="#跑出舒适区" class="headerlink" title="跑出舒适区"></a>跑出舒适区</h3>准备充分一点，热身全面一点，跑后拉伸姿势多一点，跑出舒适区，拉高耐受阈值。<h3 id="感受-放空-享受"><a href="#感受-放空-享受" class="headerlink" title="感受 放空 享受"></a>感受 放空 享受</h3>跑步不开心，躺着做咸鱼咩？</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>跑</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>运动 跑步</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>hexo 命令 fluid 配置 markdown 语法 指北</title>
+    <link href="/uncategorized/2021-05/hello-world/"/>
+    <url>/uncategorized/2021-05/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p> <a href="https://hexo.io/">Hexo</a>!  Check <a href="https://hexo.io/docs/">documentation</a> for more info.<br> <a href="https://fluid-dev.github.io/hexo-fluid-docs/guide/#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">fluid</a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><h3 id="for-ref"><a href="#for-ref" class="headerlink" title="for ref"></a>for ref</h3><p><a href="https://wizardforcel.gitbooks.io/markdown-simple-world/content/hexo-tutor-1.html">how to</a><br><a href="https://erenship.com/posts/40222.html#****">fluid customization</a><br><a href="https://blog.csdn.net/qq_36264495/article/details/112448622">hexo的fluid主题添加瀑布流懒加载相册功能</a><br><a href="https://github.com/521xueweihan/git-tips">git-tips</a><br>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>早</title>
+    <link href="/wakeup/2021-05/%E6%97%A9/"/>
+    <url>/wakeup/2021-05/%E6%97%A9/</url>
+    
+    <content type="html"><![CDATA[<p> <a href="https://www.liuxue86.com/k_%E6%9C%B1%E5%AD%90%E5%AE%B6%E8%AE%AD%E5%85%A8%E6%96%87/">朱子家训-朱柏庐</a></p><p>　　黎明即起，洒扫庭除，要内外整洁;</p><p>　　既昏便息，关锁门户，必亲自检点。</p><p>　　一粥一饭，当思来处不易;</p><p>　　半丝半缕，恒念物力维艰。</p><p>　　宜未雨而绸缪，</p><p>　　毋临渴而掘井。</p><p>　　自奉必须俭约，</p><p>　　宴客切勿留连。</p><p>　　器具质而洁，瓦缶胜金玉;</p><p>　　饮食约而精，园蔬胜珍馐。</p><p>　　勿营华屋，勿谋良田。</p><p>　　三姑六婆，实淫盗之媒;</p><p>　　婢美妾娇，非闺房之福。</p><p>　　奴仆勿用俊美，妻妾切忌艳妆。</p><p>　　祖宗虽远，祭祀不可不诚;</p><p>　　子孙虽愚，经书不可不读。</p><p>　　居身务期质朴，</p><p>　　教子要有义方。</p><p>　　勿贪意外之财，</p><p>　　勿饮过量之酒。</p><p>　　与肩挑贸易，勿占便宜;</p><p>　　见贫苦亲邻，须多温恤。</p><p>　　刻薄成家，理无久享;</p><p>　　伦常乖舛，立见消亡。</p><p>　　兄弟叔侄，须多分润寡;</p><p>　　长幼内外，宜法属辞严。</p><p>　　听妇言，乖骨肉，岂是丈夫;</p><p>　　重资财，薄父母，不成人子。</p><p>　　嫁女择佳婿，毋索重聘;</p><p>　　娶媳求淑女，毋计厚奁。</p><p>　　见富贵而生谗容者，最可耻;</p><p>　　遇贫穷而作骄态者，贱莫甚。</p><p>　　居家戒争讼，讼则终凶;</p><p>　　处世戒多言，言多必失。</p><p>　　毋恃势力而凌逼孤寡，</p><p>　　勿贪口腹而恣杀生禽。</p><p>　　乖僻自是，悔误必多;</p><p>　　颓惰自甘，家道难成。</p><p>　　狎昵恶少，久必受其累;</p><p>　　屈志老成，急则可相依。</p><p>　　轻听发言，安知非人之谮诉，当忍耐三思;因事相争，安知非我之不是，须平心暗想。</p><p>　　施惠勿念，受恩莫忘。</p><p>　　凡事当留余地，</p><p>　　得意不宜再往。</p><p>　　人有喜庆，不可生妒忌心;</p><p>　　人有祸患，不可生喜幸心。</p><p>　　善欲人见，不是真善;</p><p>　　恶恐人知，便是大恶。</p><p>　　见色而起淫心，报在妻女。</p><p>　　匿怨而用暗箭，祸延子孙。</p><p>　　家门和顺，虽饔飧不继，亦有余欢;</p><p>　　国课早完，即囊橐无余，自得至乐。</p><p>　　读书志在圣贤，为官心存君国。</p><p>　　守分安命，顺时听天。</p><p>　　为人若此，庶乎近焉。</p>]]></content>
     
     
     <categories>
@@ -30,10 +87,10 @@
   
   <entry>
     <title>游</title>
-    <link href="/winningcn/2021-05/thinking/%E6%B8%B8/"/>
-    <url>/winningcn/2021-05/thinking/%E6%B8%B8/</url>
+    <link href="/thinking/2021-05/%E6%B8%B8/"/>
+    <url>/thinking/2021-05/%E6%B8%B8/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>北冥有鱼，其名为鲲。鲲之大，不知其几千里也；化而为鸟，其名为鹏。鹏之背，不知其几千里也；怒而飞，其翼若垂天之云。<br>险夷原不滞胸中，何异浮云过太空？<br>夜静海涛三万里，月明飞锡下天风。</p>]]></content>
     
     
     <categories>
@@ -55,10 +112,10 @@
   
   <entry>
     <title>读</title>
-    <link href="/winningcn/2021-05/reading/%E8%AF%BB/"/>
-    <url>/winningcn/2021-05/reading/%E8%AF%BB/</url>
+    <link href="/reading/2021-05/%E8%AF%BB/"/>
+    <url>/reading/2021-05/%E8%AF%BB/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>良心和怯懦其实是一回事。</p>]]></content>
     
     
     <categories>
@@ -80,10 +137,10 @@
   
   <entry>
     <title>写</title>
-    <link href="/winningcn/2021-05/writing/%E5%86%99/"/>
-    <url>/winningcn/2021-05/writing/%E5%86%99/</url>
+    <link href="/writing/2021-05/%E5%86%99/"/>
+    <url>/writing/2021-05/%E5%86%99/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>黑洞和太阳。</p>]]></content>
     
     
     <categories>
@@ -105,10 +162,10 @@
   
   <entry>
     <title>跑</title>
-    <link href="/winningcn/2021-05/running/%E8%B7%91/"/>
-    <url>/winningcn/2021-05/running/%E8%B7%91/</url>
+    <link href="/running/2021-05/%E8%B7%91/"/>
+    <url>/running/2021-05/%E8%B7%91/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>寻找别样的风景</p>]]></content>
     
     
     <categories>
@@ -130,10 +187,10 @@
   
   <entry>
     <title>指北</title>
-    <link href="/winningcn/2021-05/Polestar/%E6%8C%87%E5%8C%97/"/>
-    <url>/winningcn/2021-05/Polestar/%E6%8C%87%E5%8C%97/</url>
+    <link href="/Polestar/2021-05/%E6%8C%87%E5%8C%97/"/>
+    <url>/Polestar/2021-05/%E6%8C%87%E5%8C%97/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>如果我不知道要驶向哪个港口，就没有任何风向适合我。</p>]]></content>
     
     
     <categories>
@@ -148,19 +205,6 @@
       <tag>指北</tag>
       
     </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/winningcn/2021-05/uncategorized/hello-world/"/>
-    <url>/winningcn/2021-05/uncategorized/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
     
   </entry>
   
