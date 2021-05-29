@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>长期主义</title>
+    <link href="/writing/2021-05/%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89/"/>
+    <url>/writing/2021-05/%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89/</url>
+    
+    <content type="html"><![CDATA[<h3 id="长期的计划怎么样才能不会变形"><a href="#长期的计划怎么样才能不会变形" class="headerlink" title="长期的计划怎么样才能不会变形"></a>长期的计划怎么样才能不会变形</h3><p>这就要观察我是如何数十年如一日的 做到到点吃饭，睡觉。<br>为什么会这样？ 本能的需要，还有对如果不这么做后果的直接感受，另外理性告诉我，拒绝这么做的结果。<br>因此:</p><ul><li>计划是必要的么</li><li>计划变形会给我带来负面感受么</li><li>我能接受计划变形的后果么<h3 id="时间上的有限-我们能接受多少个长期计划"><a href="#时间上的有限-我们能接受多少个长期计划" class="headerlink" title="时间上的有限 我们能接受多少个长期计划"></a>时间上的有限 我们能接受多少个长期计划</h3>慎重确定长期计划，不要多，要有说服自己必须坚持下去的需要，以及理由。<h3 id="空间上的局限-我们能改变的只有自己及少数周边环境"><a href="#空间上的局限-我们能改变的只有自己及少数周边环境" class="headerlink" title="空间上的局限 我们能改变的只有自己及少数周边环境"></a>空间上的局限 我们能改变的只有自己及少数周边环境</h3>物理上的空间是肉身所在，互联网能拓展多大？互联网有没有局限？<h3 id="心理上的焦虑"><a href="#心理上的焦虑" class="headerlink" title="心理上的焦虑"></a>心理上的焦虑</h3>所有的技巧都是心法，所有的感受都是心流，不滞。</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>写</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>长期主义</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>六月指北</title>
     <link href="/%E5%8C%97%E6%9E%81%E6%98%9F/2021-05/%E5%85%AD%E6%9C%88%E6%8C%87%E5%8C%97/"/>
     <url>/%E5%8C%97%E6%9E%81%E6%98%9F/2021-05/%E5%85%AD%E6%9C%88%E6%8C%87%E5%8C%97/</url>
@@ -52,7 +77,7 @@
     <link href="/uncategorized/2021-05/hello-world/"/>
     <url>/uncategorized/2021-05/hello-world/</url>
     
-    <content type="html"><![CDATA[<p> <a href="https://hexo.io/">Hexo</a>!  Check <a href="https://hexo.io/docs/">documentation</a> for more info.<br> <a href="https://fluid-dev.github.io/hexo-fluid-docs/guide/#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">fluid</a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><h3 id="for-ref"><a href="#for-ref" class="headerlink" title="for ref"></a>for ref</h3><p><a href="https://wizardforcel.gitbooks.io/markdown-simple-world/content/hexo-tutor-1.html">how to</a><br><a href="https://erenship.com/posts/40222.html#****">fluid customization</a><br><a href="https://blog.csdn.net/qq_36264495/article/details/112448622">hexo的fluid主题添加瀑布流懒加载相册功能</a><br><a href="https://github.com/521xueweihan/git-tips">git-tips</a><br>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p> <a href="https://hexo.io/">Hexo</a>!  Check <a href="https://hexo.io/docs/">documentation</a> for more info.<br> <a href="https://fluid-dev.github.io/hexo-fluid-docs/guide/#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">fluid</a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><h3 id="clean"><a href="#clean" class="headerlink" title="clean"></a>clean</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo clean<br></code></pre></td></tr></table></figure><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><h3 id="hexo-支持的markdown特性"><a href="#hexo-支持的markdown特性" class="headerlink" title="hexo 支持的markdown特性"></a>hexo 支持的markdown特性</h3><p><sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label="配置git">[1]</span></a></sup></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy <br></code></pre></td></tr></table></figure><div class="note note-success">            <p>文字 或者 <code>markdown</code> 均可 primary secondary success danger warning info light</p>          </div><span class="label label-primary">text</span><a class="btn" href="url"  title="title" target="_blank">text</a>            <input type="checkbox" disabled checked="checked">text          <div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="/img/index_z.JPG"></div><div class="group-image-wrap"><img src="/img/index_y.JPG"></div><div class="group-image-wrap"><img src="/img/index_d.JPG"></div></div><div class="group-image-row"><div class="group-image-wrap"><img src="/img/index_x.JPG"></div><div class="group-image-wrap"><img src="/img/index_p.JPG"></div></div></div><h3 id="for-ref"><a href="#for-ref" class="headerlink" title="for ref"></a>for ref</h3><p><a href="https://wizardforcel.gitbooks.io/markdown-simple-world/content/hexo-tutor-1.html">how to</a><br><a href="https://erenship.com/posts/40222.html#****">fluid customization</a><br><a href="https://blog.csdn.net/qq_36264495/article/details/112448622">hexo的fluid主题添加瀑布流懒加载相册功能</a><br><a href="https://github.com/521xueweihan/git-tips">git-tips</a><br>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><section class="footnotes"><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span>配置git<a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section>]]></content>
     
     
     
