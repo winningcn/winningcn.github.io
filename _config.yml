@@ -4,7 +4,7 @@
 
 # Site
 title: 不二顽童
-subtitle: ''
+subtitle: '早游读写跑'
 description: ''
 keywords:
 author: 不二顽童
@@ -13,8 +13,10 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'  https://winningcn.github.io/winningcn/
-url: http://132.145.113.162
-permalink: :year-:month/:category/:title/
+# url: http://132.145.113.162
+# url: https://winningcn.github.io/winningcn/
+url: http://example.com
+permalink: :category/:year-:month/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -109,5 +111,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:winningcn/winningcn.git
+  repo: git@github.com:winningcn/winningcn.github.io.git
   branch: main
