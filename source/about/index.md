@@ -3,4 +3,6 @@ title: about
 date: 2021-05-27 08:55:33
 layout: about
 ---
-这里写关于页的正文，支持 Markdown, HTML
+吃面食，配大蒜，不抽烟，酒量半斤八两。
+**体重记录**
+- 2021-5        72kg
