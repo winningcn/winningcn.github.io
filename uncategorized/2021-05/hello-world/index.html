@@ -225,7 +225,7 @@
     
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      377 字
+      527 字
     </span>
   
 
@@ -235,7 +235,7 @@
       <i class="iconfont icon-clock-fill"></i>
       
       
-      7
+      9
        分钟
     </span>
   
@@ -268,7 +268,7 @@
             <h1 style="display: none">hexo 命令 fluid 配置 markdown 语法 指北</h1>
             
             <div class="markdown-body">
-              <p> <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>!  Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info.<br> <a target="_blank" rel="noopener" href="https://fluid-dev.github.io/hexo-fluid-docs/guide/#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">fluid</a></p>
+              <p> <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>!  Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. <a target="_blank" rel="noopener" href="https://fluid-dev.github.io/hexo-fluid-docs/guide/#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">fluid</a></p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
 
 <p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
@@ -277,10 +277,10 @@
 
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
 
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><h3 id="hexo-支持的markdown特性"><a href="#hexo-支持的markdown特性" class="headerlink" title="hexo 支持的markdown特性"></a>hexo 支持的markdown特性</h3><p><sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label="配置git
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><p><sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label="配置git
 ">[1]</span></a></sup></p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy <br></code></pre></td></tr></table></figure>
-<div class="note note-success">
+<h3 id="hexo-支持的markdown特性"><a href="#hexo-支持的markdown特性" class="headerlink" title="hexo 支持的markdown特性"></a>hexo 支持的markdown特性</h3><div class="note note-success">
             <p>文字 或者 <code>markdown</code> 均可 primary secondary success danger warning info light</p>
           </div>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">&#123;% note success %&#125;<br>文字 或者 `markdown` 均可 primary secondary success danger warning info light<br>&#123;% endnote %&#125;<br></code></pre></td></tr></table></figure>
@@ -297,8 +297,14 @@
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs bash">&#123;% gi total 5 3-2 %&#125;<br>  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)<br>  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)<br>  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)<br>  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)<br>  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)<br>&#123;% endgi %&#125;<br></code></pre></td></tr></table></figure>
 <p>jsdeliver 静态图片</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><code class="hljs bash">![banner_2](https://cdn.jsdelivr.net/gh/winningcn/PB/img/banner_2.JPG)<br>![inde_1](https://cdn.jsdelivr.net/gh/winningcn/PB/img/inde_1.JPG)<br>![inde_2](https://cdn.jsdelivr.net/gh/winningcn/PB/img/inde_2.JPG)<br>![avatar](https://cdn.jsdelivr.net/gh/winningcn/PB/img/avatar.png)<br>![index_b](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_b.JPG)<br>![favicon](https://cdn.jsdelivr.net/gh/winningcn/PB/img/favicon.png)<br>![index_x](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_x.JPG)<br>![index_d](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_d.JPG)<br>![index_p](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_p.JPG)<br>![index_y](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)<br>![loading](https://cdn.jsdelivr.net/gh/winningcn/PB/img/loading.gif)<br>![police_beian](https://cdn.jsdelivr.net/gh/winningcn/PB/img/police_beian.png)<br>![index_z](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_z.JPG)<br>![wechat_show](https://cdn.jsdelivr.net/gh/winningcn/PB/img/wechat_show.png)<br>![banner_1](https://cdn.jsdelivr.net/gh/winningcn/PB/img/banner_1.png)<br>![default](https://cdn.jsdelivr.net/gh/winningcn/PB/img/default.png)<br></code></pre></td></tr></table></figure>
-
-<h3 id="for-ref"><a href="#for-ref" class="headerlink" title="for ref"></a>for ref</h3><p><a target="_blank" rel="noopener" href="https://wizardforcel.gitbooks.io/markdown-simple-world/content/hexo-tutor-1.html">how to</a><br><a target="_blank" rel="noopener" href="https://erenship.com/posts/40222.html#****">fluid customization</a><br><a target="_blank" rel="noopener" href="https://blog.csdn.net/qq_36264495/article/details/112448622">hexo的fluid主题添加瀑布流懒加载相册功能</a><br><a target="_blank" rel="noopener" href="https://github.com/521xueweihan/git-tips">git-tips</a><br>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<h3 id="git-tips"><a href="#git-tips" class="headerlink" title="git tips"></a>git tips</h3><p>如何删除 github 文件夹</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 步骤：（以删除.idea文件夹为例）</span><br><br>git rm -r --cached .idea  <span class="hljs-comment">#--cached不会把本地的.idea删除</span><br>git commit -m <span class="hljs-string">&#x27;delete .idea dir&#x27;</span><br>git push -u origin master<br></code></pre></td></tr></table></figure>
+<p>如何撤消git rm</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 如果你已经提交更改，则：</span><br><br>git reset (--hard) HEAD~1  <span class="hljs-comment">#彻底回退到指定commit-id的状态，暂存区和工作区也会变为指定commit-id版本的内容</span><br><span class="hljs-comment"># 如果不是那么：</span><br><br>git reset<br>git checkout -- $(git ls-files -d)<br></code></pre></td></tr></table></figure>
+<p>git 本地远端 对齐</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">git pull --rebase origin master<br><span class="hljs-comment"># 再次执行</span><br>git push origin master<br></code></pre></td></tr></table></figure>
+<p><a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/31443926">上传github仓库主分支一般步骤</a></p>
+<h3 id="for-ref"><a href="#for-ref" class="headerlink" title="for ref"></a>for ref</h3><p><a target="_blank" rel="noopener" href="https://wizardforcel.gitbooks.io/markdown-simple-world/content/hexo-tutor-1.html">hexo how to</a><br><a target="_blank" rel="noopener" href="https://erenship.com/posts/40222.html#****">fluid customization</a><br><a target="_blank" rel="noopener" href="https://blog.csdn.net/qq_36264495/article/details/112448622">hexo的fluid主题添加瀑布流懒加载相册功能</a><br><a target="_blank" rel="noopener" href="https://github.com/521xueweihan/git-tips">git-tips</a><br>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 <h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><section class="footnotes"><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span>配置git
 <a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section>
             </div>
