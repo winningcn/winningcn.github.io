@@ -5,8 +5,7 @@ banner_img: https://cdn.jsdelivr.net/gh/winningcn/PB/img/banner_1.JPG
 excerpt: 配置啥的，不明白的看看。
 hide:
 ---
- [Hexo](https://hexo.io/)!  Check [documentation](https://hexo.io/docs/) for more info.  
- [fluid](https://fluid-dev.github.io/hexo-fluid-docs/guide/#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95)
+ [Hexo](https://hexo.io/)!  Check [documentation](https://hexo.io/docs/) for more info. [fluid](https://fluid-dev.github.io/hexo-fluid-docs/guide/#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95)
 
 ## Quick Start
 
@@ -36,11 +35,11 @@ $ hexo server
 ```
 
 ### Deploy to remote sites 
-### hexo 支持的markdown特性
 [^1]
 ``` bash 
 $ hexo deploy 
 ```
+### hexo 支持的markdown特性
 {% note success %}
 文字 或者 `markdown` 均可 primary secondary success danger warning info light
 {% endnote %}
@@ -97,9 +96,35 @@ jsdeliver 静态图片
 ![banner_1](https://cdn.jsdelivr.net/gh/winningcn/PB/img/banner_1.png)
 ![default](https://cdn.jsdelivr.net/gh/winningcn/PB/img/default.png)
 ```
+### git tips
+如何删除 github 文件夹
+``` bash
+# 步骤：（以删除.idea文件夹为例）
+
+git rm -r --cached .idea  #--cached不会把本地的.idea删除
+git commit -m 'delete .idea dir'
+git push -u origin master
+```
+如何撤消git rm
+``` bash
+# 如果你已经提交更改，则：
+
+git reset (--hard) HEAD~1  #彻底回退到指定commit-id的状态，暂存区和工作区也会变为指定commit-id版本的内容
+# 如果不是那么：
+
+git reset
+git checkout -- $(git ls-files -d)
+```
+git 本地远端 对齐
+``` bash
+git pull --rebase origin master
+# 再次执行
+git push origin master
+```
+[上传github仓库主分支一般步骤](https://zhuanlan.zhihu.com/p/31443926)
 
 ### for ref 
-[how to](https://wizardforcel.gitbooks.io/markdown-simple-world/content/hexo-tutor-1.html)
+[hexo how to](https://wizardforcel.gitbooks.io/markdown-simple-world/content/hexo-tutor-1.html)
 [fluid customization](https://erenship.com/posts/40222.html#****)
 [hexo的fluid主题添加瀑布流懒加载相册功能](https://blog.csdn.net/qq_36264495/article/details/112448622)
 [git-tips](https://github.com/521xueweihan/git-tips)
