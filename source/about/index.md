@@ -4,5 +4,6 @@ date: 2021-05-27 08:55:33
 layout: about
 ---
 吃面食，配大蒜，不抽烟，酒量半斤八两。
+
 **体重记录**
-- 2021-5        72kg
+- 2021-5  <span id="weight" > 72    </span>kg 当前      BMI :**<span id="bmi"> </span>**    <span id="bmi-category"></span>

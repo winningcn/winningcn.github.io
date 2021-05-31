@@ -122,7 +122,13 @@ git pull --rebase origin master
 git push origin master
 ```
 [上传github仓库主分支一般步骤](https://zhuanlan.zhihu.com/p/31443926)
+### 更新
 
+2021-5-31 about 页面 增加播放器，增加 BMI[^2] 计算，hexo 的 injector.js 一定要放在 \hexo\themes\fluid\scripts 目录下。
+
+### Todo
+[给 Hexo 博客添加 PWA 支持 ](https://xiejilu.com/2020/04/23/hexo-pwa/)
+[HEXO INJECTOR](https://blog.2to.fun/post/hexo-injector/)
 ### for ref 
 [hexo how to](https://wizardforcel.gitbooks.io/markdown-simple-world/content/hexo-tutor-1.html)
 [fluid customization](https://erenship.com/posts/40222.html#****)
@@ -131,3 +137,4 @@ git push origin master
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 ## 参考
 [^1]: 配置git
+[^2] [BMI]https://60minutejs.vercel.app/BMI-Calculator/index.html
