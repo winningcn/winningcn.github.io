@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>杭州师大的前端学习课程</title>
+    <link href="/recommend/2021-06/%E6%9D%AD%E5%B7%9E%E5%B8%88%E5%A4%A7%E7%9A%84%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B/"/>
+    <url>/recommend/2021-06/%E6%9D%AD%E5%B7%9E%E5%B8%88%E5%A4%A7%E7%9A%84%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B/</url>
+    
+    <content type="html"><![CDATA[<h2 id="李阳-副教授"><a href="#李阳-副教授" class="headerlink" title="李阳 副教授"></a><a href="http://mooc1.chaoxing.com/course/87155873.html">李阳 副教授</a></h2><p>本课程以介绍前端设计的基本概念入手，首先通过结合HTML5、CSS3以及Javascript语言，对WEB程序设计做了基础性的入门介绍；然后结合MVC模型，深入讲解DIV盒子模型，同时讲解js高级框架语言JQuery，以及移动平台的Bootstrap框架，课程实验结合了Ajax异步式数据调用、地图应用、Excel报表、数据分页等经典应用案例。</p><hr><p>参考教材<br>1．W3CSchool，<a href="http://www.w3school.com.cn/">http://www.w3school.com.cn</a></p><ol start="2"><li><p>JQuery, <a href="http://jquery.com/">http://jquery.com</a></p></li><li><p>Bootstarp, <a href="http://www.bootcss.com/">http://www.bootcss.com</a></p></li><li><p>SublimeText, <a href="http://www.sublimetext.com/">http://www.sublimetext.com</a></p></li><li><p>百度地图Api, <a href="http://lbsyun.baidu.com/">http://lbsyun.baidu.com</a></p></li><li><p>JavaScript-Excel API, <a href="https://github.com/SheetJS/js-xls">https://github.com/SheetJS/js-xls</a></p></li><li><p>Font Framework, <a href="http://fontawesome.io/">http://fontawesome.io</a></p></li><li><p>矢量字体库, <a href="http://iconfont.cn/">http://iconfont.cn</a></p></li><li><p>Alice Framework, <a href="http://aralejs.org/">http://aralejs.org</a></p></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>酷玩推荐</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>前端学习</tag>
+      
+      <tag>基础</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>有疑有解第一期 —— windows 下笔记本编写sh脚本在 ubuntu 下无法解析</title>
     <link href="/Q-A/2021-06/%E6%9C%89%E7%96%91%E6%9C%89%E8%A7%A3%E7%AC%AC%E4%B8%80%E6%9C%9F-%E2%80%94%E2%80%94-windows-%E4%B8%8B%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%BC%96%E5%86%99%E8%84%9A%E6%9C%AC%E5%9C%A8-ubuntu-%E4%B8%8B%E6%97%A0%E6%B3%95%E8%A7%A3%E6%9E%90/"/>
     <url>/Q-A/2021-06/%E6%9C%89%E7%96%91%E6%9C%89%E8%A7%A3%E7%AC%AC%E4%B8%80%E6%9C%9F-%E2%80%94%E2%80%94-windows-%E4%B8%8B%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%BC%96%E5%86%99%E8%84%9A%E6%9C%AC%E5%9C%A8-ubuntu-%E4%B8%8B%E6%97%A0%E6%B3%95%E8%A7%A3%E6%9E%90/</url>
