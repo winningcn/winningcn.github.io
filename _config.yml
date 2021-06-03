@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 不二顽童
+title: ING's 赛博空间
 subtitle: '早游读写跑'
 description: ''
 keywords:
-author: 不二顽童
+author: ing
 language: zh-CN
 timezone: ''
 
@@ -70,12 +70,10 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
-            早: wakeup
-            游: thinking
-            读: reading
-            写: writing
-            跑: running 
-            指北: Polestar
+            hexo折腾: hexo
+            孔见周刊: view
+            有疑有解: Q-A
+            酷玩推荐: recommend        
 tag_map:
 
 # Metadata elements
