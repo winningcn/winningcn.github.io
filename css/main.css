@@ -1292,21 +1292,18 @@ mjx-container svg:focus,
   text-overflow: ellipsis;
 }
 .index-card {
-  margin-bottom: 2.5rem;
+  margin-bottom: 1rem;
+}
+.index-img {
+  color: var(--sec-text-color);
 }
 .index-img img {
   display: block;
   width: 100%;
-  height: 10rem;
-  object-fit: cover;
-  box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
-  border-radius: 0.25rem;
 }
 .index-info {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
 .index-header {
@@ -1332,6 +1329,7 @@ mjx-container svg:focus,
 }
 .index-excerpt {
   color: var(--sec-text-color);
+  font-size: 0.9rem;
   margin: 0.5rem 0 0.5rem 0;
   max-height: calc(1.4rem * 3);
   line-height: 1.4rem;
@@ -1348,7 +1346,7 @@ mjx-container svg:focus,
 }
 @media (max-width: 767px) {
   .index-info {
-    padding-top: 1.25rem;
+    padding-top: 0.5rem;
   }
   .index-header {
     font-size: 1.25rem;
