@@ -43,12 +43,8 @@ function checkCategory(value) {
       let bmi = weightgroup[i].innerHTML / (height * height); // bmi in kg/cm*cm
       bmiMetric = (bmi * 10000).toFixed(1); //bmi in kg/m*m rounded to 1 decimal
       bmigroup[i].innerHTML = bmiMetric;
-      bmicatgroup[i].innerHTML = checkCategory(bmiMetric)[0]
-      bmicatgroup[i].style.color = checkCategory(bmiMetric)[1]
-      
-      // console.log(bmiMetric)
-
-
+     [bmicatgroup[i].innerHTML,bmicatgroup[i].style.color]= checkCategory(bmiMetric);
+    
     }
 
 

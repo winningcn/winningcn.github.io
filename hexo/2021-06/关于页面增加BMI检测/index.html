@@ -14,11 +14,11 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   
   <meta name="theme-color" content="#2f4154">
-  <meta name="description" content="高水平降维讲解。">
+  <meta name="description" content="不可能改进一项无法测量的数据">
   <meta name="author" content="ing">
   <meta name="keywords" content="">
   
-  <title>杭州师大的前端学习课程 - ING&#39;s 赛博空间</title>
+  <title>关于页面增加BMI检测 - ING&#39;s 赛博空间</title>
 
   <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
 
@@ -187,7 +187,7 @@
       <div class="full-bg-img">
         <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.6)">
           <div class="page-header text-center fade-in-up">
-            <span class="h2" id="subtitle" title="杭州师大的前端学习课程">
+            <span class="h2" id="subtitle" title="关于页面增加BMI检测">
               
             </span>
 
@@ -197,8 +197,8 @@
   
     <span class="post-meta">
       <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-      <time datetime="2021-06-03 11:18" pubdate>
-        2021年6月3日 上午
+      <time datetime="2021-06-07 07:30" pubdate>
+        2021年6月7日 早上
       </time>
     </span>
   
@@ -209,7 +209,7 @@
     
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      181 字
+      324 字
     </span>
   
 
@@ -219,7 +219,7 @@
       <i class="iconfont icon-clock-fill"></i>
       
       
-      2
+      5
        分钟
     </span>
   
@@ -249,29 +249,25 @@
         <div class="py-5" id="board">
           <article class="post-content mx-auto">
             <!-- SEO header -->
-            <h1 style="display: none">杭州师大的前端学习课程</h1>
+            <h1 style="display: none">关于页面增加BMI检测</h1>
             
             <div class="markdown-body">
-              <h2 id="李阳-副教授"><a href="#李阳-副教授" class="headerlink" title="李阳 副教授"></a><a target="_blank" rel="noopener" href="http://mooc1.chaoxing.com/course/87155873.html">李阳 副教授</a></h2><p>本课程以介绍前端设计的基本概念入手，首先通过结合HTML5、CSS3以及Javascript语言，对WEB程序设计做了基础性的入门介绍；然后结合MVC模型，深入讲解DIV盒子模型，同时讲解js高级框架语言JQuery，以及移动平台的Bootstrap框架，课程实验结合了Ajax异步式数据调用、地图应用、Excel报表、数据分页等经典应用案例。</p>
-<hr>
-<p>参考教材<br>1．W3CSchool，<a target="_blank" rel="noopener" href="http://www.w3school.com.cn/">http://www.w3school.com.cn</a></p>
-<ol start="2">
-<li><p>JQuery, <a target="_blank" rel="noopener" href="http://jquery.com/">http://jquery.com</a></p>
-</li>
-<li><p>Bootstarp, <a target="_blank" rel="noopener" href="http://www.bootcss.com/">http://www.bootcss.com</a></p>
-</li>
-<li><p>SublimeText, <a target="_blank" rel="noopener" href="http://www.sublimetext.com/">http://www.sublimetext.com</a></p>
-</li>
-<li><p>百度地图Api, <a target="_blank" rel="noopener" href="http://lbsyun.baidu.com/">http://lbsyun.baidu.com</a></p>
-</li>
-<li><p>JavaScript-Excel API, <a target="_blank" rel="noopener" href="https://github.com/SheetJS/js-xls">https://github.com/SheetJS/js-xls</a></p>
-</li>
-<li><p>Font Framework, <a target="_blank" rel="noopener" href="http://fontawesome.io/">http://fontawesome.io</a></p>
-</li>
-<li><p>矢量字体库, <a target="_blank" rel="noopener" href="http://iconfont.cn/">http://iconfont.cn</a></p>
-</li>
-<li><p>Alice Framework, <a target="_blank" rel="noopener" href="http://aralejs.org/">http://aralejs.org</a></p>
-</li>
+              <h3 id="任务描述"><a href="#任务描述" class="headerlink" title="任务描述"></a>任务描述</h3><ul>
+<li>基于 fluid 主题， 在 about 页面 输入体重，自动生成 BIM 体脂率相关信息 。<h3 id="改动增加页面"><a href="#改动增加页面" class="headerlink" title="改动增加页面"></a>改动增加页面</h3></li>
+<li>改动 hexo\source\about\index.md</li>
+<li>新增 hexo\themes\fluid\scripts\injector.js // injector 似乎必须放在这个目录下面</li>
+<li>新增 hexo\source\js\bmi.js <h3 id="改动逻辑"><a href="#改动逻辑" class="headerlink" title="改动逻辑"></a>改动逻辑</h3></li>
+</ul>
+<ol>
+<li>about index.md   增加 页面 元素 <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs html">- 1998-5 <span class="hljs-tag">&lt;<span class="hljs-name">mark</span>&gt;</span> <span class="hljs-tag">&lt;<span class="hljs-name">span</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;weight&quot;</span> &gt;</span> 40    <span class="hljs-tag">&lt;/<span class="hljs-name">span</span>&gt;</span>kg<span class="hljs-tag">&lt;/<span class="hljs-name">mark</span>&gt;</span> 当前 BMI :**<span class="hljs-tag">&lt;<span class="hljs-name">span</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;bmi&quot;</span>&gt;</span> <span class="hljs-tag">&lt;/<span class="hljs-name">span</span>&gt;</span>**    <span class="hljs-tag">&lt;<span class="hljs-name">span</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;bmi-category&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">span</span>&gt;</span><br></code></pre></td></tr></table></figure></li>
+<li>bmi.js 提取 index 数据 计算 并 显示 </li>
+</ol>
+<p><strong>计算</strong></p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><code class="hljs js"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">checkCategory</span>(<span class="hljs-params">value</span>) </span>&#123;<br>  <span class="hljs-keyword">if</span> (<span class="hljs-built_in">isFinite</span>(value)) &#123;<br>    <span class="hljs-keyword">if</span> (value &gt;= <span class="hljs-number">30.0</span>) &#123;<br>      <span class="hljs-keyword">return</span> [<span class="hljs-string">`Obese`</span>];<br>    &#125; <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (value &gt;= <span class="hljs-number">25.0</span> &amp;&amp; value &lt;= <span class="hljs-number">29.9</span>) &#123;<br><br>      <span class="hljs-keyword">return</span> [<span class="hljs-string">`超标了`</span>, <span class="hljs-string">&#x27;red&#x27;</span>];<br>    &#125; <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (value &gt;= <span class="hljs-number">18.5</span> &amp;&amp; value &lt;= <span class="hljs-number">24.9</span>) &#123;<br><br>      <span class="hljs-keyword">return</span> [<span class="hljs-string">`正常`</span>, <span class="hljs-string">&#x27;black&#x27;</span>];<br>    &#125; <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (value &lt;= <span class="hljs-number">18.4</span>) &#123;<br><br>      <span class="hljs-keyword">return</span> [<span class="hljs-string">`太瘦了`</span>, <span class="hljs-string">&#x27;purple&#x27;</span>];<br>    &#125;<br>  &#125; <span class="hljs-keyword">else</span> &#123;<br><br>    <span class="hljs-keyword">return</span> <span class="hljs-string">``</span>;<br>  &#125;<br>&#125;<br></code></pre></td></tr></table></figure>
+<p><strong>提取并展示</strong></p>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs js"><span class="hljs-keyword">let</span> weightgroup = <span class="hljs-built_in">document</span>.getElementsByName(<span class="hljs-string">&#x27;weight&#x27;</span>)<br>   <span class="hljs-keyword">let</span> bmigroup = <span class="hljs-built_in">document</span>.getElementsByName(<span class="hljs-string">&quot;bmi&quot;</span>)<br>   <span class="hljs-keyword">let</span> bmicatgroup = <span class="hljs-built_in">document</span>.getElementsByName(<span class="hljs-string">&quot;bmi-category&quot;</span>)<br>   <span class="hljs-keyword">let</span> height = <span class="hljs-number">175</span>;<br>   <span class="hljs-keyword">let</span> weightindex = weightgroup.length<br>   <span class="hljs-keyword">let</span> bmiMetric;<br>   <span class="hljs-comment">//console.log(weightgroup.length)</span><br>   <span class="hljs-keyword">for</span> (<span class="hljs-keyword">let</span> i = <span class="hljs-number">0</span>; i &lt; weightindex; i++) &#123;<br>     <span class="hljs-keyword">let</span> bmi = weightgroup[i].innerHTML / (height * height); <span class="hljs-comment">// bmi in kg/cm*cm</span><br>     bmiMetric = (bmi * <span class="hljs-number">10000</span>).toFixed(<span class="hljs-number">1</span>); <span class="hljs-comment">//bmi in kg/m*m rounded to 1 decimal</span><br>     bmigroup[i].innerHTML = bmiMetric;<br>    [bmicatgroup[i].innerHTML,bmicatgroup[i].style.color]= checkCategory(bmiMetric);<br></code></pre></td></tr></table></figure>
+<ol start="3">
+<li>injector 注入 bmi.js 和 样式表<h3 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h3><a href="/about">参考</a></li>
 </ol>
 
             </div>
@@ -282,7 +278,7 @@
                   <div class="post-meta mr-3">
                     <i class="iconfont icon-category"></i>
                     
-                      <a class="hover-with-bg" href="/categories/recommend/">酷玩推荐</a>
+                      <a class="hover-with-bg" href="/categories/hexo/">hexo折腾</a>
                     
                   </div>
                 
@@ -290,9 +286,9 @@
                   <div class="post-meta">
                     <i class="iconfont icon-tags"></i>
                     
-                      <a class="hover-with-bg" href="/tags/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0/">前端学习</a>
+                      <a class="hover-with-bg" href="/tags/hexo/">hexo</a>
                     
-                      <a class="hover-with-bg" href="/tags/%E5%9F%BA%E7%A1%80/">基础</a>
+                      <a class="hover-with-bg" href="/tags/bmi/">bmi</a>
                     
                   </div>
                 
@@ -303,18 +299,12 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/hexo/2021-06/%E5%85%B3%E4%BA%8E%E9%A1%B5%E9%9D%A2%E5%A2%9E%E5%8A%A0BMI%E6%A3%80%E6%B5%8B/">
-                        <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">关于页面增加BMI检测</span>
-                        <span class="visible-mobile">上一篇</span>
-                      </a>
-                    
                   </article>
                   <article class="post-next col-6">
                     
                     
-                      <a href="/Q-A/2021-06/%E6%9C%89%E7%96%91%E6%9C%89%E8%A7%A3%E7%AC%AC%E4%B8%80%E6%9C%9F-%E2%80%94%E2%80%94-windows-%E4%B8%8B%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%BC%96%E5%86%99%E8%84%9A%E6%9C%AC%E5%9C%A8-ubuntu-%E4%B8%8B%E6%97%A0%E6%B3%95%E8%A7%A3%E6%9E%90/">
-                        <span class="hidden-mobile">有疑有解第一期 —— windows 下笔记本编写sh脚本在 ubuntu 下无法解析</span>
+                      <a href="/recommend/2021-06/%E6%9D%AD%E5%B7%9E%E5%B8%88%E5%A4%A7%E7%9A%84%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B/">
+                        <span class="hidden-mobile">杭州师大的前端学习课程</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
