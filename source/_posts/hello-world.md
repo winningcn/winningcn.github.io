@@ -38,12 +38,17 @@ $ hexo server
 ```
 
 ### Deploy to remote sites 
-设置 [^1]
+设置  
+
+[^1]: 需设置远端地址
+
 ``` git
 $ hexo deploy 
 ```
 ### hexo 支持的markdown特性
-<mark>参考</mark>
+<mark>参考</mark> 
+
+
 ``` markdown
 <mark>参考</mark>
 ```
@@ -72,9 +77,10 @@ $ hexo deploy
 ``` markdown
 <ruby>饕餮 <rt>tāo tiè</rt></ruby> 是古代中国神话传说中的一种神秘怪物，别名叫 <ruby>狍鸮 <rt>páo xiāo</rt></ruby>，古书《山海经·北次二经》介绍其特点是：其形状如羊身人面，眼在腋下，虎齿人手
 ```
-<del>长蛇座</del> <ins>半人马座</ins> 
+<del>长蛇座</del> ~~~del~~~ <ins>半人马座</ins> 
+
 ``` markdown
-<del>长蛇座</del> <ins>半人马座</ins> 
+<del>长蛇座</del> ~~del~~  <ins>半人马座</ins> 
 ```
 {% gi total 5 3-2 %}
   ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)
@@ -142,8 +148,10 @@ git push origin master
 2021-5-31 about 页面 增加播放器，增加[BMI](https://60minutejs.vercel.app/BMI-Calculator/index.html) 计算，hexo 的 injector.js 一定要放在 \hexo\themes\fluid\scripts 目录下。
 
 ### Todo
-[给 Hexo 博客添加 PWA 支持 ](https://xiejilu.com/2020/04/23/hexo-pwa/)
-[HEXO INJECTOR](https://blog.2to.fun/post/hexo-injector/)
+
+- [ ] [给 Hexo 博客添加 PWA 支持 ](https://xiejilu.com/2020/04/23/hexo-pwa/)
+
+- [x] [HEXO INJECTOR](https://blog.2to.fun/post/hexo-injector/)
 ### for ref 
 [hexo how to](https://wizardforcel.gitbooks.io/markdown-simple-world/content/hexo-tutor-1.html)
 [fluid customization](https://erenship.com/posts/40222.html#****)
@@ -154,6 +162,4 @@ git push origin master
 [css color keywords](http://caibaojian.com/css3/appendix/color-keywords.htm)
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
-<mark>参考</mark>
-[^1]  配置git
-
+ 
