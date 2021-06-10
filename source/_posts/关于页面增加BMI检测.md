@@ -7,7 +7,7 @@ tags:
 - hexo
 category: hexo折腾
 index_img:
-excerpt: 不可能改进一项无法测量的数据
+excerpt: 不可能改进一项无法测量的数据。
 hide:
 ---
 ### 任务描述

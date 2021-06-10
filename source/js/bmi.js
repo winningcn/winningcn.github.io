@@ -35,7 +35,7 @@ function checkCategory(value) {
     let weightgroup = document.getElementsByName('weight')
     let bmigroup = document.getElementsByName("bmi")
     let bmicatgroup = document.getElementsByName("bmi-category")
-    let height = 175;
+    let height = 178;
     let weightindex = weightgroup.length
     let bmiMetric;
     //console.log(weightgroup.length)

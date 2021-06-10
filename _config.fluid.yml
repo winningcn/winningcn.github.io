@@ -307,7 +307,7 @@ navbar:
     - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill",
          submenu: [
         { key: 'hexo折腾', link: '/categories/hexo/' },
-        { key: '孔见周刊:', link: '/categories/view/' },
+        { key: '孔见周刊', link: '/categories/view/' },
         { key: '有疑有解', link: '/categories/Q-A/' },
         { key: '酷玩推荐', link: '/categories/recommend/' },
       ] }
