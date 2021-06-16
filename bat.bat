@@ -1,0 +1,1 @@
+git add .&&git commit -m  %DATE:~5,6%&&git push origin master
