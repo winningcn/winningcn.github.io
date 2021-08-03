@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>function checkCategory(value) {
+function checkCategory(value) {
   if (isFinite(value)) {
     if (value >= 30.0) {
       return [`Obese`];
@@ -43,29 +43,29 @@
       let bmi = weightgroup[i].innerHTML / (height * height); // bmi in kg/cm*cm
       bmiMetric = (bmi * 10000).toFixed(1); //bmi in kg/m*m rounded to 1 decimal
       bmigroup[i].innerHTML = bmiMetric;
-     [bmicatgroup[i].innerHTML,bmicatgroup[i].style.color]= checkCategory(bmiMetric);
-    
+      [bmicatgroup[i].innerHTML, bmicatgroup[i].style.color] = checkCategory(bmiMetric);
+
     }
 
 
     oldLoadAp && oldLoadAp();
     //console.log(checkCategory(bmiMetric))
-    new APlayer({
-      container: document.getElementById('aplayer'),
-      fixed: true,
-      autoplay: false,
-      loop: 'all',
-      order: 'random',
-      theme: '#b7daff',
-      preload: 'none',
-      audio: [
-        {
-          name: '跟着感觉走',
-          artist: 'artist1',
-          url: '/img/Bobby.mp3',
-          cover: '/img/inde_1.JPG'
-        }
-      ]
-    });
+    // new APlayer({
+    //   container: document.getElementById('aplayer'),
+    //   fixed: true,
+    //   autoplay: false,
+    //   loop: 'all',
+    //   order: 'random',
+    //   theme: '#b7daff',
+    //   preload: 'none',
+    //   audio: [
+    //     {
+    //       name: '跟着感觉走',
+    //       artist: 'artist1',
+    //       url: '/img/Bobby.mp3',
+    //       cover: '/img/inde_1.JPG'
+    //     }
+    //   ]
+    // });
   }
 })();
