@@ -1,6 +1,6 @@
 ---
 title: hexo 命令 fluid 配置 markdown 语法 指北
-banner_img: https://cdn.jsdelivr.net/gh/winningcn/PB/img/banner_1.JPG
+banner_img: http://168.138.211.177/img/banner_1.JPG
 tags: 
 - hexo 
 - index 
@@ -83,39 +83,39 @@ $ hexo deploy
 <del>长蛇座</del> ~~del~~  <ins>半人马座</ins> 
 ```
 {% gi total 5 3-2 %}
-  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)
-  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)
-  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)
-  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)
-  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)
+  ![](http://168.138.211.177/img/index_y.JPG)
+  ![](http://168.138.211.177/img/index_y.JPG)
+  ![](http://168.138.211.177/img/index_y.JPG)
+  ![](http://168.138.211.177/img/index_y.JPG)
+  ![](http://168.138.211.177/img/index_y.JPG)
 {% endgi %}
 ``` markdown
 {% gi total 5 3-2 %}
-  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)
-  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)
-  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)
-  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)
-  ![](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)
+  ![](http://168.138.211.177/img/index_y.JPG)
+  ![](http://168.138.211.177/img/index_y.JPG)
+  ![](http://168.138.211.177/img/index_y.JPG)
+  ![](http://168.138.211.177/img/index_y.JPG)
+  ![](http://168.138.211.177/img/index_y.JPG)
 {% endgi %}
 ```
 jsdeliver 静态图片
 ``` markdown
-![banner_2](https://cdn.jsdelivr.net/gh/winningcn/PB/img/banner_2.JPG)
-![inde_1](https://cdn.jsdelivr.net/gh/winningcn/PB/img/inde_1.JPG)
-![inde_2](https://cdn.jsdelivr.net/gh/winningcn/PB/img/inde_2.JPG)
-![avatar](https://cdn.jsdelivr.net/gh/winningcn/PB/img/avatar.png)
-![index_b](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_b.JPG)
-![favicon](https://cdn.jsdelivr.net/gh/winningcn/PB/img/favicon.png)
-![index_x](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_x.JPG)
-![index_d](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_d.JPG)
-![index_p](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_p.JPG)
-![index_y](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_y.JPG)
-![loading](https://cdn.jsdelivr.net/gh/winningcn/PB/img/loading.gif)
-![police_beian](https://cdn.jsdelivr.net/gh/winningcn/PB/img/police_beian.png)
-![index_z](https://cdn.jsdelivr.net/gh/winningcn/PB/img/index_z.JPG)
-![wechat_show](https://cdn.jsdelivr.net/gh/winningcn/PB/img/wechat_show.png)
-![banner_1](https://cdn.jsdelivr.net/gh/winningcn/PB/img/banner_1.png)
-![default](https://cdn.jsdelivr.net/gh/winningcn/PB/img/default.png)
+![banner_2](http://168.138.211.177/img/banner_2.JPG)
+![inde_1](http://168.138.211.177/img/inde_1.JPG)
+![inde_2](http://168.138.211.177/img/inde_2.JPG)
+![avatar](http://168.138.211.177/img/avatar.png)
+![index_b](http://168.138.211.177/img/index_b.JPG)
+![favicon](http://168.138.211.177/img/favicon.png)
+![index_x](http://168.138.211.177/img/index_x.JPG)
+![index_d](http://168.138.211.177/img/index_d.JPG)
+![index_p](http://168.138.211.177/img/index_p.JPG)
+![index_y](http://168.138.211.177/img/index_y.JPG)
+![loading](http://168.138.211.177/img/loading.gif)
+![police_beian](http://168.138.211.177/img/police_beian.png)
+![index_z](http://168.138.211.177/img/index_z.JPG)
+![wechat_show](http://168.138.211.177/img/wechat_show.png)
+![banner_1](http://168.138.211.177/img/banner_1.png)
+![default](http://168.138.211.177/img/default.png)
 ```
 ### git tips
 如何删除 github 文件夹
