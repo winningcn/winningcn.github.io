@@ -1,6 +1,6 @@
 ---
 title: hexo 命令 fluid 配置 markdown 语法 指北
-banner_img: http://168.138.211.177/img/banner_1.JPG
+banner_img: https://www.safty001.eu.org/img/banner_1.JPG
 tags: 
 - hexo 
 - index 

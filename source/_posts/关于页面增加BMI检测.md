@@ -1,6 +1,6 @@
 ---
 title: 关于页面增加BMI检测
-banner_img: 'http://168.138.211.177/img/banner_2.JPG'
+banner_img: 'https://www.safty001.eu.org/img/banner_2.JPG'
 date: 2021-06-07 07:30:22
 tags:
 - bmi

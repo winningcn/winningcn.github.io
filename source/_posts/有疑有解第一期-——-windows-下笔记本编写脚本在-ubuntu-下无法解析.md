@@ -1,6 +1,6 @@
 ---
 title: 有疑有解第一期 —— windows 下笔记本编写sh脚本在 ubuntu 下无法解析
-banner_img: 'http://168.138.211.177/img/banner_2.JPG'
+banner_img: 'https://www.safty001.eu.org/img/banner_2.JPG'
 date: 2021-06-02 13:48:10
 tags: 
 - 编码 

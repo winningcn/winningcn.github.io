@@ -1,6 +1,6 @@
 ---
 title: 2011年的kindle3键盘版发挥余热
-banner_img: 'http://168.138.211.177/img/banner_2.JPG'
+banner_img: 'https://www.safty001.eu.org/img/banner_2.JPG'
 date: 2021-07-09 17:34:27
 tags:
 - kindle
