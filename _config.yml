@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ING's 赛博空间
+title: EHS 数字化之路
 subtitle: '早游读写跑'
 description: ''
 keywords:
@@ -16,7 +16,7 @@ timezone: ''
 # url: http://132.145.113.162
 # url: https://winningcn.github.io/winningcn/
 url: http://example.com
-permalink: :category/:year-:month/:title/
+permalink: :category/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -70,10 +70,10 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
-            hexo折腾: hexo
-            孔见周刊: view
-            有疑有解: Q-A
-            酷玩推荐: recommend        
+            安全PLC: PLC
+            弱电基础: power
+            自动化装配: robotics
+            安全教育: saftyedu        
 tag_map:
 
 # Metadata elements
