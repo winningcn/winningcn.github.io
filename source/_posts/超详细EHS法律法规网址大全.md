@@ -1,7 +1,6 @@
 ---
 title: 超详细EHS法律法规网址大全
-index_img: 
-banner_img: '/img/banner_2.JPG'
+banner_img: '/img/default.png'
 date: 2021-06-03 11:18:53
 tags: 
 - EHS

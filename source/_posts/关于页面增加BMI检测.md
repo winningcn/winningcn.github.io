@@ -1,6 +1,6 @@
 ---
 title: 关于页面增加BMI检测
-banner_img: /img/banner_1.JPG
+banner_img: '/img/default.png'
 date: 2020-03-01 07:30:22
 tags:
 - bmi
