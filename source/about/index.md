@@ -20,10 +20,10 @@ layout: about
 ### 关注范围：
 
 - EHS 数字化
-- 安全PLC
-- 自动化
+- 安全PLC {% label default @IEC61508  %}
+- 自动化  {% label default @GB/T20438  %}
 - 弱电应用、安全
-- 安全咨询
+- 安全咨询  {% label default @ISO14001  %}、{% label default @ISO45001  %}
 - 安全教育
 - 安全宣传设计（平面、视频、动画）
 ---
