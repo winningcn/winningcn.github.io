@@ -3,7 +3,7 @@ title: 标准收集学习
 banner_img: '/img/default.png'
 date: 2023-06-4 22:28:55
 tags:
-category:  
+category: 安全教育
 index_img:
 excerpt:  
 hide: ture
