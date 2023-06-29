@@ -33,6 +33,23 @@ layout: about
 安全数字化卓越能力提供者
 
 ---
+### 项目经验
+#### 消防检查 安全教育
+{% gi total 5 3-2 %}
+  ![消防检查](/img/xm001.png)
+  ![消防检查](/img/xm005.png)
+  ![消防检查](/img/xm003.png)
+  ![消防检查](/img/xm004.png)
+  ![安全教育](/img/xm002.png)
+{% endgi %}
+#### 绿色建材 自动化装配
+{% gi total 3 2-1 %}
+  ![绿色建材](/img/xm009.png)
+  ![中集智能车](/img/xm007.png)
+  ![顺丰物流线](/img/xm008.png)
+
+{% endgi %}
+
 {% note light %}
 **体重记录**{% endnote %}
 
