@@ -3,6 +3,8 @@ title: pl
 banner_img: '/img/default.png'
 date: 2023-08-08 22:28:55
 password: guanguan
+abstract: 小弟弟。
+message: 密码是啥？
 tags:
 - 标准
 

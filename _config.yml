@@ -99,6 +99,10 @@ pagination_dir: page
 include:
 exclude:
 ignore:
+# Security
+##
+encrypt:
+    enable: true
 
 # hexo-hide-posts
 hide_posts:
