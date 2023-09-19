@@ -102,7 +102,7 @@ ignore:
 # Security
 ##
 encrypt:
-    enable: true
+  enable: true
 
 # hexo-hide-posts
 hide_posts:
@@ -120,7 +120,7 @@ hide_posts:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: fluid
-
+# theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
