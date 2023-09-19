@@ -1,0 +1,464 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=&#34;auto&#34;>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.png">
+  <link rel="icon" href="/img/favicon.png">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="description" content="天下事有难易乎？">
+  <meta name="author" content="ing">
+  <meta name="keywords" content="">
+  
+  <title>低压电工取证入门及电工作业劳动防护 - EHS 数字化之路</title>
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
+
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css" />
+  <link  rel="stylesheet" href="/lib/hint/hint.min.css" />
+
+  
+    
+    
+      
+      <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@10.7.2/styles/github-gist.min.css" />
+    
+  
+
+  
+    <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+  
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_kmeydafke9r.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+<!-- 自定义样式保持在最底部 -->
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    var CONFIG = {"hostname":"example.com","root":"/","version":"1.8.11","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null}},"search_path":"/local-search.xml"};
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+
+<body>
+  <header style="height: 50vh;">
+    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand"
+       href="/">&nbsp;<strong>EHS数字化之路</strong>&nbsp;</a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/PLC/">
+                    
+                    安全PLC
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/power/">
+                    
+                    弱电基础
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/robotics/">
+                    
+                    自动化装配
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/saftyedu/">
+                    
+                    安全教育
+                  </a>
+                
+              </div>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" data-toggle="modal" data-target="#modalSearch">&nbsp;<i
+                class="iconfont icon-search"></i>&nbsp;</a>
+          </li>
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="banner" id="banner" parallax=true
+         style="background: url('/img/default.png') no-repeat center center;
+           background-size: cover;">
+      <div class="full-bg-img">
+        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.6)">
+          <div class="page-header text-center fade-in-up">
+            <span class="h2" id="subtitle" title="低压电工取证入门及电工作业劳动防护">
+              
+            </span>
+
+            
+              <div class="mt-3">
+  
+  
+    <span class="post-meta">
+      <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+      <time datetime="2018-06-18 17:10" pubdate>
+        2018年6月18日 下午
+      </time>
+    </span>
+  
+</div>
+
+<div class="mt-1">
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-chart"></i>
+      970 字
+    </span>
+  
+
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-clock-fill"></i>
+      
+      
+      9
+       分钟
+    </span>
+  
+
+  
+  
+</div>
+
+            
+          </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="d-none d-lg-block col-lg-2"></div>
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div class="py-5" id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none">低压电工取证入门及电工作业劳动防护</h1>
+            
+            <div class="markdown-body">
+              <p>电工入门基础要求不高，初中毕业年满18周岁，经过培训，参加理论和实操考试，满分100，80分通过即可取得低压电工操作证。</p>
+<p>如果是正规途径，对实际用电电路没有概念与实际经验的情况下，一般人估计也要几个月的用心学习和准备，才有机会通过，但这也是很基础的入门知识。总体包括电工知识、测量工具、劳动防护、安全隐患识别、事故救援等方面的理论和实操。</p>
+<h5 id="电工作业是特种作业，扎实的理论和动手能力，牢固的安全风险意识，是对自己负责也是对他人负责的表现。"><a href="#电工作业是特种作业，扎实的理论和动手能力，牢固的安全风险意识，是对自己负责也是对他人负责的表现。" class="headerlink" title="电工作业是特种作业，扎实的理论和动手能力，牢固的安全风险意识，是对自己负责也是对他人负责的表现。"></a>电工作业是特种作业，扎实的理论和动手能力，牢固的安全风险意识，是对自己负责也是对他人负责的表现。</h5><h5 id="特种作业对自身及周边环境都有一定的危险性，因此操作之前要务必搞清楚操作对自己及周围造成的危险。"><a href="#特种作业对自身及周边环境都有一定的危险性，因此操作之前要务必搞清楚操作对自己及周围造成的危险。" class="headerlink" title="特种作业对自身及周边环境都有一定的危险性，因此操作之前要务必搞清楚操作对自己及周围造成的危险。"></a>特种作业对自身及周边环境都有一定的危险性，因此操作之前要务必搞清楚操作对自己及周围造成的危险。</h5><h5 id="电的伤害，2米以上高坠的风险，有限空间窒息的风险，突然得电及机器误动作的危险，电动工具的危险等是电工作业常见的劳动伤害。"><a href="#电的伤害，2米以上高坠的风险，有限空间窒息的风险，突然得电及机器误动作的危险，电动工具的危险等是电工作业常见的劳动伤害。" class="headerlink" title="电的伤害，2米以上高坠的风险，有限空间窒息的风险，突然得电及机器误动作的危险，电动工具的危险等是电工作业常见的劳动伤害。"></a>电的伤害，2米以上高坠的风险，有限空间窒息的风险，突然得电及机器误动作的危险，电动工具的危险等是电工作业常见的劳动伤害。</h5><p>因此，从一开始学习就要有安全意识，对即将面对的工作风险做到心中有数，理清操作步骤，养成良好的作业习惯，如避免带电作业、事先验电、合理佩戴劳动防护用品等。</p>
+<p>电工作业即对电气设备、线路的安装维护作业。因此专业上来说，要对常用的电动机、开关断路器、接触器、继电器、互感器有初步的认识，能够用万用表、兆欧表测量其功能是否正常。</p>
+<h5 id="认识了基本的电气元件及其电路符号，能够分清接触器及继电器的线圈和触头部分，是下一步认识电路图的基础。"><a href="#认识了基本的电气元件及其电路符号，能够分清接触器及继电器的线圈和触头部分，是下一步认识电路图的基础。" class="headerlink" title="认识了基本的电气元件及其电路符号，能够分清接触器及继电器的线圈和触头部分，是下一步认识电路图的基础。"></a>认识了基本的电气元件及其电路符号，能够分清接触器及继电器的线圈和触头部分，是下一步认识电路图的基础。</h5><p>很大一部分人对电路图有畏惧心理，其实大可不必，就像一层窗户纸，一旦捅破了，也就不过如此。</p>
+<div class="note note-success">
+            <p>首先要明白，不管什么电路图，都有 电源部分、负载部分、接地部分。这是三大部分。<br>第二要明白，复杂的电路图，也就分 主电路部分 和 控制电路部分，这是两大部分。<br>第三要明白，主电路部分有 电源部分、负载部分、接地部分 三大部分，<br>            控制电路部分也有 电源部分、负载部分、接地部分 三大部分。</p>
+          </div>
+<p>好了基本上也就这么多了。其他就是分析他们的通断得电情况，实现了什么功能，搞懂了，电路图就没问题了。不起眼的接地其实有很大学问 <a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/FLa1wNV8hIzjpMwcb3TDMA">EHS数字之路公众号</a> 我写了一个简介。</p>
+<p>实际工作中面对比较复杂的情况，一般还有安装图、端子接线图，那些更简单，有机会再聊。</p>
+<h5 id="电路图是大部分电工的拦路虎，但相信我，它绝对是个纸老虎。毛主席说过，战略上藐视它，不要被他吓住，战术上重视他，弄清它的组成部分及功能，按照我说的办法拆解它，最终它就是个纸老虎，一捅就破。"><a href="#电路图是大部分电工的拦路虎，但相信我，它绝对是个纸老虎。毛主席说过，战略上藐视它，不要被他吓住，战术上重视他，弄清它的组成部分及功能，按照我说的办法拆解它，最终它就是个纸老虎，一捅就破。" class="headerlink" title="电路图是大部分电工的拦路虎，但相信我，它绝对是个纸老虎。毛主席说过，战略上藐视它，不要被他吓住，战术上重视他，弄清它的组成部分及功能，按照我说的办法拆解它，最终它就是个纸老虎，一捅就破。"></a>电路图是大部分电工的拦路虎，但相信我，它绝对是个纸老虎。毛主席说过，战略上藐视它，不要被他吓住，战术上重视他，弄清它的组成部分及功能，按照我说的办法拆解它，最终它就是个纸老虎，一捅就破。</h5><p>弄懂了电路图，把电气实物按照原理图用导线连起来，并注意标准规范的要求，如导线颜色的要求、端子插入导线数量的要求等，这里就解决了电工实操考试中最大的一个分值项目。</p>
+<p>电工取证并非轻而易举，电工知识及安全防护等方方面面的知识需要用心学习，勤学勤练，养成良好的作业习惯，并最终在今后的实际工作中行稳致远，成为一名优秀的技术工人。</p>
+
+            </div>
+            <hr>
+            <div>
+              <div class="post-metas mb-3">
+                
+                  <div class="post-meta mr-3">
+                    <i class="iconfont icon-category"></i>
+                    
+                      <a class="hover-with-bg" href="/categories/power/">弱电基础</a>
+                    
+                  </div>
+                
+                
+                  <div class="post-meta">
+                    <i class="iconfont icon-tags"></i>
+                    
+                      <a class="hover-with-bg" href="/tags/%E4%BD%8E%E5%8E%8B%E7%94%B5%E5%B7%A5/">低压电工</a>
+                    
+                      <a class="hover-with-bg" href="/tags/%E5%8A%B3%E5%8A%A8%E9%98%B2%E6%8A%A4/">劳动防护</a>
+                    
+                  </div>
+                
+              </div>
+              
+              
+                <div class="post-prevnext">
+                  <article class="post-prev col-6">
+                    
+                    
+                      <a href="/PLC/%E5%85%B3%E4%BA%8E%E9%A1%B5%E9%9D%A2%E5%A2%9E%E5%8A%A0BMI%E6%A3%80%E6%B5%8B/">
+                        <i class="iconfont icon-arrowleft"></i>
+                        <span class="hidden-mobile">关于页面增加BMI检测</span>
+                        <span class="visible-mobile">上一篇</span>
+                      </a>
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+    
+      <div class="d-none d-lg-block col-lg-2 toc-container" id="toc-ctn">
+        <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+
+<!-- Custom -->
+
+
+    
+
+    
+      <a id="scroll-top-button" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v"
+                 for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    
+  </main>
+
+  <footer class="text-center mt-5 py-3">
+  <div class="footer-content">
+     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+  </div>
+  
+
+  
+
+  
+</footer>
+
+
+  <!-- SCRIPTS -->
+  
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+<!-- Plugins -->
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+  
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/tocbot@4.12.3/dist/tocbot.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/anchor-js@4.3.1/anchor.min.js" ></script>
+
+
+
+  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js" ></script>
+
+
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var title = document.getElementById('subtitle').title;
+      
+      typing(title)
+      
+    })(window, document);
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 主题的启动项 保持在最底部 -->
+<script  src="/js/boot.js" ></script>
+
+
+</body>
+</html>
