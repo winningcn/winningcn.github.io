@@ -1,4 +1,3 @@
- 
 ---
 title: bz
 banner_img: '/img/default.png'
