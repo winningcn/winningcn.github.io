@@ -1,3 +1,5 @@
+ 
+---
 title: bz
 banner_img: '/img/default.png'
 date: 2023-10-11 22:28:55
@@ -11,8 +13,7 @@ category: 安全教育
 index_img:
 excerpt: 积沙成塔
 hide: true
-
-
+---
 
 ## 2023 检查标准体系
 
