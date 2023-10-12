@@ -186,7 +186,7 @@ hide: true
 |      | 乙炔瓶、氧气瓶化学品安全警示标志缺失，乙炔瓶未安装回火阻火器。 | 依据：《危险化学品企业特殊作业安全规范》（GB 30871-2022） 5.2.13 使用气焊、气割动火作业时，乙焕瓶应直立放置，不应卧放使用，氧气瓶与乙炔瓶的间距不应小于5m，二者与动火点间距不应小于10m，并应采取防晒和防倾倒措施：乙炔瓶应安装防回火装置。建议：乙炔瓶与氧气瓶之间应保持5米以上的安全距离，气瓶与动火作业点之间保持10米以上的安全距离，乙炔瓶应安装防回火装置， |
 |      | 易燃气体 与助燃气体同库储存                                  | 依据：《易燃易爆性商品储存养护技术条件》<br/>(GB17914-2013）第4.2.2.5条要求：<br/>易燃气体不应与助燃气体同库储存。<br/>建议：建议气瓶储存、运输、使用单位，加强气瓶安全管理，易燃气体不应与助燃气体同库储存， |
 |      | 化学品作业场所未设置安全警示标志 | 依据：《化学品作业场所安全警示标志规范》（AQ3047-2013）第3  “一般要求”的相关规定，建议：作业场所应张贴乙炔、氧气等相关化学品的安全警示标志，确保安全。 |
-|      |                                                              |                                                              |
+|      | 液化气瓶组间灭火器 | 依据：《液化石油气供应工程设计规范》（GB51142-2015）11.3.1液化石油气供应站内干粉灭火器或CO2灭火器的配置应符合现行国家标准《建筑灭火器配置规范》GB50140的有关规定。干粉灭火器的配置数量应符合表11.3.1的规定。表中规定气化间，按建筑面积，每50m2设置8KG灭火器1具，每个房间不少于2具， <br/>建议：应配置8KG灭火器两具。 |
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
@@ -608,7 +608,7 @@ hide: true
 |      | 灭火器未装箱或挂在墙上                              | 依据:《建筑灭火器配置设计规范》 GB 50140-2005    5.1  5.1.3 灭火器的摆放应稳固，其铭牌应朝外。手提式灭火器宜设置在灭火器箱内或挂钩、托架上，其顶部离地面高度不应大于1.50m；底部离地面高度不宜小于0.08m。灭火器箱不得上锁。  建议：手提式灭火器宜设置在灭火器箱内或挂钩、托架上，其顶部离地面高度不应大于1.50m；底部离地面高度不宜小于0.08m。灭火器箱不得上锁 |
 |      | 消火栓未设置防撞装置。                              | 依据：《建筑防火通用规范》GB55037-2022第12.0.1 市政消火栓、室外消火栓、消防水泵接合器等室外消防设施周围应设置防止机动车辆撞击的设施。	建议:室外消火栓设防撞设施。 |
 |      | 电动叉车充电区域未配备灭火器。                      | 根据《中华人民共和国消防法》第十六条第二款的规定，建议：电动叉车固定充电处应配置灭火器等消防器材，确保消防安全。 |
-|      | 消火栓箱门未张贴明显标识、使用说明                  | 依据：《消火栓箱》 GB/T14561-2019 >第8条	<br/>建议：在消火栓箱箱门明显部位张贴使用标识,且与箱内实际保持一致. |
+|      | 消火栓箱门未张贴明显标识、使用说明                  | 依据：《消火栓箱 GB/T14561-2019》8.3 消火栓箱的明显部位应采用耐久性文字或图形标注其操作说明。操作说明至少应包括以下内容： a）箱门的开启方法； b）消火栓按钮的开启方法； c）箱内消防器材的取出及连接步骤；d）室内消火栓的开启方法；e）操作消防软管卷盘时必要的动作； f）描述箱内消防器材使用时的操作程序。8.4 说明中的文字高度不应小于5mm。<br/>建议：在消火栓箱箱门明显部位张贴使用标识,且与箱内实际保持一致. |
 |      | 部分灭火器压力失效                                  | 依据《机关、团体、企业、事业单位消防安全管理规定》第二十六条机关、团体、事业单位应当至少每季度进行一次防火检查，其他单位应当至少每月进行一次防火检查。检查的内容应当包括：（四）灭火器材配置及有效情况  建议：及时更换或维修灭火器<br/>依据：《建筑灭火器配置验收及检查规范 GB50444-2008》5.3.2 灭火器的维修期限应符合表5.3.2的规定。干粉灭火器出厂期满5年，首次维修以后每满2年进行一次维修<br/>建议：及时维修更换    水基火器出厂期满3年，首次维修以后每满1年进行一次维修. 《消防设施通用规范》GB55036-2022第10.0.8 报废年限 水基 6， 干粉10年，二氧化碳 12年。 |
 |      | 消防器材未按时点检。                                | 依据：《建筑消防设施的维护管理》（GB 25201-2010）第6.1.1条：建筑消防设施的巡查应由归口管理消防设施的部门或单位实施，按照工作、生产、经营的实际情况，将巡查的职责落实到相关工作岗位。第10.1条：建筑消防设施档案应包含建筑消防设施基本情况和动态管理情况。动态管理情况包括建筑消防设施的值班记录、巡查记录、故障维修记录以及维护保养计划表，维护保养记录、自动消防控制室值班人员基本情况档案及培训记录。建议：消防设施每月定期点检并记录。 |
 |      | 灭火器被遮挡                                        | 依据《机关、团体、企业、事业单位消防安全管理规定（公安部61号令）》第三十一条：对下列违反消防安全规定的行为，单位应当责成有关人员当场改正并督促落实：(四)消火栓、灭火器材被遮挡影响使用或者被挪作他用的；  建议：灭火器前保持畅通。依据：《消防安全标志第1部分：标志》 3-12 <br/>建议：标示手提式灭火器的位置，必要时用箭头标志配合指示手提式灭火器方位。 |
@@ -1965,3 +1965,1493 @@ b. 温度在 21.1℃时，气体的绝对压力大于275kPa，或在 54.4℃时�
 注：1. 本表数值来源以《化学易燃品参考资料》(北京消防研究所译自美国防火手册)为主，并与《压力容器中化学介质毒性危险和爆炸危险程度分类》HGJ20660-2000、《石油化工工艺计算图表》、《可燃气体报警器》JJG693—90进行了对照，仅调整了个别栏目的数值；移到条文说明中
 
  2.“蒸气密度”一栏是在原“蒸气比重”数值上乘以1．293，其密度为标准状态下的。
+
+
+
+### 《建筑设计防火规范》GB50016-2014(2018年版)实施指南-有用表格
+
+ 
+
+#### 不同耐火等级建筑的允许建筑高度或层数、防火分区最大允许建筑面积
+
+<table>
+<tbody>
+<tr class="odd">
+<td>名称</td>
+<td>
+耐•火等级
+</td>
+<td>允许建筑高度或层数</td>
+<td>防火分区的最大允许建筑面枳<strong>(m<sup>2</sup>)</strong></td>
+<td>备 注</td>
+</tr>
+<tr class="even">
+<td>高层
+民用建筑</td>
+<td>
+一级、二级
+</td>
+<td>按本规范第<strong>5.1.1</strong>条确定</td>
+<td><strong>1500</strong></td>
+<td>对于体育馆、剧场的观众厅，防火分区的最大允许建筑面积可适当增加</td>
+</tr>
+<tr class="odd">
+<td>单、多层民用建筑</td>
+<td>一级、二级</td>
+<td>按本规范第<strong>5.1.1</strong>
+条确定</td>
+<td><strong>2500</strong></td>
+<td>对于体育馆、剧场的观众厅，防火分区的最大允许建筑面积可适当增加</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>三级</td>
+<td><strong>5</strong>层</td>
+<td><strong>1200</strong></td>
+<td>
+—
+</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>四级</td>
+<td><strong>2</strong>层</td>
+<td><strong>600</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>地下或半地下
+建筑(室)</td>
+<td>一级</td>
+<td>—</td>
+<td><strong>500</strong></td>
+<td>设备用房的防火分区最大允许建筑面积不应大于<strong>1000m<sup>2</sup></strong></td>
+</tr>
+</tbody>
+</table>
+
+
+
+注：
+
+1表中定的防火分区最大允许建筑面积，当建筑内设置自动灭火系统时，可按本表的炭定增加1.0倍；局部设置时，防大分区的增加面积可按该局部面枳的1.0倍计算。
+
+2裙房与高层建筑主体之间设置防火墙时，褚房的防火分区可按单、多层建筑的要求确定。
+
+#### 厂房内任一点至最近安全出口的直线距离（**m**）
+
+<table>
+<tbody>
+<tr class="odd">
+<td>生产的火灾危险性类别</td>
+<td>耐火等级</td>
+<td>单层
+厂房</td>
+<td>多层厂房</td>
+<td>高层厂房</td>
+<td>地下或半地下厂房
+（包括地下或半地下室）</td>
+</tr>
+<tr class="even">
+<td>甲</td>
+<td>一、二级</td>
+<td>30</td>
+<td>25</td>
+<td>—</td>
+<td>——</td>
+</tr>
+<tr class="odd">
+<td>乙</td>
+<td>一、二级</td>
+<td>75</td>
+<td>50</td>
+<td>30</td>
+<td>——</td>
+</tr>
+<tr class="even">
+<td>丙</td>
+<td>一、二级
+三级</td>
+<td>80
+60</td>
+<td>60
+40</td>
+<td>40</td>
+<td>30</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>一、二级</td>
+<td>不限</td>
+<td>不限</td>
+<td>50</td>
+<td>45</td>
+</tr>
+<tr class="even">
+<td>丁</td>
+<td>三级</td>
+<td>60</td>
+<td>50</td>
+<td>——</td>
+<td>——</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>四级</td>
+<td>50</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>一、二级</td>
+<td>不限</td>
+<td>不限</td>
+<td>75</td>
+<td>60</td>
+</tr>
+<tr class="odd">
+<td>戊</td>
+<td>三级</td>
+<td>100</td>
+<td>75</td>
+<td>——</td>
+<td>——</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>四级</td>
+<td>60</td>
+<td>——</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+
+#### 厂房允许设置1个安全出口的条件
+
+|              |                      |                                                   |                                                |
+| ------------ | -------------------- | ------------------------------------------------- | ---------------------------------------------- |
+| 楼层位置     | 生产的火灾危险性类别 | 每层或每个防火分区的最大建筑面积（m<sup>2</sup>） | 每层或每个防火分区同一时间的最多作业人数（人） |
+| 地上         | 甲类                 | 100                                               | 5                                              |
+|              | 乙类                 | 150                                               | 10                                             |
+|              | 丙类                 | 250                                               | 20                                             |
+|              | 丁、戊类             | 400                                               | 30                                             |
+| 地下、半地下 | 丙、丁、戊类         | 50                                                | 15                                             |
+
+#### 乙、丙、丁、戊类仓库之间及与民用建筑的防火间距**（m）**
+
+<table>
+<tbody>
+<tr class="odd">
+<td>名 称</td>
+<td>乙类仓库</td>
+<td>丙类仓库</td>
+<td>丁、戊类仓库</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>单、多层</td>
+<td>高层</td>
+<td>单、多层</td>
+<td>高层</td>
+<td>单，多层</td>
+<td>高层</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>一、
+二级</td>
+<td>三级</td>
+<td>一、
+二级</td>
+<td>二级</td>
+<td>三级</td>
+<td>四级</td>
+<td>一、
+二级</td>
+<td>一、
+二级</td>
+<td>三级</td>
+<td>四级</td>
+<td>一、
+二级</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>
+乙、丙、丁，戊类仓库
+</td>
+<td>
+单、多层
+</td>
+<td>
+二级</td>
+<td><strong>10</strong></td>
+<td><strong>12</strong></td>
+<td><strong>13</strong></td>
+<td><strong>10</strong></td>
+<td><strong>12</strong></td>
+<td><strong>14</strong></td>
+<td><strong>13</strong></td>
+<td><strong>10</strong></td>
+<td><strong>12</strong></td>
+<td><strong>14</strong></td>
+<td><strong>13</strong></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td>三级</td>
+<td><strong>12</strong></td>
+<td><strong>14</strong></td>
+<td><strong>15</strong></td>
+<td><strong>12</strong></td>
+<td><strong>14</strong></td>
+<td><strong>16</strong></td>
+<td><strong>15</strong></td>
+<td><strong>12</strong></td>
+<td><strong>14</strong></td>
+<td><strong>16</strong></td>
+<td><strong>15</strong></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td>四级</td>
+<td><strong>14</strong></td>
+<td><strong>16</strong></td>
+<td><strong>17</strong></td>
+<td><strong>14</strong></td>
+<td><strong>16</strong></td>
+<td><strong>18</strong></td>
+<td><strong>17</strong></td>
+<td><strong>14</strong></td>
+<td><strong>16</strong></td>
+<td><strong>18</strong></td>
+<td><strong>17</strong></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>
+高层
+</td>
+<td>
+二级</td>
+<td><strong>13</strong></td>
+<td><strong>15</strong></td>
+<td><strong>13</strong></td>
+<td><strong>13</strong></td>
+<td><strong>15</strong></td>
+<td><strong>17</strong></td>
+<td><strong>13</strong></td>
+<td><strong>13</strong></td>
+<td><strong>15</strong></td>
+<td><strong>17</strong></td>
+<td><strong>13</strong></td>
+</tr>
+<tr class="even">
+<td>民用建筑</td>
+<td>
+房，单、多层
+</td>
+<td>
+二级</td>
+<td><strong>25</strong></td>
+<td><strong>10</strong></td>
+<td><strong>12</strong></td>
+<td><strong>14</strong></td>
+<td><strong>13</strong></td>
+<td><strong>10</strong></td>
+<td><strong>12</strong></td>
+<td><strong>14</strong></td>
+<td><strong>13</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td>三级</td>
+<td></td>
+<td><strong>12</strong></td>
+<td><strong>14</strong></td>
+<td><strong>16</strong></td>
+<td><strong>15</strong></td>
+<td><strong>12</strong></td>
+<td><strong>14</strong></td>
+<td><strong>16</strong></td>
+<td><strong>15</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td>四级</td>
+<td></td>
+<td><strong>14</strong></td>
+<td><strong>16</strong></td>
+<td><strong>18</strong></td>
+<td><strong>17</strong></td>
+<td><strong>14</strong></td>
+<td><strong>16</strong></td>
+<td><strong>18</strong></td>
+<td><strong>17</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>高层</td>
+<td>一类</td>
+<td><strong>50</strong></td>
+<td><strong>20</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>20</strong></td>
+<td><strong>15</strong></td>
+<td><strong>18</strong></td>
+<td><strong>18</strong></td>
+<td><strong>15</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td>二类</td>
+<td></td>
+<td><strong>15</strong></td>
+<td><strong>20</strong></td>
+<td><strong>20</strong></td>
+<td><strong>15</strong></td>
+<td><strong>13</strong></td>
+<td><strong>15</strong></td>
+<td><strong>15</strong></td>
+<td><strong>13</strong></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+
+1单、多层戊类仓库之间的防火间距，可按本表的规定减少2m。
+
+2两座仓库的相邻外墙均为防火墙时，防火间距可以减小，但丙类仓库，不应小于6m；丁、戊类仓库，不应小于4m。两座仓库相邻较高一面外墙为防火墙，或相邻两座高度相同的一、二级耐火等级建筑中相邻任一侧外墙为防火墙且屋顶的耐火极限不低于1h,且总占地面积不大于本规范第3.3.2条一座仓库的最大允许占地面积规定时，其防火间距不限。
+
+3除乙类第6项物品外的乙类仓库，与民用建筑的防火间距不宜小于25m,与重要公共建筑的防火间距不应小于50m,与铁路、道路等的防火间距不宜小于表3.5.1中甲类仓库与铁路、道路等的防火间距。
+
+#### 附设在建筑内的各类设备用房的防火分隔要求
+
+|                        |              |              |          |            |
+| ---------------------- | ------------ | ------------ | -------- | ---------- |
+| **建筑类型**           | **设备用房** | **防火隔墙** | **楼板** | **防火门** |
+| 民用建筑               | 10kV及以下的 | 2.00h        | 1.50h    | 甲级       |
+| 丙、丁、戊类厂房       | 变配电室     | 2.00h        | 1.50h    | 甲级       |
+| 仓库，甲、乙、丙类厂房 | 通风机房     | 2.00h        | 1.50h    | 甲级       |
+| 丁、戊类厂房           | 通风机房     | 1.00h        | 0.50h    | 甲级       |
+| 工业与民用建筑         | 空调机房     | 2.00h        | 1.50h    | 甲级       |
+| 工业与民用建筑         | 消防控制室   | 2.00h        | 1.50h    | 乙级       |
+| 工业与民用建筑         | 灭火设备室   | 2.00h        | 1.50h    | 乙级       |
+| 工业与民用建筑         | 消防水泵房   | 2.00h        | 1.50h    | 乙级       |
+
+#### 各类厂房建筑层数、耐火等级和疏散楼梯形式
+
+|                        |              |                                         |              |
+| ---------------------- | ------------ | --------------------------------------- | ------------ |
+| **厂房类型**           | **耐火等级** | **建筑高度和层数**                      | **楼梯形式** |
+| 地下或半地下厂房（室） | 一、二级     | 埋深不大于10m,或层数不大于2层           | 封闭楼梯间   |
+|                        |              | 埋深大于10m,或层数为3层及以上           | 防烟楼梯间   |
+| 高层厂房               | 一、一级     | 建筑高度大于32m且任一层使用人数多于10人 | 防烟楼梯间   |
+|                        |              | 其他情形                                | 封闭楼梯间   |
+| 甲、乙类多层厂房       | 一、二级     | 建筑高度不大于24m                       | 封闭楼梯间   |
+| 丙类多层厂房           | 一级\~三级   |                                         |              |
+
+#### 甲类仓库之间及与其他建筑、明火或散发火花地点、铁路、道路等的防火间距（**m**）
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse'>
+ <tr style='height:18.0pt'>
+  <td width=334 colspan=3 rowspan=3 style='width:250.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:18.0pt'>
+  <p class=a0><span lang=ZH-CN style='color:black'>名</span><span
+  style='color:black'>&nbsp;&nbsp;&nbsp;&nbsp; <span lang=ZH-CN>称</span></span></p>
+  </td>
+  <td width=410 colspan=4 style='width:307.2pt;border:solid windowtext 1.0pt;
+  border-bottom:none;background:white;padding:0cm .5pt 0cm .5pt;height:18.0pt'>
+  <p class=a0><span lang=ZH-CN style='color:black'>甲类仓库（储量，</span><b><span
+  style='font-family:"Times New Roman",serif;color:black'>t</span><span
+  lang=ZH-CN style='color:black'>）</span></b></p>
+  </td>
+ </tr>
+ <tr style='height:35.1pt'>
+  <td width=204 colspan=2 style='width:153.0pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:35.1pt'>
+  <p class=a0 style='line-height:16.5pt'><span lang=ZH-CN style='color:black'>甲类储存物品第</span><b><span
+  style='font-family:"Times New Roman",serif;color:black'>3</span></b><span
+  lang=ZH-CN style='color:black'>、</span><b><span style='font-family:"Times New Roman",serif;
+  color:black'>4</span></b><span lang=ZH-CN style='color:black'>项</span></p>
+  </td>
+  <td width=206 colspan=2 style='width:154.2pt;border:solid windowtext 1.0pt;
+  border-bottom:none;background:white;padding:0cm .5pt 0cm .5pt;height:35.1pt'>
+  <p class=a0 style='line-height:16.35pt'><span lang=ZH-CN style='color:black'>甲类储存物品第</span><b><span
+  style='font-family:"Times New Roman",serif;color:black'>1</span></b><span
+  lang=ZH-CN style='color:black'>、</span><b><span style='font-family:"Times New Roman",serif;
+  color:black'>2</span></b><span lang=ZH-CN style='color:black'>、</span><b><span
+  style='font-family:"Times New Roman",serif;color:black'>5</span></b><span
+  lang=ZH-CN style='color:black'>、</span><b><span style='font-family:"Times New Roman",serif;
+  color:black'>6</span></b><span lang=ZH-CN style='color:black'>项</span></p>
+  </td>
+ </tr>
+ <tr style='height:16.2pt'>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.2pt'>
+  <p class=a0><b><span lang=ZH-CN style='color:black'>≤</span></b><b><span
+  style='font-family:"Times New Roman",serif;color:black'>5</span></b></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.2pt'>
+  <p class=a0><b><span style='font-family:"Times New Roman",serif;color:black'>&gt;5</span></b></p>
+  </td>
+  <td width=102 style='width:76.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.2pt'>
+  <p class=a0><b><span lang=ZH-CN style='color:black'>≤</span></b><b><span
+  style='font-family:"Times New Roman",serif;color:black'>10</span></b></p>
+  </td>
+  <td width=104 style='width:78.0pt;border:solid windowtext 1.0pt;border-bottom:
+  none;background:white;padding:0cm .5pt 0cm .5pt;height:16.2pt'>
+  <p class=a0><b><span style='font-family:"Times New Roman",serif;color:black'>&gt;10</span></b></p>
+  </td>
+ </tr>
+ <tr style='height:16.8pt'>
+  <td width=334 colspan=3 style='width:250.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.8pt'>
+  <p class=a0><span lang=ZH-CN style='font-size:10.0pt;color:black'>高层民用建筑、重要公共建筑</span></p>
+  </td>
+  <td width=410 colspan=4 style='width:307.2pt;border:solid windowtext 1.0pt;
+  border-bottom:none;background:white;padding:0cm .5pt 0cm .5pt;height:16.8pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>50</span></p>
+  </td>
+ </tr>
+ <tr style='height:35.4pt'>
+  <td width=334 colspan=3 style='width:250.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:35.4pt'>
+  <p class=a0 style='line-height:18.3pt'><span lang=ZH-CN style='font-size:
+  10.0pt;color:black'>裙房、其他民用建筑、明火或散发大花地点</span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:35.4pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>30</span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:35.4pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>40</span></p>
+  </td>
+  <td width=102 style='width:76.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:35.4pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>25</span></p>
+  </td>
+  <td width=104 style='width:78.0pt;border:solid windowtext 1.0pt;border-bottom:
+  none;background:white;padding:0cm .5pt 0cm .5pt;height:35.4pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>30</span></p>
+  </td>
+ </tr>
+ <tr style='height:17.1pt'>
+  <td width=334 colspan=3 style='width:250.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:17.1pt'>
+  <p class=a0><span lang=ZH-CN style='font-size:10.0pt;color:black'>甲类仓库</span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:17.1pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>20</span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:17.1pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>20</span></p>
+  </td>
+  <td width=102 style='width:76.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:17.1pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>20</span></p>
+  </td>
+  <td width=104 style='width:78.0pt;border:solid windowtext 1.0pt;border-bottom:
+  none;background:white;padding:0cm .5pt 0cm .5pt;height:17.1pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>20</span></p>
+  </td>
+ </tr>
+ <tr style='height:16.2pt'>
+  <td width=232 colspan=2 rowspan=3 style='width:173.7pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.2pt'>
+  <p class=a0 style='line-height:18.3pt'><span lang=ZH-CN style='font-size:
+  10.0pt;color:black'>厂房和乙、丙、丁、戊类仓库</span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.2pt'>
+  <p class=a0 style='text-indent:12.0pt'><span lang=ZH-CN style='font-size:
+  10.0pt;color:black'>一、二级</span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.2pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>15</span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.2pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>20</span></p>
+  </td>
+  <td width=102 style='width:76.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.2pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>12</span></p>
+  </td>
+  <td width=104 style='width:78.0pt;border:solid windowtext 1.0pt;border-bottom:
+  none;background:white;padding:0cm .5pt 0cm .5pt;height:16.2pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>15</span></p>
+  </td>
+ </tr>
+ <tr style='height:16.5pt'>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.5pt'>
+  <p class=a0 style='text-indent:25.0pt'><span lang=ZH-CN style='font-size:
+  10.0pt;color:black'>三级</span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.5pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>20</span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.5pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>25</span></p>
+  </td>
+  <td width=102 style='width:76.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.5pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>15</span></p>
+  </td>
+  <td width=104 style='width:78.0pt;border:solid windowtext 1.0pt;border-bottom:
+  none;background:white;padding:0cm .5pt 0cm .5pt;height:16.5pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>20</span></p>
+  </td>
+ </tr>
+ <tr style='height:17.4pt'>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:17.4pt'>
+  <p class=a0 style='text-indent:25.0pt'><span lang=ZH-CN style='font-size:
+  10.0pt;color:black'>四级</span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:17.4pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>25</span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:17.4pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>30</span></p>
+  </td>
+  <td width=102 style='width:76.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:17.4pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>20</span></p>
+  </td>
+  <td width=104 style='width:78.0pt;border:solid windowtext 1.0pt;border-bottom:
+  none;background:white;padding:0cm .5pt 0cm .5pt;height:17.4pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>25</span></p>
+  </td>
+ </tr>
+ <tr style='height:70.2pt'>
+  <td width=334 colspan=3 style='width:250.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:70.2pt'>
+  <p class=a0 style='line-height:18.15pt'><span style='font-size:10.0pt;
+  color:black'>&nbsp;<span lang=ZH-CN>电力系统电压为</span>35kV~500kV<span lang=ZH-CN>且每台变压器容量不小于</span>10MV·A<span
+  lang=ZH-CN>的室外变、配电站，工业企业的变压器总油量</span></span></p>
+  <p class=a0 style='line-height:18.15pt'><span lang=ZH-CN style='font-size:
+  10.0pt;color:black'>大于</span><span style='font-size:10.0pt;color:black'>5t<span
+  lang=ZH-CN>的室外降压变电站</span></span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:70.2pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>30</span></p>
+  </td>
+  <td width=102 style='width:76.5pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:70.2pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>40</span></p>
+  </td>
+  <td width=102 style='width:76.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:70.2pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>25</span></p>
+  </td>
+  <td width=104 style='width:78.0pt;border:solid windowtext 1.0pt;border-bottom:
+  none;background:white;padding:0cm .5pt 0cm .5pt;height:70.2pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>30</span></p>
+  </td>
+ </tr>
+ <tr style='height:16.8pt'>
+  <td width=334 colspan=3 style='width:250.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.8pt'>
+  <p class=a0><span lang=ZH-CN style='font-size:10.0pt;color:black'>厂外铁路线中心线</span></p>
+  </td>
+  <td width=410 colspan=4 style='width:307.2pt;border:solid windowtext 1.0pt;
+  border-bottom:none;background:white;padding:0cm .5pt 0cm .5pt;height:16.8pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>40</span></p>
+  </td>
+ </tr>
+ <tr style='height:16.8pt'>
+  <td width=334 colspan=3 style='width:250.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.8pt'>
+  <p class=a0><span lang=ZH-CN style='font-size:10.0pt;color:black'>厂内铁路线中心线</span></p>
+  </td>
+  <td width=410 colspan=4 style='width:307.2pt;border:solid windowtext 1.0pt;
+  border-bottom:none;background:white;padding:0cm .5pt 0cm .5pt;height:16.8pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>30</span></p>
+  </td>
+ </tr>
+ <tr style='height:16.5pt'>
+  <td width=334 colspan=3 style='width:250.2pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.5pt'>
+  <p class=a0><span lang=ZH-CN style='font-size:10.0pt;color:black'>厂外道路路边</span></p>
+  </td>
+  <td width=410 colspan=4 style='width:307.2pt;border:solid windowtext 1.0pt;
+  border-bottom:none;background:white;padding:0cm .5pt 0cm .5pt;height:16.5pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>20</span></p>
+  </td>
+ </tr>
+ <tr style='height:16.5pt'>
+  <td width=87 rowspan=2 style='width:65.4pt;border:solid windowtext 1.0pt;
+  border-right:none;background:white;padding:0cm .5pt 0cm .5pt;height:16.5pt'>
+  <p class=a0 style='line-height:16.2pt'><span lang=ZH-CN style='font-size:
+  10.0pt;color:black'>厂内道路路边</span></p>
+  </td>
+  <td width=246 colspan=2 style='width:184.8pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  background:white;padding:0cm .5pt 0cm .5pt;height:16.5pt'>
+  <p class=a0><span lang=ZH-CN style='font-size:10.0pt;color:black'>主要</span></p>
+  </td>
+  <td width=410 colspan=4 style='width:307.2pt;border:solid windowtext 1.0pt;
+  border-bottom:none;background:white;padding:0cm .5pt 0cm .5pt;height:16.5pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>10</span></p>
+  </td>
+ </tr>
+ <tr style='height:18.9pt'>
+  <td width=246 colspan=2 style='width:184.8pt;border:solid windowtext 1.0pt;
+  border-right:none;background:white;padding:0cm .5pt 0cm .5pt;height:18.9pt'>
+  <p class=a0><span lang=ZH-CN style='font-size:10.0pt;color:black'>次要</span></p>
+  </td>
+  <td width=410 colspan=4 style='width:307.2pt;border:solid windowtext 1.0pt;
+  background:white;padding:0cm .5pt 0cm .5pt;height:18.9pt'>
+  <p class=a0><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  color:black'>5</span></p>
+  </td>
+ </tr>
+ <tr height=0>
+  <td width=66 style='border:none'></td>
+  <td width=100 style='border:none'></td>
+  <td width=85 style='border:none'></td>
+  <td width=75 style='border:none'></td>
+  <td width=75 style='border:none'></td>
+  <td width=74 style='border:none'></td>
+  <td width=79 style='border:none'></td>
+ </tr>
+</table>
+
+
+注：甲类仓库之间的防火间距，当第3、4项物品储量不大于2t,第1、2、5、6项物品储量不大于5t时，不应小于12m<sub>o</sub>甲类仓库与高层仓库的防火间距不应小于13m。
+
+#### 规范要求应设置消防水泵接合器的建筑和场所
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>建筑设置的水消防设施</strong></td>
+<td><strong>应设置消防水泵接合器的场所或建筑</strong></td>
+</tr>
+<tr class="even">
+<td>
+设置了自动喷水、水喷雾、泡沫、固定消防水炮或泡沫炮灭火系统，水冷却或分隔系统
+</td>
+<td>所有建（构）筑物、储罐</td>
+</tr>
+<tr class="odd">
+<td>设置了室内消火栓给水系统</td>
+<td><ol type="1">
+<li><strong>6</strong>层及<strong>6</strong>层以上的公共建筑；</li>
+<li><strong>5</strong>层及<strong>5</strong>层以上的厂房或仓库；</li>
+<li>其他高层建筑；</li>
+<li><strong>3</strong>层及<strong>3</strong>层以上的地下建筑（室）；</li>
+<li>总建筑面积大于<strong>10000m<sup>2</sup></strong>的地下建筑（室）</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+
+#### 要求设置室内消火栓的工业生产和仓储场所或场所
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>应设置的建筑或场所</strong></td>
+<td><strong>设置要求</strong></td>
+<td><strong>备注</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>厂房和仓库</td>
+<td>占地面积＞3OOm<sup>2</sup></td>
+<td>应设置</td>
+<td>—</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>一、二级耐火等级的单层、多层丁、戊类厂房或仓库</td>
+<td>可燃物较少</td>
+<td>可不设</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>三、四级</td>
+<td>丁类厂房</td>
+<td>建筑体积≤3000m<sup>3</sup></td>
+<td>可不设</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>耐火等级</td>
+<td>戊类厂房或仓库</td>
+<td>建筑体积≤5000m<sup>3</sup></td>
+<td></td>
+<td>宜设置消防软管</td>
+</tr>
+<tr class="even">
+<td>粮食仓库、金库</td>
+<td>可不设</td>
+<td>卷盘或轻便</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>远离城镇且无人值班的独立工业建筑</td>
+<td>可不设</td>
+<td>消防水龙</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>与水接触能引起燃烧爆炸的物品仓库</td>
+<td>可不设</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>
+无室内外给水管网，仅储水池供水且建筑体积≤5000m<sup>3</sup>的其他工业建筑
+</td>
+<td>可不设</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+#### 要求设置室内消火栓的民用建筑或场所
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>应设置的建筑或场所</strong></td>
+<td><strong>设置要求</strong></td>
+<td><strong>备注</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>住宅建筑</td>
+<td>建筑高度≤21m（注1）</td>
+<td>可不设</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>建筑高度＞2Im且≤27m</td>
+<td>应设置</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>建筑高度＞27m</td>
+<td>应设置</td>
+<td>宜增设轻便消防水龙</td>
+</tr>
+<tr class="odd">
+<td>高层公共建筑</td>
+<td>建筑高度≤100m</td>
+<td>应设置</td>
+<td>——</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>建筑高度〉100m</td>
+<td></td>
+<td>应增设消防软管卷盘或轻便消防水龙</td>
+</tr>
+<tr class="odd">
+<td>车站、码头、机场的候车（船、机）建筑</td>
+<td>建筑体积＞5OOOm<sup>3</sup>的
+单、多层建筑</td>
+<td>应设置</td>
+<td>应设置消防软管卷盘或轻便消防水龙</td>
+</tr>
+<tr class="even">
+<td>展览建筑、商店建筑、旅馆建筑、医疗建筑、图书馆</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>床位总数N20床或可容纳老年人总数N20人的老年人照料设施（注2）</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>应设置的建筑或场所</strong></td>
+<td><strong>设置要求</strong></td>
+<td><strong>备注</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>单、多层特等、甲等剧场</td>
+<td>应设置</td>
+<td>应设置消防软管卷盘或轻便消防水龙</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>
+座位数＞800座的其他等级的单、多层剧场和电影院等
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>座位数＞1200座的单、多层礼堂、体育馆</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>
+学校教学建筑、食堂、集体宿舍
+</td>
+<td>建筑高度〉15m,或建筑体积＞lOOOOm，</td>
+<td>应设置</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>
+办公建筑及其他单、多层民用建筑
+</td>
+<td></td>
+<td></td>
+<td>——</td>
+</tr>
+<tr class="odd">
+<td>
+国家级文物保护单位重点砖木或木结构的古建筑
+</td>
+<td>宜设置</td>
+<td>宜设置消防软管卷盘或轻便消防水龙</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>远离城镇且无人值班的独立民用建筑</td>
+<td>可不设</td>
+<td>宜设置消防软管卷盘或轻便消防水龙</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>
+无室内外给水管网，仅储水池供水且建筑体积≤5000m<sup>3</sup>的其他民用建筑
+</td>
+<td>可不设</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>商业服务网
+点</td>
+<td>建筑面积≤200m<sup>3</sup></td>
+<td>可不设</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>建筑面积〉200m<sup>3</sup></td>
+<td></td>
+<td>应设置消防软管卷盘或轻便消防水龙</td>
+</tr>
+</tbody>
+</table>
+
+
+注：1.设置室内消火栓系统确有困难时，可设置干式消防竖管和不带消火栓箱的DN65的室内消火栓。
+
+2.能与室内供水系统直接连接的消防软管卷盘，消防软管卷盘的设置间距不应大于30.0m。
+
+#### 工业与民用建筑和地下建筑中应设置排烟设施的场所
+
+|                                  |                                   |
+| -------------------------------- | --------------------------------- |
+| **设置场所**                     | **基本设置条件**                  |
+| 人员或可燃物较多的丙类生产场所   | —                                 |
+| 丙类厂房内经常有人停留的地上房间 | 房间的建筑面积＞300 m<sup>2</sup> |
+| 丙类厂房内可燃物较多的地上房间   |                                   |
+| 丁类生产车间                     | 车间的建筑面积＞5000m<sup>2</sup> |
+
+<table>
+<tbody>
+<tr class="odd">
+<td>
+<strong>设置场所</strong>
+</td>
+<td><strong>基本设置条件</strong></td>
+</tr>
+<tr class="even">
+<td>丙类仓库</td>
+<td>一座仓库的占地面积＞1000m<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<td>建筑高度＞32m的高层厂房（仓库）内的疏散走道</td>
+<td>走道长度＞20m</td>
+</tr>
+<tr class="even">
+<td>其他厂房（仓库）内的疏散走道</td>
+<td>走道长度＞40m</td>
+</tr>
+<tr class="odd">
+<td>位于建筑地上1~3层内的歌舞娱乐放映游艺场所</td>
+<td>房间的建筑面积＞100m<sup>2</sup></td>
+</tr>
+<tr class="even">
+<td>位于建筑四层及以上楼层的歌舞娱乐放映游艺场所</td>
+<td>无其他设置条件</td>
+</tr>
+<tr class="odd">
+<td>位于地下或半地下的歌舞娱乐放映游艺场所</td>
+<td>无其他设置条件</td>
+</tr>
+<tr class="even">
+<td>中庭</td>
+<td>无其他设置条件</td>
+</tr>
+<tr class="odd">
+<td>公共建筑内经常有人停留的地上房间</td>
+<td>房间的建筑面积＞100m<sup>2</sup></td>
+</tr>
+<tr class="even">
+<td>公共建筑内可燃物较多的地上房间</td>
+<td>房间的建筑面积＞300m<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<td>民用建筑内的疏散走道</td>
+<td>走道长度＞20m</td>
+</tr>
+<tr class="even">
+<td>地下、半地下经常有人停留或可燃物较多的房间或区域；地上</td>
+<td>房间总建筑面积＞200m<sup>2</sup>的区域</td>
+</tr>
+<tr class="odd">
+<td>建筑内经常有人停留或可燃物较多的无窗房间或区域</td>
+<td>房间的建筑面积＞50m<sup>2</sup></td>
+</tr>
+</tbody>
+</table>
+
+
+#### 要求应设置火灾自动报警系统的工业建筑或场所
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>应设置火灾自动报警系统的建筑或场所</strong></td>
+<td><strong>设置条件</strong></td>
+</tr>
+<tr class="even">
+<td>制鞋、制衣、玩具、电子等类似用途的厂房</td>
+<td>任一层建筑面积〉1500m<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>总建筑面积＞3OOOm<sup>2</sup></td>
+</tr>
+<tr class="even">
+<td>棉、毛、丝、麻、化纤及其制品的仓库</td>
+<td>一座仓库的占地面积＞1000m<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<td>卷烟仓库（包括卷烟成品库和材料库）</td>
+<td>一座仓库占地面积＞5OOm<sup>2</sup></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>一座仓库的总建筑面积＞l000m<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<td>设置火灾报警系统的建筑中的技术夹层，如电缆夹层等</td>
+<td>净高＞2.6m且可燃物较多</td>
+</tr>
+<tr class="even">
+<td>设置火灾报警系统的建筑中的闷顶或吊顶内</td>
+<td>净高＞0.8m且有可燃物</td>
+</tr>
+<tr class="odd">
+<td>
+工业建筑中电子信息系统的主机房及其控制室、记录介质库
+</td>
+<td>无其他设置条件</td>
+</tr>
+<tr class="even">
+<td>
+工业建筑中特殊贵重或火灾危险性大的机器、仪表、仪器设备室、贵重物品库房
+</td>
+<td>无其他设置条件</td>
+</tr>
+<tr class="odd">
+<td>
+建筑中设置雨淋或预作用自动喷水灭火系统、固定消防炮灭火系统、气体灭火系统、防火卷帘、机械防排烟系统等需与火灾自动报警系统联锁动作的场所或部位
+</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+#### 应设置火灾自动报警系统的民用建筑或场所
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>需设置火灾自动报警系统的建筑或场所</strong></td>
+<td><strong>设置条件</strong></td>
+</tr>
+<tr class="even">
+<td>地下或半地下商店</td>
+<td>总建筑面积＞500m<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<td>
+商店和展览、财贸金融、客运、货运建筑等类似用途的建筑
+</td>
+<td>任一层的建筑面积＞1500m<sup>2</sup></td>
+</tr>
+<tr class="even">
+<td>
+商店和展览、财贸金融、客运、货运建筑等类似用的建筑
+</td>
+<td>总建筑面积＞3000m<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<td>
+电力、交通和防灾等指挥调度建筑
+</td>
+<td>城市或区域性</td>
+</tr>
+<tr class="even">
+<td>
+广播电视建筑、邮政建筑、电信建筑
+</td>
+<td>地市级及以上</td>
+</tr>
+<tr class="odd">
+<td>
+重要的档案馆、图书或文物的珍藏库，藏书量大于50万册的图书馆
+</td>
+<td>无其他设置条件</td>
+</tr>
+<tr class="even">
+<td>歌舞娱乐放映游艺场所</td>
+<td>无其他设置条件</td>
+</tr>
+<tr class="odd">
+<td>特等剧场、甲等剧场</td>
+<td>无其他设置条件</td>
+</tr>
+</tbody>
+</table>
+
+
+<table>
+<tbody>
+<tr class="odd">
+<td>
+<strong>需设置火灾自动报警系统的建筑或场所</strong>
+</td>
+<td><strong>设置条件</strong></td>
+</tr>
+<tr class="even">
+<td>乙等剧场、电影院</td>
+<td>座位数<strong>＞1500</strong>座</td>
+</tr>
+<tr class="odd">
+<td>会堂、礼堂</td>
+<td>座位数<strong>＞2000</strong>座</td>
+</tr>
+<tr class="even">
+<td>体育馆</td>
+<td>座位数<strong>＞3000</strong>座</td>
+</tr>
+<tr class="odd">
+<td>幼儿园的儿童用房等场所</td>
+<td>大、中型</td>
+</tr>
+<tr class="even">
+<td>老年人照料设施</td>
+<td>床位总数<strong>＞20</strong>床，或可容纳老年人总数<strong>＞20</strong>人</td>
+</tr>
+<tr class="odd">
+<td>其他儿童活动场所，疗养院的病房楼、旅馆建筑</td>
+<td>任一层建筑面积<strong>＞1500n?</strong></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>总建筑面积大于<strong>3000m<sup>2</sup></strong></td>
+</tr>
+<tr class="odd">
+<td>医院的门诊楼、病房楼和手术部等</td>
+<td>床位数N<strong>200</strong>床</td>
+</tr>
+<tr class="even">
+<td>民用建筑中电子信息系统的主机房及其控制室、记录介质库</td>
+<td>无其他设置条件</td>
+</tr>
+<tr class="odd">
+<td>民用建筑中特殊贵重或火灾危险性大的机器、仪表、仪器设备室、贵重物品库房</td>
+<td>无其他设置条件</td>
+</tr>
+<tr class="even">
+<td>设置火灾自动报警系统的建筑中的技术夹层</td>
+<td>净高<strong>＞2.6m</strong>且可燃物较多</td>
+</tr>
+<tr class="odd">
+<td>设置火灾自动报警系统的建筑中的闷顶或吊顶内</td>
+<td>净高<strong>＞0.8m</strong>且有可燃物</td>
+</tr>
+<tr class="even">
+<td>二类高层公共建筑内的可燃物品库房</td>
+<td>建筑面积<strong>＞50m<sup>2</sup></strong></td>
+</tr>
+<tr class="odd">
+<td>二类高层公共建筑内的营业厅</td>
+<td>建筑面积<strong>＞5OOm<sup>2</sup></strong></td>
+</tr>
+<tr class="even">
+<td>除上述建筑外的其他一类高层公共建筑</td>
+<td>无其他设置条件</td>
+</tr>
+<tr class="odd">
+<td>住宅建筑</td>
+<td>建筑高度<strong>＞100m</strong></td>
+</tr>
+<tr class="even">
+<td>住宅建筑的公共区域</td>
+<td>建筑高度<strong>＜100tn.</strong>且<strong>N54m</strong></td>
+</tr>
+<tr class="odd">
+<td>建筑内设置机械防排烟系统，雨淋或预作用自动喷水灭火系统，固定消防炮灭火系统、气体灭火系统等需与火灾自动报警系统联锁动作的场所或部位</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+> 注：规定不需要设置火灾自动报警系统的高层住宅建筑的公共部位，应设置具有语音功能的火灾声
+>
+> 警报装置或应急广播。
+
+#### 要求设置自动喷水灭火系统的生产厂房或场所
+
+<table>
+<tbody>
+<tr class="odd">
+<td>
+<strong>应设置自动喷水灭火系统的建筑类型或场所</strong>
+</td>
+<td>
+<strong>设置条件</strong>
+</td>
+</tr>
+<tr class="even">
+<td>棉纺厂的开包、清花车间</td>
+<td>纱锭数≥50000枚</td>
+</tr>
+<tr class="odd">
+<td>麻纺厂的分级、梳麻车间</td>
+<td>锭子数≥5000枚</td>
+</tr>
+<tr class="even">
+<td>
+单（多）层制鞋、制衣、玩具及电子等类似生产的厂房；木器厂房
+</td>
+<td>厂房的占地面积&gt;1500m<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<td>单（多）层制鞋、制衣、玩具及电子等类似生产的厂房</td>
+<td>厂房的总建筑面积&gt;3OOOm<sup>2</sup></td>
+</tr>
+<tr class="even">
+<td>高层乙、丙类厂房</td>
+<td>建筑面积不限</td>
+</tr>
+<tr class="odd">
+<td>地下、半地下丙类厂房</td>
+<td>厂房的建筑面积＞5OOm<sup>2</sup></td>
+</tr>
+<tr class="even">
+<td>火柴厂的烤梗、筛选部位</td>
+<td>建筑面积不限</td>
+</tr>
+<tr class="odd">
+<td>泡沫塑料厂的预发、成型、切片、压花部位</td>
+<td>建筑面积不限</td>
+</tr>
+</tbody>
+</table>
+
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>应设置自动喷水灭火系统的建筑类型或场所</strong></td>
+<td>
+<strong>设置条件</strong>
+</td>
+</tr>
+<tr class="even">
+<td>
+棉、毛、丝、麻、化纤、毛皮及其制品的仓库（单层占地面积≤2000m<sup>2</sup>的棉花库除外<em>）</em>
+</td>
+<td>一座仓库的占地面积＞1000m<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<td>火柴仓库</td>
+<td>一座仓库的占地面积＞600m<sup>2</sup></td>
+</tr>
+<tr class="even">
+<td>空邮袋库</td>
+<td>建筑面积＞500m<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<td>可燃、难燃物品的高架仓库</td>
+<td>无设置条件</td>
+</tr>
+<tr class="even">
+<td>可燃、难燃物品的高层仓库</td>
+<td>无设置条件</td>
+</tr>
+<tr class="odd">
+<td>高架冷库</td>
+<td>库内设计温度＞0℃</td>
+</tr>
+<tr class="even">
+<td>非高架冷库中建筑面积＞1500m<sup>2</sup>的防火分区</td>
+<td>库内设计温度＞0℃</td>
+</tr>
+<tr class="odd">
+<td>可燃物品地下仓库</td>
+<td>地下库房的总建筑面积＞500m<sup>2</sup></td>
+</tr>
+<tr class="even">
+<td>其他单、多层丙类物品仓库</td>
+<td>一座仓库的占地面积＞15OOm<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<td>其他单、多层丙类物品仓库</td>
+<td>一座仓库的总建筑面积＞3OOOm<sup>2</sup></td>
+</tr>
+</tbody>
+</table>
+
+
+#### 应设置自动喷水灭火系统的民用建筑或场所
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>建筑类别</strong></td>
+<td><strong>应设置自动喷水灭火系统的建筑类型或场所</strong></td>
+</tr>
+<tr class="even">
+<td>高层民用建筑</td>
+<td>一类高层公共建筑及其地下、半地下室</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>
+二类高层公共建筑及其地下、半地下室的公共活动用房、走道、办公室和旅馆的客房、可燃物品库房、自动扶梯底部
+</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>设置在高层建筑内的歌舞娱乐放映游艺场所</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>建筑高度大于100m的住宅建筑</td>
+</tr>
+</tbody>
+</table>
+
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>建筑类别</strong></td>
+<td><strong>应设置自动喷水灭火系统的建筑类型或场所</strong></td>
+</tr>
+<tr class="even">
+<td>
+单、多层民用建筑
+</td>
+<td>特等、甲等剧场、座位数＞1500座的乙等剧场</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>座位数＞2000座的会堂或礼堂</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>座位数＞3000座的体育馆</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>座位数＞5000座的体育场内的人员休息室与器材间等</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>任一层建筑面积〉1500m<sup>2</sup>的展览建筑、商店、餐饮建筑、旅馆建筑、病房楼、门诊楼、手术部</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>总建筑面积＞3OOOm<sup>2</sup>的展览建筑、商店、餐饮建筑、旅馆建筑、病房楼、门诊楼、手术部</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>总建筑面积〉3000m<sup>2</sup>并设置送回风道（管）的集中空气调节系统的办公建筑等</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>藏书量＞50万册的图书馆</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>大、中型幼儿园，床位总数＞20床或可容纳老年人总数＞20人的老年人照料设施</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>总建筑面积＞5OOm<sup>2</sup>的地下或半地下商店</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>位于地下或半地下的歌舞娱乐放映游艺场所</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>位于四层及以上楼层的设置歌舞娱乐放映游艺场所</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>任一层建筑面积＞3OOm<sup>2</sup>,并位于一层~三层的歌舞娱乐放映游艺场所</td>
+</tr>
+</tbody>
+</table>
+
