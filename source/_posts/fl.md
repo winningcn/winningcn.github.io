@@ -1,0 +1,13526 @@
+---
+title: jzfl
+banner_img: '/img/default.png'
+date: 2023-08-08 22:28:55
+tags:
+- 标准
+
+category: 安全教育
+index_img:
+excerpt: 积沙成塔
+hide: true
+---
+
+### 名词释义：
+
+1、“三小”场所即小档口、小作坊、小娱乐场所。小档口是指建筑面积在300m²以下具有销售、服务性质的商店、营业性的饮食店、汽车摩托车修理店、洗衣店、电器维修店、美容美发店（院）等场所；小作坊是指建筑高度不超过24m，且每层建筑面积在250m²以下，具有加工、生产、制造性质,火灾危险性为丙、丁、戊类的场所（含配套的仓库、办公、值班住宿等场所；小娱乐场所是指建筑面积在200m²以下的具有休闲、娱乐功能的酒吧、茶艺馆、沐足屋、棋牌室（含麻将房）、桌球室等场所。
+
+2、出租屋是指旅馆业以外以营利为目的，公民私有或单位所有出租用于他人居住的房屋。
+
+3、公共场所是指提供公众进行工作、学习、经济、文化、社交、娱乐、体育、参观、医疗、卫生、休息、旅游和满足部分生活需求所使用的一切公用建筑物、场所。包含宾馆、酒店、歌舞娱乐放映游艺、车站、码头、体育场、展厅、机关、团体、企业、事业、单位等。
+
+4、大型商业综合体是指建筑面积10000平方米（含）以上的集购物、旅店、展览、餐饮、文娱、交通枢纽等两种或两种以上功能于一体的城市商业综合体（不包括住宅和写字楼部分的建筑面积）；大型批发市场是指总建筑面积10000平方米（含）以上的大型批发市场。
+
+5、工业建筑是指供人们从事各类生产活动的建（构）筑物。包含各类工厂、仓库；堆垛场、储罐区；加油、加气站；变配电站等。
+
+### （一）“三小”场所消防安全评估细则（100分）
+
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=921
+ style='border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext'>
+ <thead>
+  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.5pt'>
+   <td width=93 style='width:70.05pt;border:solid windowtext 1.0pt;mso-border-alt:
+   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查项目</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+   "Courier New"'><o:p></o:p></span></b></p>
+   </td>
+   <td width=190 style='width:142.7pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查内容</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+   "Courier New"'><o:p></o:p></span></b></p>
+   </td>
+   <td width=435 style='width:326.05pt;border:solid windowtext 1.0pt;
+   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查标准</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+   "Courier New"'><o:p></o:p></span></b></p>
+   </td>
+   <td width=109 style='width:81.75pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查方法</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+   "Courier New"'><o:p></o:p></span></b></p>
+   </td>
+   <td width=94 style='width:70.5pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>备注</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+   "Courier New"'><o:p></o:p></span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tr style='mso-yfti-irow:1;height:29.25pt'>
+  <td width=93 rowspan=6 style='width:70.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:29.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>建筑防火及安全疏散</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>55</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>1.</span><span
+  class=GramE><span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>设置人员住宿的</span><span
+  style='font-family:"Times New Roman",serif'>“</span></span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>三小</span><span style='font-family:"Times New Roman",serif'>”</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>场所是否符合分隔要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>1.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>不符合《小档口、小作坊、小娱乐场所消防安全整治技术要求》</span><span style='font-family:
+  "Times New Roman",serif'>5.1</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>、</span><span
+  style='font-family:"Times New Roman",serif'>5.2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>条规定的，扣</span><span style='font-family:"Times New Roman",serif'>55</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:17.85pt'>
+  <td width=190 rowspan=4 style='width:142.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>2.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>安全疏散是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.85pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>2.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>安全出口设置不符合《小档口、小作坊、小娱乐场所消防安全整治技术要求》</span><span
+  style='font-family:"Times New Roman",serif'>4.6</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、</span><span style='font-family:"Times New Roman",serif'>4.7</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>、</span><span style='font-family:
+  "Times New Roman",serif'>4.9</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>条要求的，扣</span><span
+  style='font-family:"Times New Roman",serif'>25</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:13.0pt'>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>3.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>楼梯间形式不符合《小档口、小作坊、小娱乐场所消防安全整治技术要求》</span><span
+  style='font-family:"Times New Roman",serif'>5.3</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、</span><span style='font-family:"Times New Roman",serif'>5.4</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>条要求的，扣</span><span style='font-family:
+  "Times New Roman",serif'>25</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:4.5pt'>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>4.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散通道、安全出口存在堵塞、占用、锁闭的，扣</span><span style='font-family:
+  "Times New Roman",serif'>15</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:33.05pt'>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>5.</span><span class=GramE><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>设置人员住宿的</span><span
+  style='font-family:"Times New Roman",serif'>“</span></span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>三小</span><span style='font-family:"Times New Roman",serif'>”</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>场所的外窗、阳台上的防盗网未设置长宽净尺寸不小于</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>米、</span><span style='font-family:"Times New Roman",serif'>0.8</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>米且向外开启的紧急逃生口、二层（含二层）以上紧急逃生口未设置逃生缓降器、消防逃生梯或辅助爬梯等辅助疏散逃生设施的扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>新标准下发之前已开展整治的，符合之前整治标准即可</span><b
+  style='mso-bidi-font-weight:normal'><o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:33.05pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>3.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>电动车消防安全管理</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>6.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>场所内部公共区域、疏散走道和疏散楼梯间存在电动自行车违规停放或充电的，扣</span><span
+  style='font-family:"Times New Roman",serif'>20</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:20.0pt'>
+  <td width=93 rowspan=5 style='width:70.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防设施和灭火器材</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>20</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>4.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否按要求设置消防应急照明</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>7.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>场所内未配置消防应急照明，或消防应急照明灯安装不符合要求的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:4.5pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>5.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否按要求设置感烟探测报警器</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>8.</span><span class=GramE><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>设置上人阁楼的“</span></span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>三小”场所未设置智能红外体感无线感烟探测报警器或人体感应摄像头的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分；设置值班室、住宿场所以及建筑面积超过</span><span style='font-family:"Times New Roman",serif'>20m</span><span
+  lang=ZH-CN style='font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:
+  宋体'>&sup2;</span><span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>的</span><span
+  style='font-family:"Times New Roman",serif'>“</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>三小</span><span style='font-family:"Times New Roman",serif'>”</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>场所未设置独立式感烟火灾探测报警器的，或独立式感烟火灾探测报警器安装不符合要求、不能正常工作的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:24.75pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>6.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否按要求配置灭火器</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>9.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按每</span><span style='font-family:"Times New Roman",serif'>75m<sup>2</sup></span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>配备不少于</span><span style='font-family:
+  "Times New Roman",serif'>2</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>具</span><span
+  style='font-family:"Times New Roman",serif'>MFABC4</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>型手提式干粉灭火器的，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:6.75pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>7.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否按要求设备其它消防设施</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>10.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按《小档口、小作坊、小娱乐场所消防安全整治技术要求》第</span><span style='font-family:
+  "Times New Roman",serif'>6.5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>、</span><span
+  style='font-family:"Times New Roman",serif'>6.6</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>条要求设置简易喷淋和消防卷盘、轻便消防水龙的，扣</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;height:6.75pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>8.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>消防设施和灭火器材是否完好有效</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>11.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>上述</span><span style='font-family:"Times New Roman",serif'>7</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>、</span><span style='font-family:
+  "Times New Roman",serif'>8</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>、</span><span
+  style='font-family:"Times New Roman",serif'>9</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>项所列出的消防设施和灭火器材无法正常运作或使用的，每发现一项扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>测试设施器材</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>多配的不在检查范围</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;height:31.05pt'>
+  <td width=93 rowspan=8 style='width:70.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>火灾危险源控制</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>(10</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>)<o:p></o:p></span></b></p>
+  </td>
+  <td width=190 rowspan=5 style='width:142.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>9.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否存放使用火灾危险性为甲、乙类物品及火灾危险性为丙类的液体</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>12.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>小作坊在生产工艺流程中确需存放、使用火灾危险性为甲、乙类物品及火灾危险性为丙类的液体，存在下列情形之一的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分：</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>违规设置在民用建筑内；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>火灾危险性为丙类的小作坊，甲、乙类火灾危险性的生产部分占建筑面积比例大于</span><span
+  style='font-family:"Times New Roman",serif'>5%</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未设置中间仓库或中间仓库未靠外墙布置的；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>d.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>设置的中间仓库其储量超过</span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>昼夜的需要量；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>e.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>设置的甲、乙、丙类中间仓库未采用防火墙和耐火极限不低于</span><span style='font-family:
+  "Times New Roman",serif'>1.50h</span><span lang=ZH-CN style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>的不燃烧楼板与其他部位分隔的。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;height:31.05pt'>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>13.</span><span class=GramE><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>属于人员密集场所的“</span></span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>三小”场所确需使用易燃易爆化学物品，存储量超过一天的使用量或未落实专人管理、登记的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14;height:36.7pt'>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:36.7pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='mso-bidi-font-weight:bold'>14.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri;mso-bidi-font-weight:bold'>药店柜台存放超过</span><span style='mso-bidi-font-weight:
+  bold'>20L</span><span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-weight:bold'>酒精的，扣</span><span
+  style='mso-bidi-font-weight:bold'>10</span><span lang=ZH-CN style='font-family:
+  宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-weight:
+  bold'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:36.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:36.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15;height:11.8pt'>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>15.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>除餐饮经营性场所外，厨房、浴室存放装载量超过相当于</span><span style='font-family:
+  "Times New Roman",serif'>2</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>个</span><span
+  style='font-family:"Times New Roman",serif'>15kg</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>的液化石油气瓶，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.8pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16;height:28.6pt'>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>16.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>餐饮经营性场所存储液化石油气超过</span><span style='font-family:"Times New Roman",serif'>30kg</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>，应符合《城镇燃气设计规范》标准要求，按要求设置储瓶间，未设置的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17;height:28.6pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>10.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否采用木质材料搭建阁楼</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>17.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>内部采用木质材料搭建阁楼的，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18;height:22.1pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>11</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>．是否使用彩钢板、聚氨酯泡沫等易燃材料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.1pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>18.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>内部使用彩钢板、聚氨酯泡沫等易燃材料作为顶棚、隔断或内部装饰装修材料的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19;height:15.1pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>12.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>电气线路私拉乱接、电气设备使用是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>20.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电气线路私拉乱接、电气设备使用不规范，存在以下情形之一的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分</span><span style='font-family:"Times New Roman",serif'>:<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电器设备超负荷使用、线排串联；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>用铜丝、铁丝等代替保险丝；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电热炉、电加热器、电暖器、电饭锅、电熨斗、电热毯等电热器具使用后未采取拔出电源插销等切断电源的措施；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>d.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>对产生高温或使用明火的设备，未限制周围可燃物或使用期间未设专人监护；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>e.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未安装防火型漏电开关或新型防短路、防过载、防电弧断路保护开关并选用合格电气产品的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>f.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>供、用电线路未根据国家电气技术标准，采取穿金属管、封闭式金属线槽或者绝缘阻燃</span><span
+  style='font-family:"Times New Roman",serif'>PVC</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电工套管保护措施的；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>g.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>强电线路未按规定使用阻燃电缆或电气线路违规使用易燃电线电缆的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>h.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>开关、电闸、配电箱未使用符合国家市场准入电气产品的。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>I</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电线破皮、绝缘破损等</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20;height:21.7pt'>
+  <td width=93 style='width:70.05pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.7pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>日常消防</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>管理（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>13.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否签订消防安全承诺书</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.7pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>21.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未签订消防安全承诺书的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21;height:20.7pt'>
+  <td width=93 rowspan=4 style='width:70.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防宣传</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>教育培训</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>(10</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>)<o:p></o:p></span></b></p>
+  </td>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>14.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>员工是否懂得报火警</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>22.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>员工不熟悉报火警基本内容和要求的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机提问至少</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>名员工</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22;height:28.6pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>15.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>员工是否掌握本场所灭火器材使用方法</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>23.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>员工不懂得使用场所内灭火器材的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机<span
+  class=GramE>让至少</span></span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>名员工操作</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23;height:7.55pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>16.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>员工掌握火场逃生自救基本技能，熟悉逃生路线和引导人员疏散程序</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>24.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>员工不掌握逃生自救、疏散技能的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机提问至少</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>名员工</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24;mso-yfti-lastrow:yes;height:7.55pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>17.</span><span
+  class=GramE><span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否张贴“</span></span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>严禁三小场所违规住人”标识。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>25.</span><span class=GramE><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>未张贴“</span></span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>严禁三小场所违规住人”标识的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>现场查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+ 
+
+### （二）出租屋消防安全评估细则（100分）
+
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=931
+ style='border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext'>
+ <thead>
+  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.5pt'>
+   <td width=93 style='width:70.05pt;border:solid windowtext 1.0pt;mso-border-alt:
+   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>检查项目</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+   <td width=190 style='width:142.7pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>检查内容</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+   <td width=435 style='width:326.05pt;border:solid windowtext 1.0pt;
+   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>检查标准</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+   <td width=109 style='width:81.75pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>检查方法</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+   <td width=104 style='width:78.05pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>备注</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tr style='mso-yfti-irow:1;height:18.05pt'>
+  <td width=93 rowspan=3 style='width:70.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.05pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=ZH-CN style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>平面布置</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=ZH-CN style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>（</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif'>10</span></b><b><span
+  lang=ZH-CN style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分）</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>1.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>平面布置</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>1.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>出租屋与生产、储存、经营易燃易爆危险品的场所设置在同一建筑物内的，扣</span><span
+  style='font-family:"Times New Roman",serif'>100</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>直接否决项</span></b><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:29.25pt'>
+  <td width=190 rowspan=2 style='width:142.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>2.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>防火间距</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>2.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>既有出租屋的建筑之间或与其他耐火等级建筑之间的防火间距应符合下列要求之一：</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>一、二级耐火等级建筑之间或与其他耐火等级建筑之间的防火间距不宜小于</span><span
+  style='font-family:"Times New Roman",serif'>4m</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>，当相邻的两座一、二级耐火等级的建筑，其中一座建筑的相邻外墙为防火墙且较低一座建筑屋顶不设置天窗、屋顶承重构件及屋面板的耐火极限不低于</span><span
+  style='font-family:"Times New Roman",serif'>1.00h</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>时，防火间距不限；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>一、二级耐火等级建筑之间或与其他耐火等级建筑之间，当建筑相邻每面外墙上的门、窗、洞口面积之和不大于该外墙面积的</span><span
+  style='font-family:"Times New Roman",serif'>10%</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>且不正对开设时，建筑之间的防火间距可减少为</span><span style='font-family:"Times New Roman",serif'>2m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>；</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>三、四级耐火等级建筑之间的防火间距不宜小于</span><span style='font-family:"Times New Roman",serif'>6m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>，当建筑相邻外墙为不燃烧体，每面墙上的门、窗、洞口面积之和小于等于该外墙面积的</span><span
+  style='font-family:"Times New Roman",serif'>10%</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>且不正对开设时，建筑之间的防火间距可减少为</span><span style='font-family:"Times New Roman",serif'>4m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>不符合以上要求的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><b><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:29.25pt'>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>3.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑高度不大于</span><span style='font-family:"Times New Roman",serif'>15m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>的出租屋建筑密集区防火间距不满足要求时，未采取以下措施的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分：</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>耐火等级为一、二级的建筑密集区，占地面积不应超过</span><span style='font-family:
+  "Times New Roman",serif'>5000m<sup>2</sup></span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>；当超过时，应在密集区内设置宽度不小于</span><span style='font-family:"Times New Roman",serif'>6m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>的防火隔离带进行防火分隔；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>耐火等级为三、四级的建筑密集区，占地面积不应超过</span><span style='font-family:
+  "Times New Roman",serif'>3000m<sup>2</sup></span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>；当超过时，应在密集区内设置宽度不小于</span><span style='font-family:"Times New Roman",serif'>10m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>的防火隔离带进行防火分隔。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b><span style='font-size:12.0pt;font-family:
+  "Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:4.5pt'>
+  <td width=93 rowspan=6 style='width:70.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>安全疏散</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>50</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>3.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>防火分隔是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>4.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>出租屋与生产、储存、经营其他物品的场所设置在同一建筑物内时，居住部分与非居住部分未进行防火分隔，并分别设置独立的楼梯等疏散设施或未采用耐火极限不低于</span><span
+  style='font-family:"Times New Roman",serif'>2h</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>且不开设门、窗、洞口的隔墙和耐火极限不低于</span><span style='font-family:"Times New Roman",serif'>1h</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>的楼板进行分隔的，扣</span><span
+  style='font-family:"Times New Roman",serif'>60</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>建筑设计防火规范要求。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:150.55pt'>
+  <td width=190 rowspan=3 style='width:142.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:150.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>4.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>安全疏散是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:150.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>5.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散楼梯和疏散走道的设置符合以下情形之一的，每项扣</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分：</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>三层及三层以上出租屋疏散楼梯采用木楼梯或未经防火保护的金属楼梯的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑高度大于</span><span style='font-family:"Times New Roman",serif'>21m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>（含），不大于</span><span
+  style='font-family:"Times New Roman",serif'>30m</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>的出租屋建筑，疏散楼梯间不能直通屋顶平台或未能直通屋顶平台，且在每层居室通向楼梯间的出入口处未设乙级防火门分隔的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑高度</span><span style='font-family:"Times New Roman",serif'>30m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>（含）以上的出租屋建筑，疏散楼梯间不能直通屋顶平台；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>d.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>通过长度大于</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>米的内走道连接各户的出租屋，疏散楼梯没有采用封闭楼梯间的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>e.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>长度超过</span><span style='font-family:"Times New Roman",serif'>20</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>米的室内疏散走道未设置灯光疏散指示标志的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:150.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:150.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:21.1pt'>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>6.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑高度大于</span><span style='font-family:"Times New Roman",serif'>54m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>（含）的出租屋建筑，未设有两部不同方向的疏散楼梯的，扣</span><span
+  style='font-family:"Times New Roman",serif'>30</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>未设有两部不同方向的疏散楼梯的建筑高度大于</span><span
+  style='font-family:"Times New Roman",serif'>9m</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>（含）、小于</span><span style='font-family:"Times New Roman",serif'>54m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>的出租屋建筑：外窗、阳台上的<span class=GramE>防盗网未设置</span>长宽净尺寸不小于</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>米、</span><span style='font-family:"Times New Roman",serif'>0.8</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>米且向外开启的紧急逃生口或已开<span class=GramE>逃生口但锁死</span>的，扣</span><span
+  style='font-family:"Times New Roman",serif'>15</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分；未在公共区域外设置逃生软梯、逃生缓降器、消防逃生梯或辅助爬梯等辅助疏散逃生设施的扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分；在公共区域外设置的辅助疏散逃生设施间隔大于</span><span style='font-family:
+  "Times New Roman",serif'>3</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>层的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:33.05pt'>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>7.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散通道、安全出口符合以下情形之一的，扣</span><span style='font-family:"Times New Roman",serif'>30</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散通道、安全出口未保持畅通无阻，存在堵塞、占用和锁闭；</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>违规设置影响疏散的铁门、金属栅栏门等设施，或确因安全需要设置的，无法确保在任何时候均可以不借助任何工具从内部开启；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>设置门禁锁时未采用断电时处于开锁状态的电磁吸合式门锁；</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>d.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散出口的门未设置朝疏散方向开启的平开门，违规设置卷闸门、侧拉门。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:98.9pt'>
+  <td width=190 rowspan=2 style='width:142.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:98.9pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>5.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>电动车消防安全管理</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:98.9pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>8.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电动自行车管理存在以下情形之一的，扣</span><span style='font-family:"Times New Roman",serif'>30</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分：</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电动自行车在室内存放或未实行集中放置，在楼梯间、楼道、疏散通道、安全出口等区域违规停放或充电的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电动自行车室外存放确有困难，未在室内采用不燃材料完全分隔，设置独立防火单元作为电动自行车库（棚）使用，并同时配套设置简易喷淋等灭火设施的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:98.9pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:98.9pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:14.15pt'>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+  <p class=MsoBodyText><span style='font-family:"Times New Roman",serif;
+  color:windowtext'>9.</span><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";color:windowtext'>未张贴电动自行车火灾警示挂图或警示标志的，扣</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  color:windowtext'>10</span><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";color:windowtext'>分。</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;color:windowtext'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>消防安全专项整治三年行动要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:20.0pt'>
+  <td width=93 rowspan=4 style='width:70.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防设施和灭火器材</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>20</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>6.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否按要求设置消防应急照明</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>10.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散楼梯、疏散走道内未配置消防应急照明，或消防应急照明灯安装不符合要求、不能正常工作的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;height:20.0pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>7.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否按要求设置独立式感烟火灾探测报警器</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif'>11.</span><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>公共区域未设置</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>独立式感烟火灾探测报警器或联网式无线火灾报警器</span><span lang=ZH-CN
+  style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>，或</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>火灾探测报警器</span><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>安装不符合要求、不能正常工作的，扣</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>场所全部安装联网式无线火灾报警器的，此项加</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;height:24.75pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>8.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否按要求配置灭火器</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>12.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按每层公共区域至少配置</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>具</span><span style='font-family:
+  "Times New Roman",serif'>4kg ABC</span><span lang=ZH-CN style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>手提式干粉灭火器或配备的灭火器不能正常使用的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;height:6.75pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>9.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否按要求设置其它消防设施</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>13.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>出租屋建筑存在以下情形之一的，发现一处扣</span><span style='font-family:"Times New Roman",serif'>20</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分：</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑高度不大于</span><span style='font-family:"Times New Roman",serif'>21m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>的出租屋建筑未设置消防软管卷盘或简易喷淋装置的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑高度大于</span><span style='font-family:"Times New Roman",serif'>21m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>（含）的出租屋建筑未设置室内消火栓系统；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑高度大于</span><span style='font-family:"Times New Roman",serif'>21m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>（含）的出租屋建筑，公共部位未设置具有语音功能的火灾声警报装置或应急广播的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>d.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑高度大于</span><span style='font-family:"Times New Roman",serif'>21m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>（含）但不大于</span><span
+  style='font-family:"Times New Roman",serif'>54m</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>的高层出租屋建筑，其公共部位未设置火灾自动报警系统的；</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>e.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑高度大于</span><span style='font-family:"Times New Roman",serif'>54m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>（含）但不大于</span><span
+  style='font-family:"Times New Roman",serif'>100m</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>的出租屋建筑，其公共部位未设置火灾自动报警系统或套内未设置火灾探测器的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>f.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑内走道大于</span><span style='font-family:"Times New Roman",serif'>20m</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>的出租屋建筑，其疏散通道未设置排烟设施的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>g.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>设置的室内消火栓系统、消防软管卷盘、自动灭火系统、火灾自动报警系统、火灾探测器、火灾声警报装置或应急广播等不能正常使用的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>h.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>出租屋建筑未设置消防应急照明或消防应急照明的设置不符合</span><span style='font-family:
+  "Times New Roman",serif'>GB 50016</span><span lang=ZH-CN style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>的规定的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoBodyText><span class=SpellE><span style='font-family:"Times New Roman",serif;
+  color:windowtext'>i</span></span><span style='font-family:"Times New Roman",serif;
+  color:windowtext'>.</span><span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";color:windowtext'>出租屋建筑未设置消防疏散指示标志或消防疏散指示标志设置不符合</span><span
+  style='font-family:"Times New Roman",serif;color:windowtext'>GB 50016</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";color:windowtext'>的规定的。</span><span
+  style='font-family:"Times New Roman",serif;color:windowtext'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14;height:15.1pt'>
+  <td width=93 rowspan=4 style='width:70.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>火灾危险源控制</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>10</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>10.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>电气线路私拉乱接、电气设备使用是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>14.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电气线路私拉乱接、电气设备使用不规范，存在以下情形之一的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分：</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电器设备超负荷使用、线排串联；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>用铜丝、铁丝等代替保险丝；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电热炉、电加热器、电暖器、电饭锅、电熨斗、电热毯等电热器具使用后未采取拔出电源插销等切断电源的措施；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>d.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>对产生高温或使用明火的设备，未限制周围可燃物或使用期间未设专人监护；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>e.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未安装防火型漏电开关或新型防短路、防过载、防电弧断路保护开关并选用合格电气产品的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>f.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>供、用电线路未根据国家电气技术标准，采取穿金属管、封闭式金属线槽或者绝缘阻燃</span><span
+  style='font-family:"Times New Roman",serif'>PVC</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电工套管保护措施的；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>g.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>强电线路未按规定使用阻燃电缆或电气线路违规使用易燃电线电缆的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>h.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>开关、电闸、配电箱未使用符合国家市场准入电气产品的；</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoBodyText><span class=SpellE><span style='font-family:"Times New Roman",serif;
+  color:windowtext'>i</span></span><span style='font-family:"Times New Roman",serif;
+  color:windowtext'>.</span><span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";color:windowtext'>楼梯间私拉电线、违规设置电表、电闸箱、电柜等的；</span><span
+  style='font-family:"Times New Roman",serif;color:windowtext'><o:p></o:p></span></p>
+  <p class=MsoBodyText><span style='font-family:"Times New Roman",serif;
+  color:windowtext'>j.</span><span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";color:windowtext'>总闸处未采取防过载措施的。</span><span
+  style='font-family:"Times New Roman",serif;color:windowtext'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15;height:15.1pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>11.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>燃气用具安装、瓶装液化石油气使用及燃气管线敷设是否符合规定要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>15.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>存在以下情形之一的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分：</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>使用明火的厨房未采用不燃烧体隔墙和密闭门、窗与其他功能区域分隔，并设置排油烟设施或开启外窗的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>除厨房以外区域使用明火或使用、存放瓶装液化石油气及其他易燃易爆危险品的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>设置于高层建筑内或设置公共厨房的群租房未采用液化石油气瓶组供气，并设置独立瓶组间的。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16;height:15.1pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>12.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否采用木质材料搭建阁楼</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>16.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>内部采用木质材料搭建阁楼的，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17;height:19.1pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>13.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否使用彩钢板、聚氨酯泡沫等易燃材料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.1pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>17.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>内部使用彩钢板、聚氨酯泡沫等易燃材料作为顶棚、隔断或内部装饰装修材料的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18;height:24.6pt'>
+  <td width=93 rowspan=4 style='width:70.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:24.6pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防安全管理和宣传教育培训</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>(10</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>)<o:p></o:p></span></b></p>
+  </td>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>14.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>租户或业主是否懂得报火警</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.6pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>18.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>租户或业主不熟悉火警电话的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机提问至少</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>人</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19;height:28.6pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>15.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>租户或业主是否掌握本场所灭火器材使用方法</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>19.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>租户或业主不懂得使用场所内灭火器材的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机<span
+  class=GramE>让至少</span></span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>人操作</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20;height:7.55pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif'>16.</span><span lang=ZH-CN
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>租户或业主掌握火场逃生自救基本技能，熟悉逃生路线和引导人员疏散程序</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>20.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>租户或业主不掌握逃生自救、疏散技能的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机提问至少</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>人</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21;mso-yfti-lastrow:yes;height:7.55pt'>
+  <td width=190 style='width:142.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>17.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>关于张贴严禁堵塞，占用消防通道的提示</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=435 style='width:326.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>21.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未张贴严禁堵塞，占用消防通道的提示的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=109 style='width:81.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;text-indent:10.5pt;
+  mso-char-indent-count:1.0;line-height:16.0pt;mso-line-height-rule:exactly'><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>实地查看</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=104 style='width:78.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+### （三）公共场所消防安全评估细则（100分）
+
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=932
+ style='border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext'>
+ <thead>
+  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.15pt'>
+   <td width=90 style='width:67.7pt;border:solid windowtext 1.0pt;mso-border-alt:
+   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查项目</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+   "Courier New"'><o:p></o:p></span></b></p>
+   </td>
+   <td width=172 style='width:129.0pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查内容</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+   "Courier New"'><o:p></o:p></span></b></p>
+   </td>
+   <td width=494 style='width:370.55pt;border:solid windowtext 1.0pt;
+   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查标准</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+   "Courier New"'><o:p></o:p></span></b></p>
+   </td>
+   <td width=102 style='width:76.35pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查方法</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+   "Courier New"'><o:p></o:p></span></b></p>
+   </td>
+   <td width=74 style='width:55.3pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>备注</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+   "Courier New"'><o:p></o:p></span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tr style='mso-yfti-irow:1;page-break-inside:avoid;height:26.3pt'>
+  <td width=90 rowspan=4 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:26.3pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防安全</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>职责</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=172 rowspan=3 style='width:129.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.3pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>1.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否建立逐级消防安全责任制，明确单位消防安全管理人员</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.3pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>1.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未明确单位消防安全管理人员的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.3pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.3pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;page-break-inside:avoid;height:6.2pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.2pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>2.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>高层公共建筑未明确消防安全经理人的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.2pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.2pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>消防安全专项整治三年行动要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;page-break-inside:avoid;height:4.5pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>3.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未明确各级消防安全责任人及工作职责，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><b style='mso-bidi-font-weight:
+  normal'><o:p></o:p></b></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;page-break-inside:avoid;height:4.5pt'>
+  <td width=172 style='width:129.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>2.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否制定符合本单位实际的消防安全制度</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>4.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未建立或健全本单位消防安全制度的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;page-break-inside:avoid;height:4.5pt'>
+  <td width=90 rowspan=19 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>建筑防火</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>及安全</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=172 rowspan=6 style='width:129.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>3.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>总平面布局、灭火救援设施是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>5.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>存在防火间距被占用或不足的，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;page-break-inside:avoid;height:21.8pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.8pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>6.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>存在堵塞或占用消防车道、救援场地或消防车道、救援场地未落实标识化管理的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.8pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.8pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;page-break-inside:avoid;height:39.85pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:39.85pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>7.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>高层公共建筑未完成消防车通道标线施划工作的，扣</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:39.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:39.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>消防安全专项整治三年行动要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;page-break-inside:avoid;height:24.65pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.65pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>8.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>物业管理企业对违规停放车辆的车主未履行制止和报告责任，未采取措施提醒车主或向交警部门举报的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.65pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.65pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>消防安全专项整治三年行动要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;page-break-inside:avoid;height:19.2pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.2pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>9.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>人员密集场所外墙门窗上设置影响逃生和灭火救援的障碍物的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.2pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.2pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;page-break-inside:avoid;height:19.2pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.2pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>10.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防电梯设置不符合要求的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.2pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.2pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;page-break-inside:avoid;height:33.05pt'>
+  <td width=172 rowspan=4 style='width:129.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>4.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>耐火等级、防火分区、平面布置是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>11.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑的耐火等级、防火分隔存在以下任意一种情形的扣</span><span style='font-family:
+  "Times New Roman",serif'>15</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分：</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>a.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>建筑耐火等级不符合规范要求的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>b.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>不同功能场所之间的防火分隔，或消防泵房、发电机房、锅炉房、变配电间、空调机房等重点用房的防火分隔不符合规范要求的。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;page-break-inside:avoid;height:33.05pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>12.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>防火分区或防火分隔设施存在以下任意一种情况的扣</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分：</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>a.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>擅自改变防火分区或防火分区的设置不符合规范要求；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>b.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>拆除或改变防火分隔设施；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>c.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>防火分隔设施不能正常运行的（如损坏、被阻挡等）。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;page-break-inside:avoid;height:126.8pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:126.8pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>13.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>平面布置存在以下任意一种情况的扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分：</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>a.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>儿童活动场所、老年人活动场所、医院、疗养院等场所等平面布置不符合规范要求；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>b.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>剧场、电影院、礼堂、观众厅、会议厅等场所平面布置不符合规范要求；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>c.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>歌舞娱乐放映游艺场所平面布置不符合规范要求；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>d.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>锅炉房、发电机房等设备用房平面布置不符合规范要求；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>e.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>其它场所平面布置不符合规范要求。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:126.8pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:126.8pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14;page-break-inside:avoid;height:33.05pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>14.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>经营场所与居住场所设置在同一建筑物内，不符合消防技术标准的，扣</span><span
+  style='font-family:"Times New Roman",serif'>30</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15;page-break-inside:avoid;height:10.75pt'>
+  <td width=172 rowspan=2 style='width:129.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>5.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>防火构造及室内装修是否符合规范要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>15.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>防火构造（建筑构件、管道井、建筑保温、外墙装饰等）不符合规范要求的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16;page-break-inside:avoid;height:10.75pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>16.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>使用不符合消防技术标准的燃烧性能等级材料的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分；如属人员密集场所，使用易燃材料，不符合消防技术标准的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17;page-break-inside:avoid;height:19.7pt'>
+  <td width=172 rowspan=7 style='width:129.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>6.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>安全疏散设施及管理是否符合要求</span><span
+  lang=ZH-CN style='font-family:"Times New Roman",serif'> </span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.7pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>17.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散通道、安全出口数量不足的，扣</span><span style='font-family:"Times New Roman",serif'>15</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.7pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18;page-break-inside:avoid;height:25.5pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>18.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散通道、安全出口的其他设置不符合消防技术标准的，扣</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19;page-break-inside:avoid;height:3.1pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.1pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>19.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>占用、堵塞、封闭疏散通道、安全出口的，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.1pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20;page-break-inside:avoid;height:4.5pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>20.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散通道、安全出口的防火门未保持完好有效的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>计项不计量</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21;page-break-inside:avoid;height:4.5pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>21.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>内部公共区域、疏散走道和疏散楼梯间存在电动自行车违规停放或充电，发现一处扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，扣完</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分为止。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22;page-break-inside:avoid;height:4.5pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>22.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防应急照明灯、安全疏散指示标志不能正常工作或被遮挡的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>计项不计量</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23;page-break-inside:avoid;height:16.55pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>23.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未在明显位置设置安全疏散指示图的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24;page-break-inside:avoid;height:6.25pt'>
+  <td width=90 rowspan=5 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防设施器材</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>30</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=172 rowspan=5 style='width:129.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>7.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>消防设施是否完备好用</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>24.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>存在以下应设而未设消防设施或已设置但不能正常运行的，每发现一项扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>a.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>未按规范要求设置消防给水及消火栓系统或已设置但不能正常运行的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>b.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>未按规范要求设置火灾自动报警系统或已设置但不能正常运行的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>c.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>未按规范要求设置自动灭火系统或已设置但不能正常运行的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>d.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>未按规范要求设置防、排烟设施或已设置但不能正常运行的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>e.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>未按规范要求设置灭火器或已设置但未保持完好有效的。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>测试消防设施</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25;page-break-inside:avoid;height:9.0pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>25.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防设施器材的其他设置不符合消防技术标准的，每发现一项扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分，共</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分扣完为止。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26;page-break-inside:avoid;height:11.25pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>26.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未确定自动消防设施维护保养单位的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27;page-break-inside:avoid;height:14.85pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.85pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>27.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未每月开展消防设施维护保养的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28;page-break-inside:avoid;height:12.8pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.8pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>28.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防设施被遮挡、圈占、埋压的，每发现一处扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分，共</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分扣完为止。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.8pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.8pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29;page-break-inside:avoid;height:9.0pt'>
+  <td width=90 rowspan=7 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防控制室</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>(5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>)<o:p></o:p></span></b></p>
+  </td>
+  <td width=172 rowspan=7 style='width:129.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>8.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>消防控制室的管理是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>29.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室的设置不符合消防技术标准的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30;page-break-inside:avoid;height:11.75pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>30.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室未落实双人值班的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31;page-break-inside:avoid;height:19.7pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.7pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>31.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室值班记录不齐全的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.7pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32;page-break-inside:avoid;height:16.5pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>32.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室值班人员未持证上岗的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33;page-break-inside:avoid;height:29.6pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.6pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>33.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室值班人员处置程序不熟悉的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.6pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机提问</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>名值班人员</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34;page-break-inside:avoid;height:4.5pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>34.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未建立、悬挂《消防控制室管理制度》、《消防控制室值班人员职责》、《火灾接警处警程序》、《消防控制室管理及应急程序》的，扣</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35;page-break-inside:avoid;height:6.0pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>35.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按照《消防控制室通用技术要求》</span><span style='font-family:"Times New Roman",serif'>4.1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>条规定保存有关消防工作的纸质或电子档案资料的，扣</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36;page-break-inside:avoid;height:141.55pt'>
+  <td width=90 rowspan=2 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:141.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>用火用电</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>(10</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>)<o:p></o:p></span></b></p>
+  </td>
+  <td width=172 style='width:129.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:141.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>9.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>电气防火是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:141.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>36.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电气线路敷设、电气设备使用不规范，存在以下情形之一的，扣</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分</span><span
+  style='font-family:"Times New Roman",serif'>:<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电器设备超负荷使用；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>用铜丝、铁丝等代替保险丝；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电热炉、电加热器、电暖器、电饭锅、电熨斗、电热毯等电热器具使用后未采取拔出电源插销等切断电源的措施；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>d.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>对产生高温或使用明火的设备，未限制周围可燃物或使用期间未设专人监护；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>e.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未安装新型防短路、防过载、防电弧断路保护开关并选用合格电气产品的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>f.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>属于消防安全</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>重点单位</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>未安装智慧用电探测装置、传输终端和监测平台的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>g.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>供、用电线路未根据国家电气技术标准，采取穿金属管、封闭式金属线槽或者绝缘阻燃</span><span
+  style='font-family:"Times New Roman",serif'>PVC</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电工套管保护措施的；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>h.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>强电线路未按规定使用阻燃电缆或电气线路违规使用易燃电线电缆的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  class=SpellE><span style='font-family:"Times New Roman",serif'>i</span></span><span
+  style='font-family:"Times New Roman",serif'>.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>开关、电闸、配电箱未使用符合国家市场准入电气产品的；</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>j.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>私拉电线、乱装插座为电动自行车充电的；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>k.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未聘请具备资质的电气检测服务机构实施线路检测，落实电气线路年度全面检测和日常维护保养，并及时更换老化损坏的电气线路的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>l.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>存在其他不符合广东省地方标准《建筑电气防火检测技术规程》（</span><span
+  style='font-family:"Times New Roman",serif'>DBJ/T 15</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>—</span><span style='font-family:"Times New Roman",serif'>123</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>—</span><span style='font-family:
+  "Times New Roman",serif'>2018</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>）具体要求的问题；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='mso-bidi-font-weight:bold'>m.</span><span lang=ZH-CN style='font-family:
+  宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-weight:
+  bold'>使用花线、私拉乱接的；</span><span style='mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='mso-bidi-font-weight:bold'>n.</span><span lang=ZH-CN style='font-family:
+  宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-weight:
+  bold'>大功率电器周围堆放可燃物的。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:141.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:141.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37;page-break-inside:avoid;height:18.75pt'>
+  <td width=172 style='width:129.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>10.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>用火、动火是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>37.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>用火、动火存在以下情形之一的，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分：</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>发现违规使用明火、易燃易爆危险物品的；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>b.</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>需要动火作业的区域，未与使用、营业区域进行防火分隔的；</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>c.</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>商店、公共娱乐场营业时间内开展动火作业的；</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>d.</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>电气焊等动火作业前，实施动火的部门和人员未按照制度规定办理动火审批手续，清除可燃、易燃物品，配置灭火器材，落实现场监护责任人和安全措施的；</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoBodyText><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  color:windowtext'>e.</span><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";color:windowtext'>人员密集场所使用明火照明、取暖或使用明火表演或燃放焰火的；</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  color:windowtext'><o:p></o:p></span></p>
+  <p class=MsoBodyText><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  color:windowtext'>f.</span><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";color:windowtext'>烧香、吸烟、取暖等未与可燃物保持</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  color:windowtext'>5m</span><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";color:windowtext'>以上有效距离的。</span><span style='color:windowtext'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>人员密集<span
+  class=GramE>场所消防</span>安全管理</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38;page-break-inside:avoid;height:30.1pt'>
+  <td width=90 rowspan=3 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:30.1pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>防火检查和巡查</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>(5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>)<o:p></o:p></span></b></p>
+  </td>
+  <td width=172 rowspan=3 style='width:129.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:12.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>11.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否每日开展防火巡查，每月开展至少一次防火检查。公众聚集场所营业期间防火巡查每两小时至少一次，医院、养老院、寄宿制的学校、托儿所、幼儿园应当开展每日不少于</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>次的夜间防火巡查。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.1pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'>38.<span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>未按要求每日组织开展每日防火巡查的，扣</span>2<span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>分。</span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.1pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39;page-break-inside:avoid;height:33.4pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.4pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'>39.<span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>未按要求每月组织开展防火检查的，扣</span>3<span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>分。</span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>查看资料</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.4pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40;page-break-inside:avoid;height:25.45pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.45pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>40.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>防火巡查、检查记录不齐全或填写不规范的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.45pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.45pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41;page-break-inside:avoid;height:23.75pt;mso-height-rule:
+  exactly'>
+  <td width=90 rowspan=5 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:23.75pt;mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>火灾事故应急处置准备工作</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=172 rowspan=2 style='width:129.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.75pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>12.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否制定灭火和应急疏散预案，并定期开展演练。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.75pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>41.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>单位未制定预案并组织演练的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.75pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.75pt;mso-height-rule:
+  exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42;page-break-inside:avoid;height:8.65pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.65pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>42.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>单位已制定预案，但未定期组织演练的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.65pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.65pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43;page-break-inside:avoid;height:24.05pt;mso-height-rule:
+  exactly'>
+  <td width=172 rowspan=3 style='width:129.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.05pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>13.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否按有关规定建立专职消防队或志愿消防队</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.05pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>43.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按规定建立专职消防队或志愿消防队的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.05pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:24.05pt;mso-height-rule:
+  exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44;page-break-inside:avoid;height:33.65pt;mso-height-rule:
+  exactly'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.65pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>44.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>人员密集场所志愿消防队队员数量少于本场所从业人员数量</span><span
+  style='font-family:"Times New Roman",serif'>30%</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>的，扣</span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.65pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.65pt;mso-height-rule:
+  exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45;page-break-inside:avoid;height:34.5pt;mso-height-rule:
+  exactly'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.5pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal>45.<span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-hansi-font-family:Calibri'>属于年度消防安全重点单位名录的单位未按规定建立微型消防站及相关管理制度，配齐配全人员装备的，扣</span>2<span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>分。</span></p>
+  <p class=MsoBodyText><span style='color:windowtext'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.5pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.5pt;mso-height-rule:
+  exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46;page-break-inside:avoid;height:34.55pt;mso-height-rule:
+  exactly'>
+  <td width=90 rowspan=5 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:34.55pt;mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防宣传</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>教育培训</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>(10</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>)<o:p></o:p></span></b></p>
+  </td>
+  <td width=172 style='width:129.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.55pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>14.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否开展经常性消防安全宣传工作</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.55pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>46.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未开展经常性消防安全宣传的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.55pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.55pt;mso-height-rule:
+  exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47;page-break-inside:avoid;height:20.5pt'>
+  <td width=172 rowspan=3 style='width:129.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>15.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否组织员工每年至少开展一次消防培训（人员密集场所每半年至少一次），新上岗的员工开展岗前消防培训</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>47.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未定期组织员工开展消防培训的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48;page-break-inside:avoid;height:64.5pt'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:64.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>48.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>员工不能正确回答以下问题的，扣</span><span style='font-family:"Times New Roman",serif'>4</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>a.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>发生火灾后如何报警；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>b.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>发生火灾后如何进行扑救；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>c.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>如何在火灾中逃生和疏散。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 rowspan=2 style='width:76.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:64.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机抽查员工</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 rowspan=2 style='width:55.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:64.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49;page-break-inside:avoid;height:34.7pt;mso-height-rule:
+  exactly'>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.7pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>49.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>员工不熟悉本岗位消防安全职责的，每</span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>名扣</span><span style='font-family:
+  "Times New Roman",serif'>1</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分，扣完</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分为止。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50;mso-yfti-lastrow:yes;page-break-inside:avoid;
+  height:31.9pt'>
+  <td width=172 style='width:129.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.9pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>16.</span>
+  <span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>人员密集场所是否在场所内张贴《关于人员密集场所加强火灾防范的通告》；是否普及宣传电动自行车安全使用和安全充电知识，<span
+  class=GramE>在禁止停放电动自行车的建筑和场所出入口张贴“</span>电动自行车不得入内”标识。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=494 style='width:370.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.9pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>50.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按要求张贴的，扣</span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.9pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.9pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+### （四）大型商业综合体和大型批发市场消防安全评估细则（100分）
+
+（适用于总建筑面积10000平方米（含）以上的大型商业综合体和大型批发市场）
+
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=1041
+ style='border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext'>
+ <thead>
+  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.15pt'>
+   <td width=101 style='width:75.6pt;border:solid windowtext 1.0pt;mso-border-alt:
+   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>检查项目</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+   <td width=335 style='width:250.9pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>检查内容</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+   <td width=410 style='width:307.15pt;border:solid windowtext 1.0pt;
+   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>检查标准</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+   <td width=114 style='width:85.25pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>检查方法</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+   <td width=82 style='width:61.8pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>备注</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tr style='mso-yfti-irow:1;page-break-inside:avoid;height:22.5pt'>
+  <td width=101 rowspan=32 style='width:75.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>单位消防安全主体责任</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>20</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=335 rowspan=3 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.5pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>1.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否建立逐级消防安全责任制，明确单位消防安全管理人员</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>1.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>产权单位、委托管理单位以及各经营主体、使用单位未分别明确消防安全责任人、管理人，未逐级签订消防安全承诺书的，发现一处扣</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，扣完</span><span style='font-family:"Times New Roman",serif'>6</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分为止。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;page-break-inside:avoid;height:22.5pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>2.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未设立消防安全工作归口管理部门并逐级明确消防安全管理职责的，未建立消防安全专业管理团队的扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;page-break-inside:avoid;height:9.0pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>3.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未开展消防安全达标创建工作的，扣</span><span style='font-family:"Times New Roman",serif'>20</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;page-break-inside:avoid;height:15.55pt'>
+  <td width=335 rowspan=2 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>2.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否制定符合本单位实际的消防安全制度</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>4.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未逐楼层、逐区域、逐级、逐岗位明确重点岗位人员和员工的消防安全职责的，发现一处扣</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，扣完</span><span style='font-family:"Times New Roman",serif'>6</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分为止。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;page-break-inside:avoid;height:2.95pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.95pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>5.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未建立或健全本单位消防安全制度的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.95pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.95pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;page-break-inside:avoid;height:48.15pt'>
+  <td width=335 rowspan=3 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>3.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否明确消防安全重点部位</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>6.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>大型商业综合体的消防档案中未建立或健全本单位的消防安全重点部位的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.15pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;page-break-inside:avoid;height:30.95pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.95pt'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>7.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>消防安全重点部位未建立岗位消防安全责任，未明确消防安全管理的责任部门和责任人的，每发现一处扣</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，总</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.95pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.95pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;page-break-inside:avoid;height:19.05pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.05pt'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>8.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>消防安全重点部位未设置明显的提示标识，未落实防范和重点管控措施的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。消防安全重点部位未纳入防火巡查检查重点对象的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.05pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;page-break-inside:avoid;height:14.8pt'>
+  <td width=335 rowspan=3 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.8pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>4.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否违规使用易燃易爆危险物品。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.8pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>9.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>违规使用、存放或销售易燃易爆物品，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.8pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.8pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>10.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>违规住人及以店代库、超量存放易燃可燃商品货物的，扣</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>11.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>设置在地下的中型以上餐饮场所（建筑面积大于</span><span style='font-family:"Times New Roman",serif'>150</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>平方米或座位数大于</span><span
+  style='font-family:"Times New Roman",serif'>75</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>座的餐饮场所）违规使用燃气的，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>同上</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;page-break-inside:avoid;height:21.35pt'>
+  <td width=335 rowspan=7 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.35pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>5.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>消防控制室的管理是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.35pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>12.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室的设置不符合消防技术标准的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.35pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.35pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>13.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室未落实双人值班的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>14.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室值班记录不齐全的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>15.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室值班人员未持证上岗的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>16.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室值班人员处置程序不熟悉的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机抽查值班人员</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>17.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未建立、悬挂《消防控制室管理制度》、《消防控制室值班人员职责》、《火灾接警处警程序》、《消防控制室管理及应急程序》的，扣</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>18</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按照《消防控制室通用技术要求》</span><span style='font-family:"Times New Roman",serif'>4.1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>条规定保存有关消防工作的纸质或电子档案资料的，扣</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19;page-break-inside:avoid;height:15.55pt'>
+  <td width=335 rowspan=3 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>6.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否制定灭火和应急疏散预案，并定期开展演练。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>19.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>单位未制定预案并组织演练的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>20.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>单位已制定预案，但未定期组织演练的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>21.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>单位场所及各经营主体、使用单位无及时处置初期火灾的响应力量或各响应力量之间未建立应急保障机制的，扣</span><span
+  style='font-family:"Times New Roman",serif'>3</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22;page-break-inside:avoid;height:15.55pt'>
+  <td width=335 rowspan=3 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>7.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否每日开展防火巡查，每月开展至少一次防火检查。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>22.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按要求每日组织开展每日防火巡查的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>23.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按要求每月组织开展防火检查的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24;page-break-inside:avoid;height:9.7pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.7pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>24.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>防火巡查、检查记录不齐全或填写不规范的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.7pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25;page-break-inside:avoid;height:19.0pt'>
+  <td width=335 rowspan=3 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>8.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>电气防火是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>25.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未制定并严格执行用电安全管理制度的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 rowspan=2 style='width:61.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26;page-break-inside:avoid;height:12.4pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.4pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>26.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电气线路敷设、电气设备使用不规范，存在以下情形之一的，扣</span><span style='font-family:
+  "Times New Roman",serif'>3</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分</span><span
+  style='font-family:"Times New Roman",serif'>:<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电器设备超负荷使用；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>用铜丝、铁丝等代替保险丝；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电热炉、电加热器、电暖器、电饭锅、电熨斗、电热毯等电热器具使用后未采取拔出电源插销等切断电源的措施；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>d.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>对产生高温或使用明火的设备，未限制周围可燃物或使用期间未设专人监护；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>e.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未安装新型防短路、防过载、防电弧断路保护开关并选用合格电气产品的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>f.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未安装智慧用电探测装置、传输终端和监测平台的；</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>g.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>供、用电线路未根据国家电气技术标准，采取穿金属管、封闭式金属线槽或者绝缘阻燃</span><span
+  style='font-family:"Times New Roman",serif'>PVC</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电工套管保护措施的；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>h.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>强电线路未按规定使用阻燃电缆或电气线路违规使用易燃电线电缆的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  class=SpellE><span style='font-family:"Times New Roman",serif'>i</span></span><span
+  style='font-family:"Times New Roman",serif'>.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>开关、电闸、配电箱未使用符合国家市场准入电气产品的；</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>j.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>私拉电线、乱装插座为电动自行车充电的；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>k.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未聘请具备资质的电气检测服务机构实施线路检测，落实电气线路年度全面检测和日常维护保养，并及时更换老化损坏的电气线路的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>l.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>存在其他不符合广东省地方标准《建筑电气防火检测技术规程》（</span><span
+  style='font-family:"Times New Roman",serif'>DBJ/T 15—123—2018</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>）具体要求的问题。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27;page-break-inside:avoid;height:12.4pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.4pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>27.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未开展一次电气和燃气线路设施检测和维修的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.4pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28;page-break-inside:avoid;height:18.35pt'>
+  <td width=335 rowspan=2 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.35pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>9.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>用火、动火是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.35pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>28.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未制定并严格执行用火安全管理制度的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.35pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 rowspan=2 style='width:61.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.35pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29;page-break-inside:avoid;height:13.1pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.1pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>29.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑整体营业期间存在局部区域违章动火施工现象的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.1pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30;page-break-inside:avoid;height:15.55pt'>
+  <td width=335 style='width:250.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>10.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否设置客流监控设备</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>30.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未在主要进出口、人员密集部位安装客流监控设备的，扣</span><span style='font-family:
+  "Times New Roman",serif'>2</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31;page-break-inside:avoid;height:15.55pt'>
+  <td width=335 style='width:250.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>11.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否开展油烟管道全面清洗</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>31.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未每季度开展一次油烟管道全面清洗的，或无油烟管道清洗记录的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>（大型商业综合体管理规定）</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32;page-break-inside:avoid;height:15.55pt'>
+  <td width=335 style='width:250.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>12.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否开展建筑电缆井、管道井集中清理</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>32.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未开展一次建筑电缆井、管道井集中清理的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33;page-break-inside:avoid;height:15.55pt'>
+  <td width=101 rowspan=7 style='width:75.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>安全疏散设施</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>20</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=335 rowspan=7 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>13.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>安全疏散设施及管理是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>33.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散楼梯、安全出口设置数量或形式不符合国家消防技术规范要求，扣</span><span
+  style='font-family:"Times New Roman",serif'>15</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>34.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>占用、堵塞、封闭疏散通道、安全出口的，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>35.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>疏散指示标识、应急照明灯具、事故广播等疏散辅助消防设施不能正常工作或被遮挡，或存在毁损、缺失现象的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>该项存在问题的设施数量超过场所同类设施总数</span><span
+  style='font-family:"Times New Roman",serif'>5%</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>（含）的，按照总得分扣分项第</span><span style='font-family:"Times New Roman",serif'>4</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>项第二种情形处理，在总得分扣</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>36.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>疏散通道、安全出口的防火门未保持完好有效的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>37.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未在明显位置设置安全疏散指示图的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>38.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>内部公共区域、疏散走道和疏散楼梯间等区域存在电动自行车违规停放或充电，发现一处扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，扣完</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分为止。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>39.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑外墙违规设置影响逃生、自然排烟和灭火救援的障碍物的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40;page-break-inside:avoid;height:37.4pt'>
+  <td width=101 rowspan=12 style='width:75.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:37.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>平面</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>布置</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>10</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=335 rowspan=12 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:37.4pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>14.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>平面布置是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:37.4pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>40.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>平面布置与消防行政许可档案图纸不相符的，发现一处扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分，扣完</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分为止。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:37.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:37.4pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>41.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>经专家评审的建筑，未照单落实专家评审意见、消防性能化设计方案所列特殊技术要求的，发现一处扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，扣完</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分为止。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>42.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>商业配套仓储区未设置独立防火分区的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>43.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室不能直通室外的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44;page-break-inside:avoid;height:21.4pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>44.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>天面存在违章搭建的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45;page-break-inside:avoid;height:30.25pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.25pt'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>45.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>人员密集场所的居住场所采用彩钢板搭建的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.25pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>实地查看</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>46.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>违规占用防火间距的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>47.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>违规占用、堵塞消防车道的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>48.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>天井擅自围闭且未设置排烟设施的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>49.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>违规占用中庭或室内步行街的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>50.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑存在违规使用彩钢板搭建的，发现一处扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分，扣完</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分为止。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>51.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>其它场所平面布置不符合规范要求的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52;page-break-inside:avoid;height:4.5pt'>
+  <td width=101 rowspan=3 style='width:75.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>内部</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>装修</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=335 rowspan=3 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>15.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>内部装修是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>52.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>场所采用易燃可燃装修材料装修的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:4.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>53.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>特殊功能库房（如冷库）保温材料不符合燃烧性能要求的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54;page-break-inside:avoid;height:34.5pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>54.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>内部装修改造擅自改变使用性质，导致建筑耐火等级、安全疏散、消防设施设置等不符合要求的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55;page-break-inside:avoid;height:15.55pt'>
+  <td width=101 rowspan=6 style='width:75.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>防火</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分隔</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>15</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=335 rowspan=6 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>16.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>防火分隔是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>55.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>经营场所与居住场所设置在同一建筑物内，不符合消防技术标准的，扣</span><span
+  style='font-family:"Times New Roman",serif'>15</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>56.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>防火分区或防火分隔设施存在以下任意一种情况的扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分：</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>a.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>擅自改变防火分区或防火分区的设置不符合规范要求</span><span
+  style='font-family:"Times New Roman",serif'>;<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>b.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>防火分区竖向及横向分隔不到位</span><span
+  style='font-family:"Times New Roman",serif'>;<o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>c.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>拆除或改变防火分隔设施；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>d.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>防火卷帘、防火隔间、防火门等防火分隔设施不能正常运行的（如损坏、被阻挡等）。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>57.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>水、电管井防火封堵不完整的，发现一处扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分，扣完</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分为止。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>58.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>防火墙、防火分隔处建筑伸缩缝、管线穿越防火分区等位置防火封堵不完整的，发现一处扣</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，扣完</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分为止。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>59.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>商业仓储区、特殊功能库房（如冷库）与其他功能区域未采用实体墙实施完全分隔的，发现一处扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，扣完</span><span style='font-family:"Times New Roman",serif'>15</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分为止。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>60.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑外墙设置外装饰面或幕墙时，其空腔部位未按规定在楼板处采用防火封堵材料封堵的，发现一处扣</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，扣完</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分为止。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61;page-break-inside:avoid;height:39.1pt'>
+  <td width=101 rowspan=17 style='width:75.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:39.1pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;font-family:
+  "Times New Roman",serif;mso-fareast-font-family:楷体_GB2312'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>建筑消防设施（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>15</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=335 rowspan=17 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:39.1pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>17.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>消防设施是否完备好用</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:39.1pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>61.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>场所未按原消防设计审核要求或经批准的特殊设计设置消防设施，并保持完好有效的，发现一处扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，扣完</span><span style='font-family:"Times New Roman",serif'>15</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分为止。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:39.1pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:39.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>62.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>存在以下应设而未设消防设施或已设置但不能正常运行的，每发现一项扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>a.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>未按规范要求设置消防给水及消火栓系统或已设置但不能正常运行的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>b.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>未按规范要求设置火灾自动报警系统或已设置但不能正常运行的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>c.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>未按规范要求设置自动灭火系统或已设置但不能正常运行的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>d.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>未按规范要求设置防、排烟设施或已设置但不能正常运行的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:5.25pt;mso-char-indent-count:.5;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>e.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>未按规范要求设置灭火器或已设置但未保持完好有效的。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>63.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未聘请有资质的消防设施维护保养单位对场所消防设施落实定期维护保养的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>64.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未每月开展消防设施维护保养的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:65;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 style='width:307.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>65.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防设施被遮挡、圈占、埋压的，每发现一处扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分，扣完</span><span style='font-family:
+  "Times New Roman",serif'>15</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分为止。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>66.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制设备功能不齐全的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:67;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>67.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>商业配套仓储区及商铺内设短期周转仓库未按规范设置建筑消防设施的，发现一处扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，扣完</span><span style='font-family:"Times New Roman",serif'>15</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分为止。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:68;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>68.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>设计温度高于</span><span style='font-family:"Times New Roman",serif'>0℃</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>的冷库未按规范设置自动喷水灭火系统并保持完好有效的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:69;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>69.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>中庭排烟设施不符合规范要求并保持完好有效的，扣</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:70;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>70.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消火栓泵和喷淋泵电源控制柜未随时处于自动状态的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:71;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>71.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>已安装电气火灾监测系统的，加</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>加分项</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:72;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>72.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未接入城市物联网火灾远程监控系统的，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。应包括温度传感、火灾烟雾监测、水压监测、电气火灾监控、视频监控等物联感知设备的采集物联网监控系统，少一项扣</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，扣完为止。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:73;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>73.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>使用燃气部位未设置燃气泄漏报警和自动切断装置的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:74;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>74.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>餐饮场所明火厨房内未按规定设置厨房灭火系统的，或厨房灭火系统不能保持完好有效的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:75;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>75.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未进行一次全面检测，并在醒目位置张贴检测合格标识的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:76;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>76.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未开展一次建筑消防设施全面维护保养的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:77;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>77.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防设施器材的其他设置不符合消防技术标准的，每发现一项扣</span><span style='font-family:
+  "Times New Roman",serif'>3</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分，扣完</span><span
+  style='font-family:"Times New Roman",serif'>15</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分为止。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:78;page-break-inside:avoid;height:15.55pt'>
+  <td width=101 rowspan=6 style='width:75.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防安全宣传培训（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=335 rowspan=6 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>18.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否开展经常性消防安全宣传工作</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>78.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防安全责任人、管理人未经过消防安全培训的，扣</span><span style='font-family:
+  "Times New Roman",serif'>2</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:79;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>79.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防安全教育培训存在以下工作不落实情况的，每发现一项扣</span><span style='font-family:
+  "Times New Roman",serif'>2</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>a.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>未定期组织开展消防安全教育培训；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>b.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>未按时开展在职员工消防培训；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>新员工未经消防培训合格后上岗。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>a.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>查看资料</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>b.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>查看资料</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>c.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>随机提问至少</span><span style='font-family:
+  "Times New Roman",serif'>1</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>名新员工</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:80;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>80.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防宣传培训未按人员登记造册的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:81;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>81.</span><span class=GramE><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>未落实人员密集场所消防安全</span><span
+  style='font-family:"Times New Roman",serif'>“</span></span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>三提示</span><span style='font-family:"Times New Roman",serif'>”</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>要求的，扣</span><span style='font-family:
+  "Times New Roman",serif'>3</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:82;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>82.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未设置员工消防培训宣传栏的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:83;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>83.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未开展一次全员消防安全培训的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:84;page-break-inside:avoid;height:15.55pt'>
+  <td width=101 rowspan=3 style='width:75.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>灭火救援条件（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=335 rowspan=3 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>19.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否具备灭火救援条件</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>84.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>灭火救援窗无明显标识的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:85;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>85.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防车道和消防车登高场地难以满足火灾扑救要求或消防车道、消防车登高场地未落实标识化管理的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:86;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>86.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>员工不具备消防器材操作实操技能和人员疏散组织技能的，扣</span><span style='font-family:
+  "Times New Roman",serif'>3</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机提问至少</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>名员工</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:87;page-break-inside:avoid;height:15.55pt'>
+  <td width=101 rowspan=5 style='width:75.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防队站建设</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=335 rowspan=5 style='width:250.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>20.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>消防队站建设是否符合标准要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>87.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未配合辖区消防中队制定灭火应急预案的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:88;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>88.</span><span class=GramE><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>未配合辖区消防中队开展</span><span
+  style='font-family:"Times New Roman",serif'>“</span></span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>六熟悉</span><span style='font-family:"Times New Roman",serif'>”</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>工作的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:89;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>89.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未落实消防器材、设施消防安全标识化工作的，扣</span><span style='font-family:
+  "Times New Roman",serif'>2</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:90;page-break-inside:avoid;height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>90.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>微型消防站建设存在以下工作不落实情况的，每发现一项扣</span><span style='font-family:
+  "Times New Roman",serif'>2</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span class=GramE><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>未按照</span><span style='font-family:
+  "Times New Roman",serif'>“</span></span><span lang=ZH-CN style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>一楼多站、一站多点</span><span
+  style='font-family:"Times New Roman",serif'>”</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>原则建设并符合标准；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>经实地拉动测试，不具备扑救初期火灾能力；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>队员未经辖区消防中队强化业务培训考核并熟练掌握灭火实操技能；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>a.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>实地查看</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>b.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>现场拉动测试</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>c.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>查看资料、随机提问至少</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>名队员</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:91;mso-yfti-lastrow:yes;page-break-inside:avoid;
+  height:15.55pt'>
+  <td width=410 valign=top style='width:307.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>91.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未参照《超高层建筑灭火救援技术处置队建设标准》建立技术处置队，并具备相应能力水平的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=114 style='width:85.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=82 style='width:61.8pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+### （五）工业建筑消防安全评估细则（100分）
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=932
+ style='border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext'>
+ <thead>
+  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.15pt'>
+   <td width=90 style='width:67.7pt;border:solid windowtext 1.0pt;mso-border-alt:
+   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>检查项目</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+   <td width=299 style='width:224.55pt;border:solid windowtext 1.0pt;
+   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>检查内容</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+   <td width=367 style='width:275.0pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>检查标准</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+   <td width=102 style='width:76.35pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>检查方法</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+   <td width=74 style='width:55.3pt;border:solid windowtext 1.0pt;border-left:
+   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt'>
+   <p class=MsoPlainText align=center style='text-align:center;line-height:
+   20.0pt;mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:
+   12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+   mso-bidi-font-family:"Times New Roman"'>备注</span></b><b><span
+   style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tr style='mso-yfti-irow:1;page-break-inside:avoid;height:19.8pt'>
+  <td width=90 rowspan=3 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:19.8pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防安全</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>职责</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=299 rowspan=2 style='width:224.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.8pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>1.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否建立逐级消防安全责任制，明确单位消防安全管理人员</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.8pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>1.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未明确单位消防安全管理人员的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.8pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.8pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;page-break-inside:avoid;height:9.0pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>2.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未明确各级消防安全责任人及工作职责，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;page-break-inside:avoid;height:15.55pt'>
+  <td width=299 style='width:224.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='margin-right:-5.35pt;text-align:left;
+  line-height:16.0pt;mso-line-height-rule:exactly'><span style='font-family:
+  "Times New Roman",serif'>2.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否制定符合本单位实际的消防安全制度</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>3.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未建立或健全本单位消防安全制度的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;page-break-inside:avoid;height:15.55pt'>
+  <td width=90 rowspan=18 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>建筑防火</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>及安全</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>疏散</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>(30</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>)<o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=299 rowspan=4 style='width:224.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>3.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>总平面布局、灭火救援设施是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>4.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>存在防火间距被占用或不足的，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;page-break-inside:avoid;height:25.0pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>5.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>存在堵塞或占用消防车道、救援场地或消防车道、救援场地未落实标识化管理的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;page-break-inside:avoid;height:33.05pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>6.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>人员密集场所外墙门窗上设置影响逃生和灭火救援的障碍物的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;page-break-inside:avoid;height:21.7pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.7pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>7.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防电梯设置不符合要求，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.7pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;page-break-inside:avoid;height:33.05pt'>
+  <td width=299 rowspan=4 style='width:224.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>4.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>耐火等级、平面布置、防火分隔是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>8.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑的耐火等级、平面布置存在以下任意一种情形的扣</span><span style='font-family:
+  "Times New Roman",serif'>15</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分：</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>建筑耐火等级不符合规范要求的；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>锅炉房、发电机房、变配电站（室）等设备用房平面布置不符合规范要求；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>其它场所平面布置不符合规范要求。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;page-break-inside:avoid;height:33.05pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>9.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>防火分隔存在以下任意一种情况的扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分：</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>不同功能场所之间的防火分隔，或消防泵房、发电机房、锅炉房、变配电间、空调机房等重点用房的防火分隔不符合规范要求的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>中间仓库、厂房或仓库内的设置的办公室、休息室的防火分隔不符合规范要求的。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;page-break-inside:avoid;height:33.05pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>10.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>防火分区或防火分隔设施存在以下任意一种情况的扣</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分：</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>擅自改变防火分区或防火分区的设置不符合规范要求</span><span style='font-family:
+  "Times New Roman",serif'>;<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>拆除或改变防火分隔设施；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>防火分隔设施不能正常运行的（如损坏、被阻挡等）。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;page-break-inside:avoid;height:33.05pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>11.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>生产、储存场所与居住场所设置在同一建筑物内，不符合消防技术标准的，扣</span><span
+  style='font-family:"Times New Roman",serif'>30</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.05pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;page-break-inside:avoid;height:10.75pt'>
+  <td width=299 rowspan=2 style='width:224.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>5.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>防火构造及室内装修是否符合规范要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>12.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>防火构造（建筑构件、管道井、建筑保温、外墙装饰等）不符合规范要求的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;page-break-inside:avoid;height:10.75pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>13.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>使用不符合消防技术标准的燃烧性能等级材料的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分；如属人员密集场所，使用易燃材料，不符合消防技术标准的，扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14;page-break-inside:avoid;height:10.75pt'>
+  <td width=299 style='width:224.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>6.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>其它建筑防火要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>14.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>供暖、通风、空气调节系统未采取防火措施的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>15.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>有爆炸危险的场所防爆、泄压设施不符合要求的，扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15;page-break-inside:avoid;height:34.6pt'>
+  <td width=299 rowspan=7 style='width:224.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>7.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>安全疏散设施及管理是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.6pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>16.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散通道、安全出口数量不足的，扣</span><span style='font-family:"Times New Roman",serif'>15</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.6pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>借用另一处场所</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16;page-break-inside:avoid;height:25.5pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>17.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散通道、安全出口的其他设置不符合消防技术标准的，扣</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17;page-break-inside:avoid;height:3.1pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.1pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>18.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>占用、堵塞、封闭疏散通道、安全出口的，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.1pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.1pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18;page-break-inside:avoid;height:9.0pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>19.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>疏散通道、安全出口的防火门未保持完好有效的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19;page-break-inside:avoid;height:9.0pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>20.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>内部公共区域、疏散走道和疏散楼梯间存在电动自行车违规停放或充电，发现一处扣</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分，扣完</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分为止。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20;page-break-inside:avoid;height:6.25pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>21.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防应急照明、疏散指示标志设置不符合消防技术标准的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21;page-break-inside:avoid;height:16.55pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.55pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>22.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未在明显位置设置安全疏散指示图的，扣</span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.55pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.55pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22;page-break-inside:avoid;height:6.25pt'>
+  <td width=90 rowspan=5 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防设施器材</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>30</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=299 rowspan=5 style='width:224.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>8.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>消防设施是否完备好用</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>23.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>存在以下应设而未设消防设施或已设置但不能正常运行的，每发现一项扣</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按规范要求设置消防给水及消火栓系统或已设置但不能正常运行的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按规范要求设置火灾自动报警系统或已设置但不能正常运行的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按规范要求设置自动灭火系统或已设置但不能正常运行的；</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>d.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按规范要求设置防、排烟设施或已设置但不能正常运行的；</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>e.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按规范要求设置灭火器或已设置但未保持完好有效的。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>测试消防设施</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23;page-break-inside:avoid;height:9.0pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>24.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防设施器材的其他设置不符合消防技术标准的，每发现一项扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分，共</span><span
+  style='font-family:"Times New Roman",serif'>10</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分扣完为止。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24;page-break-inside:avoid;height:11.25pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>25.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未确定自动消防设施维护保养单位的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25;page-break-inside:avoid;height:14.85pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.85pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>26.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未每月开展消防设施维护保养的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26;page-break-inside:avoid;height:20.2pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.2pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>27.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防设施被遮挡、圈占、埋压的，每发现一项扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分，共</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分扣完为止。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.2pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.2pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27;page-break-inside:avoid;height:9.0pt'>
+  <td width=90 rowspan=7 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防控制室</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>(5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>)<o:p></o:p></span></b></p>
+  </td>
+  <td width=299 rowspan=7 style='width:224.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>9.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>消防控制室的管理是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>28.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室的设置不符合消防技术标准的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:9.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28;page-break-inside:avoid;height:6.25pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>29.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室未落实双人值班的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29;page-break-inside:avoid;height:19.7pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.7pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>30.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室值班记录不齐全的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.7pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.7pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30;page-break-inside:avoid;height:16.5pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>31.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室值班人员未持证上岗的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31;page-break-inside:avoid;height:29.6pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.6pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>32.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防控制室值班人员处置程序不熟悉的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.6pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机提问</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>名值班人员</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:29.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32;page-break-inside:avoid;height:41.25pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:41.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>33.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未建立、悬挂《消防控制室管理制度》、《消防控制室值班人员职责》、《火灾接警处警程序》、《消防控制室管理及应急程序》的，扣</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:41.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:41.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33;height:6.0pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>34.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按照《消防控制室通用技术要求》</span><span style='font-family:"Times New Roman",serif'>4.1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>条规定保存有关消防工作的纸质或电子档案资料的，扣</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34;height:19.85pt'>
+  <td width=90 rowspan=2 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>用火用电</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>(10</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>)<o:p></o:p></span></b></p>
+  </td>
+  <td width=299 style='width:224.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>10.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>电气防火是否符合要求</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>35.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电气线路敷设、电气设备使用不规范，存在以下情形之一的，扣</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分</span><span
+  style='font-family:"Times New Roman",serif'>:<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电器设备超负荷使用；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>用铜丝、铁丝等代替保险丝；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电热炉、电加热器、电暖器、电饭锅、电熨斗、电热毯等电热器具使用后未采取拔出电源插销等切断电源的措施；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>d.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>对产生高温或使用明火的设备，未限制周围可燃物或使用期间未设专人监护；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>e.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未安装新型防短路、防过载、防电弧断路保护开关并选用合格电气产品的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>f.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>属于消防安全重点单位未安装智慧用电探测装置、传输终端和监测平台的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>g.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>供、用电线路未根据国家电气技术标准，采取穿金属管、封闭式金属线槽或者绝缘阻燃</span><span
+  style='font-family:"Times New Roman",serif'>PVC</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>电工套管保护措施的；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>h.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>强电线路未按规定使用阻燃电缆或电气线路违规使用易燃电线电缆的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  class=SpellE><span style='font-family:"Times New Roman",serif'>i</span></span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>开关、电闸、配电箱未使用符合国家市场准入电气产品的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>j.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>私拉电线、乱装插座为电动自行车充电的；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>k.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未聘请具备资质的电气检测服务机构实施线路检测，落实电气线路年度全面检测和日常维护保养，并及时更换老化损坏的电气线路的；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>l.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>存在其他不符合广东省地方标准《建筑电气防火检测技术规程》（</span><span
+  style='font-family:"Times New Roman",serif'>DBJ/T 15—123—2018</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>）具体要求的问题。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35;page-break-inside:avoid;height:18.75pt'>
+  <td width=299 style='width:224.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>11.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>用火、动火及易燃易爆危险品的管理是否符合要求。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>36.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>发现违规使用明火、未落实易燃易爆危险物品管理要求的，扣</span><span style='font-family:
+  "Times New Roman",serif'>10</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36;page-break-inside:avoid;height:17.25pt'>
+  <td width=90 rowspan=3 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:17.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>防火检查和巡查</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>(5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>)<o:p></o:p></span></b></p>
+  </td>
+  <td width=299 rowspan=3 style='width:224.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:12.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>12.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否每日开展防火巡查，每月开展至少一次防火检查。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>37.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按要求每日组织开展每日防火巡查的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.25pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37;page-break-inside:avoid;height:12.0pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>38.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按要求每月组织开展防火检查的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>查看资料</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.0pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38;page-break-inside:avoid;height:20.75pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>39.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>防火巡查、检查记录不齐全或填写不规范的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39;page-break-inside:avoid;height:19.9pt;mso-height-rule:
+  exactly'>
+  <td width=90 rowspan=5 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:19.9pt;mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>火灾事故应急处置准备工作</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>5</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=299 rowspan=2 style='width:224.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.9pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>13.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否制定灭火和应急疏散预案，并定期开展演练。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.9pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>40.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>单位未制定预案并组织演练的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.9pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.9pt;mso-height-rule:
+  exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40;page-break-inside:avoid;height:8.65pt'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.65pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>41.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>单位已制定预案，但未定期组织演练的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.65pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.65pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41;page-break-inside:avoid;height:21.8pt;mso-height-rule:
+  exactly'>
+  <td width=299 rowspan=3 style='width:224.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.8pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>14.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否按有关规定建立专职消防队或志愿消防队</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.8pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>42.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按规定建立专职消防队或志愿消防队的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.8pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.8pt;mso-height-rule:
+  exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42;page-break-inside:avoid;height:33.65pt;mso-height-rule:
+  exactly'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.65pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>43.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>人员密集场所志愿消防队队员数量少于本场所从业人员数量</span><span
+  style='font-family:"Times New Roman",serif'>30%</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>的，扣</span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.65pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:33.65pt;mso-height-rule:
+  exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43;page-break-inside:avoid;height:56.15pt;mso-height-rule:
+  exactly'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:56.15pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>44.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>属于年度消防安全重点单位名录的单位未按规定建立微型消防站及相关管理制度，配齐配全人员装备的，扣</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:56.15pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:56.15pt;mso-height-rule:
+  exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44;page-break-inside:avoid;height:20.65pt;mso-height-rule:
+  exactly'>
+  <td width=90 rowspan=5 style='width:67.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.65pt;mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防宣传</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>教育培训</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>(10</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>)<o:p></o:p></span></b></p>
+  </td>
+  <td width=299 style='width:224.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.65pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>15.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否开展经常性消防安全宣传工作</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.65pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>45.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未开展经常性消防安全宣传的，扣</span><span style='font-family:"Times New Roman",serif'>2</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.65pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.65pt;mso-height-rule:
+  exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45;page-break-inside:avoid;height:20.6pt'>
+  <td width=299 rowspan=3 style='width:224.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>16.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>是否组织员工每年至少开展一次消防培训（人员密集场所每半年至少一次），新上岗的员工开展岗前消防培训</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.6pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>46.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未定期组织员工开展消防培训的，扣</span><span style='font-family:"Times New Roman",serif'>3</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.6pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46;page-break-inside:avoid;height:64.05pt;mso-height-rule:
+  exactly'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:64.05pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>47.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>员工不能正确回答以下问题的，扣</span><span style='font-family:"Times New Roman",serif'>4</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>发生火灾后如何报警；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>发生火灾后如何进行扑救；</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>c.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>如何在火灾中逃生和疏散。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 rowspan=2 style='width:76.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:64.05pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机抽查员工</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 rowspan=2 style='width:55.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:64.05pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47;page-break-inside:avoid;height:31.3pt;mso-height-rule:
+  exactly'>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.3pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>48.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>员工不熟悉本岗位消防安全职责的，每</span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>名扣</span><span style='font-family:
+  "Times New Roman",serif'>1</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分，扣完</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分为止。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48;mso-yfti-lastrow:yes;page-break-inside:avoid;
+  height:31.9pt'>
+  <td width=299 style='width:224.55pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.9pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>17.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>人员密集场所是否在场所内张贴《关于人员密集场所加强火灾防范的通告》；是否普及宣传电动自行车安全使用和安全充电知识，<span
+  class=GramE>在禁止停放电动自行车的建筑和场所出入口张贴<span lang=EN-US style='font-family:"Times New Roman",serif'>“</span></span>电动自行车不得入内</span><span
+  style='font-family:"Times New Roman",serif'>”</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>标识。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=367 style='width:275.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.9pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>49.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未按要求张贴的，扣</span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=102 style='width:76.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.9pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=74 style='width:55.3pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.9pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+### （六）市政消火栓建设评估细则（100分）
+
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=933
+ style='border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:28.3pt'>
+  <td width=94 style='width:70.35pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.3pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>项目</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+  "Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=118 style='width:88.25pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:28.3pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查内容</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+  "Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=558 style='width:418.35pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:28.3pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查标准</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+  "Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=105 style='width:79.1pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:28.3pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查方法</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+  "Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=58 style='width:43.45pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:28.3pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>备注</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+  "Courier New"'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:37.5pt'>
+  <td width=94 rowspan=3 style='width:70.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+  mso-hansi-font-family:Calibri;mso-font-kerning:0pt'>市政消火栓建设</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;mso-font-kerning:0pt'><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+  mso-hansi-font-family:Calibri;mso-font-kerning:0pt'>（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;mso-font-kerning:0pt'>100</span></b><b style='mso-bidi-font-weight:
+  normal'><span lang=ZH-CN style='font-size:12.0pt;mso-bidi-font-size:11.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+  mso-font-kerning:0pt'>分）</span></b><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;mso-fareast-font-family:仿宋_GB2312'><o:p></o:p></span></p>
+  </td>
+  <td width=118 rowspan=3 style='width:88.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>是否按标准建设市政消火栓，并保持完好有效。</span></p>
+  </td>
+  <td width=558 style='width:418.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'>1.<span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>主干道每</span>120m<span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-hansi-font-family:Calibri'>应建设</span>1<span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>个市政消火栓。检查火灾高风险区域所有主干道上的市政消火栓，检查发现缺少</span>1<span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>个扣</span>10<span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-hansi-font-family:Calibri'>分，损坏</span>1<span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>个扣</span>5<span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-hansi-font-family:Calibri'>分。</span></p>
+  </td>
+  <td width=105 style='width:79.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>实地查看</span></p>
+  </td>
+  <td width=58 style='width:43.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:37.5pt'>
+  <td width=558 style='width:418.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'>2.<span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>市政消火栓距路边小于</span>0.5m<span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>或大于</span>2.0m<span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>的，发现</span>1<span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-hansi-font-family:Calibri'>个扣</span>2<span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>分。当市政道路宽度超过</span>60m<span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>时，未在道路的两侧交叉错落设置市政消火栓的，发现</span>1<span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>处扣</span>5<span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-hansi-font-family:Calibri'>分。</span></p>
+  </td>
+  <td width=105 style='width:79.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>实地查看</span></p>
+  </td>
+  <td width=58 style='width:43.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:20.35pt'>
+  <td width=558 style='width:418.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'>3.<span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>市政消火栓最小供水压力低于</span>0.15MPa<span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>的，发现一处扣</span>2<span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>分。</span></p>
+  </td>
+  <td width=105 style='width:79.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>实地测试</span></p>
+  </td>
+  <td width=58 style='width:43.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+</table>
+### （七）多种形式消防队伍建设评估细则（100分）
+
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=1017
+ style='margin-left:-32.05pt;border-collapse:collapse;mso-table-layout-alt:
+ fixed;border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;
+ mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:18.95pt'>
+  <td width=57 rowspan=2 style='width:42.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.95pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分类<span
+  class=GramE>一</span></span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+  <td width=56 rowspan=2 style='width:41.95pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.95pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>建队等级</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+  <td width=861 colspan=16 style='width:645.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.95pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>建队标准（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>30</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=43 rowspan=2 style='width:32.45pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.95pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>得分</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:45.75pt'>
+  <td width=50 style='width:37.7pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>人数（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>4</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=108 colspan=2 style='width:81.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>工资福利</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>3</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>劳动合同</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>3</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=96 colspan=2 style='width:72.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>社保、人身意外伤亡保险（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'>4</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分）</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>车辆（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>4</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=144 colspan=3 style='width:108.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>个人基本防护装备</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>4</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=96 colspan=2 style='width:72.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>随车器材装备（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'>4</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分）</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=72 style='width:54.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>建设用地面积</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>1</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=48 colspan=2 style='width:35.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>建筑</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>面积</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>1</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=91 style='width:68.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>场库室</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>2</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:122.5pt'>
+  <td width=57 style='width:42.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>乡镇</span><span style='font-family:"Times New Roman",serif'>/</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>街道</span><span style='font-family:
+  "Times New Roman",serif'>/</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>片区</span><span
+  style='font-family:"Times New Roman",serif'>/</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>工业园区</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:41.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>一级乡镇专职消防队</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=50 style='width:37.7pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>总数</span><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>≧</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>15</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>人，其中专职消防队员</span><span lang=ZH-CN style='font-size:
+  10.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>≧</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>8</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>人</span><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=108 colspan=2 style='width:81.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>政府专职消防队员工资待遇不低于本地事业单位职工工资待遇水平。检查专职消防队员近三个月工资发放记录，未全部达标的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>要依法订立劳动合同。检查满</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>1</span><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>年以上专职消防员的劳动合同，采取劳务派遣等不依法依规用工的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=96 colspan=2 style='width:72.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>落实专职消防队员</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>“</span><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>五险<span
+  class=GramE>一</span>金</span><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>”</span><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>及人身伤害保险待遇。检查专职消防队员社保卡、公积金和人身意外伤害保险凭证，未全部落实的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=60 style='width:45.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>水罐消防车</span><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>≧</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>辆、其他灭火消防车或专勤消防车</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>1</span><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>辆</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=144 colspan=3 style='width:108.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>对照《乡镇消防队》（</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>GB/T 35547-2017</span><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>），逐一检查消防员个人基本防护装备，配备数量或备份比与人数不匹配的，此项不得分；随机抽查</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>件器材，不完整好用的，此项不得分</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=96 colspan=2 style='width:72.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>对照《乡镇消防队》（</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>GB/T 35547-2017</span><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>），逐一检查随车器材装备，配备数量不达标的，此项不得分；随机抽查</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>件器材，不完整好用的，此项不得分</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=72 style='width:54.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1000m<sup>2</sup>—1200m<sup>2</sup><o:p></o:p></span></p>
+  </td>
+  <td width=48 colspan=2 style='width:35.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>600m<sup>2</sup>—700m<sup>2</sup><o:p></o:p></span></p>
+  </td>
+  <td width=91 style='width:68.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>对照《乡镇消防队》（</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>GB/T 35547-2017</span><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>），逐一检查场库室设置，有</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>处不符合要求的，此项不得分</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=43 style='width:32.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:39.15pt'>
+  <td width=57 rowspan=2 style='width:42.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:39.15pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分类二</span></b><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=56 rowspan=2 style='width:41.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:39.15pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>建队等级</span></b><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=861 colspan=16 style='width:645.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:39.15pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>建队标准（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:"Times New Roman",serif'>20</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+  <td width=43 style='width:32.45pt;border-top:none;border-left:none;
+  border-bottom:none black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;mso-border-bottom-alt:none black 0cm;
+  padding:0cm 5.4pt 0cm 5.4pt;height:39.15pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>得分</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:83.85pt'>
+  <td width=156 colspan=2 style='width:116.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:83.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>人数（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>4</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=134 colspan=3 style='width:100.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:83.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>车辆（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>4</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=207 colspan=4 style='width:155.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:83.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>个人基本防护装备（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'>4</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分）</span></b><span style='font-size:
+  10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=120 colspan=2 style='width:90.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:83.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>建筑面积（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>3</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=134 colspan=3 style='width:100.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:83.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>管理制度（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>3</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=110 colspan=2 style='width:82.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:83.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>作战演练（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>2</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=43 style='width:32.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:83.85pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:122.5pt'>
+  <td width=57 style='width:42.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>社区</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:41.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>社区小型消防站</span><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=156 colspan=2 style='width:116.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>总数</span><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>≧</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>12</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>人，明确</span><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'>1</span><span lang=ZH-CN
+  style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>名通信员、</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>名火场安全员。</span><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=134 colspan=3 style='width:100.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>水罐消防车</span><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>≧</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>辆（载水量</span><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>≧</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1.5t</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>）、消防摩托车</span><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>≧</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>辆。</span><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=207 colspan=4 style='width:155.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>对照深圳市安委会《关于印发深圳市小型消防站建设运行管理办法的通知》（深安</span><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:仿宋_GB2312;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>〔</span><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-fareast-font-family:仿宋_GB2312;mso-font-kerning:0pt'>2020</span><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:仿宋_GB2312;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>〕</span><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-fareast-font-family:仿宋_GB2312;mso-font-kerning:0pt'>5</span><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:仿宋_GB2312;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>号）</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>，逐一检查消防员个人基本防护装备，配备数量或备份比与人数不匹配的，此项不得分；随机抽查</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>件器材，不完整好用的，此项不得分</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=120 colspan=2 style='width:90.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>145m<sup>2</sup>—280m<sup>2</sup><o:p></o:p></span></p>
+  </td>
+  <td width=134 colspan=3 style='width:100.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>检查日常管理、排班值守、防火巡查、宣传教育、训练和灭火、联防联勤等工作制度</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=110 colspan=2 style='width:82.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>定期开展基本技能训练和灭火演练</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=43 style='width:32.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:122.5pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:20.3pt'>
+  <td width=57 rowspan=2 style='width:42.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.3pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分类三</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+  <td width=56 rowspan=2 style='width:41.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.3pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>建队等级</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=861 colspan=16 style='width:645.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.3pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>建队标准（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>30</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=43 style='width:32.45pt;border-top:none;border-left:none;
+  border-bottom:none black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;mso-border-bottom-alt:none black 0cm;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.3pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:25.55pt'>
+  <td width=158 colspan=3 style='width:118.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.55pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>人数（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>5</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.55pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>值守制度</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>4</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=96 colspan=2 style='width:72.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.55pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>业务训练</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>4</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=98 colspan=2 style='width:73.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.55pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>联勤联动</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>3</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=106 colspan=2 style='width:79.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.55pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>车辆</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>4</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=96 colspan=2 style='width:72.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.55pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>个人防护装备</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>4</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=120 colspan=3 style='width:89.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.55pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>消防宣传教育</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>3</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=91 style='width:68.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.55pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>防火巡查</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>3</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=43 style='width:32.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.55pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:104.75pt'>
+  <td width=57 style='width:42.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>社区</span><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（村）</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:41.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>社区（村）微型消防站</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=158 colspan=3 style='width:118.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>总数</span><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>≧</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>6</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>人。检查花名册，队员人数不符合要求或站长非居（村）民委员会主要领导担任的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>设立值班室，实行</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>24</span><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>小时值班（备勤）制，分班编组值守，每班不少于</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>3</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>人，并设班（组）长一名。检查值班记录和编组情况，不达标的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=96 colspan=2 style='width:72.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>每周开展业务训练不少于</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>1</span><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>次；每月开展不少于</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>次对所辖区域内道路、水源、所辖单位熟悉工作。检查业务训练记录，不达标的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=98 colspan=2 style='width:73.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>检查微型站出警记录和当地消防救援站调度记录，未实行微型站统一调度，并纳入当地灭火救援联勤联动体系的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=106 colspan=2 style='width:79.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>消防摩托车（电瓶车）</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>≥1<o:p></o:p></span></p>
+  </td>
+  <td width=96 colspan=2 style='width:72.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>对照《<span style='mso-bidi-font-weight:bold'>广东省社区（村）微型消防站</span>建设标准（试行）》，逐一检查队员个人基本防护装备，配备数量与人数不匹配的，该项不得分；随机抽查</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>名队员现场操作消防器材，器材不完整好用或队员不熟悉器材操作的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=120 colspan=3 style='width:89.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=ZH-CN
+  style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>检查联合辖区域内的单位开展知识培训、疏散演练、实战演练等多种形式普及防火、灭火和自救逃生等消防安全常识的工作档案。未开展消防宣传教育的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=91 style='width:68.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>检查防火巡查记录，核查微型<span class=GramE>站是否配合网格员</span>对居民住宅楼院、居民小区、基层企事业单位实施防火巡查。无效果管巡查记录的，该项不得分。设置专职<span
+  class=GramE>网格员</span>实施防火巡查的社区的微型消防站队员可不从事防火巡查</span><span style='font-size:
+  10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=43 style='width:32.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:18.35pt'>
+  <td width=57 rowspan=2 style='width:42.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.35pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分类四</span></b><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=56 rowspan=2 style='width:41.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.35pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>建队等级</span></b><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=861 colspan=16 style='width:645.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.35pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>建队标准（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>20</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=43 style='width:32.45pt;border-top:none;border-left:none;
+  border-bottom:none black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;mso-border-bottom-alt:none black 0cm;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.35pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:31.05pt'>
+  <td width=158 colspan=3 style='width:118.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分类设置（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>4</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>人数（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>3</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=96 colspan=2 style='width:72.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>装备配备</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>3</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=98 colspan=2 style='width:73.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>值守制度</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>2</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=106 colspan=2 style='width:79.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>日常管理</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>2</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=96 colspan=2 style='width:72.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>联勤联训</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>2</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=120 colspan=3 style='width:89.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>消防安全检查</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>2</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=ZH-CN style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=91 style='width:68.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>消防宣传教育培训（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'>2</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:10.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分）</span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=43 style='width:32.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.05pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;height:104.75pt'>
+  <td width=57 style='width:42.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防安全重点</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>单位</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:41.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>重点单位微型消防站</span><span style='font-size:10.0pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=158 colspan=3 style='width:118.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>按照《广东省消防安全重点单位微型消防站建设标准（试行）》实施分类</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>设置，即一类微型消防站、二类微型消防站、三类微型消防站。未按标准分类设置的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>人员配备符合微型消防站人员配备标准和要求。不符合要求的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=96 colspan=2 style='width:72.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>逐一检查消防摩托车和个人防护装备，不符合配备标准的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=98 colspan=2 style='width:73.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>检查值班记录和编组情况，未建立值守制度，分班编组值守的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=106 colspan=2 style='width:79.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>检查训练和培训记录，队员未定期开展体能和消防技能训练或微型站未对重点单位消防员进行在岗消防业务培训，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=96 colspan=2 style='width:72.05pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>检查训练记录，辖区消防救援站未定期对重点单位微型消防站队员开展灭火救援业务培训，落实联勤联训制度的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=120 colspan=3 style='width:89.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=ZH-CN
+  style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>检查《每日防火巡查记录表》等相关记录，未每月对本单位至少开展</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>1</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>次全面消防安全检查，或未每日开展防火巡查的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=91 style='width:68.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>抽查</span><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'>1</span><span lang=ZH-CN
+  style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>名员工，未经消防安全培训上岗，或不具备消除火灾隐患能力、扑救初起火灾能力、组织人员疏散逃生能力、消防宣传教育能力</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'>“</span><span lang=ZH-CN style='font-size:10.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>四个能力</span><span style='font-size:10.0pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'>”</span><span lang=ZH-CN
+  style='font-size:10.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>的，该项不得分</span><span
+  style='font-size:10.0pt;font-family:"Times New Roman",serif;mso-font-kerning:
+  0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=43 style='width:32.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:104.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;mso-yfti-lastrow:yes;height:37.65pt'>
+  <td width=57 style='width:42.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:37.65pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>备注</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=960 colspan=18 style='width:720.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:37.65pt'>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>1.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>辖区驻有消防救援站的乡镇，可免建专职消防队；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>2.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>消防救援站保护范围之内的街道，考核组现场选择辖区最不利点，按照</span><span
+  style='font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分钟到达的标准，进行消防救援站出警响应时间测试。符合标准的，可免建专职消防队；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>3.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>消防救援站保护范围之外的街道，应建立政府专职消防队；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>4.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>所有火灾高风险区域的政府专职消防队，全部执行一级乡镇专职消防队标准；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>5.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>所有火灾高风险区域辖区内下辖行政村、社区的，行政村社区均应按标准建立社区（村）微型消防站，并进行评估计分；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>6.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>所有火灾高风险区域辖区内符合消防安全重点单位界定标准（含已公告明确的消防安全重点单位和应列未列为消防安全重点单位）的建筑，均应按标准建立重点单位微型消防站，并进行评估计分；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>7.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>火灾高风险区域为社区的，按照社区标准对社区（村）微型消防站、重点单位微型消防站两类消防队伍进行评估计分；</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal><span style='font-family:"Times New Roman",serif'>8.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>火灾高风险区域辖区内社区（村）微型消防站和重点单位微型消防站在</span><span
+  style='font-family:"Times New Roman",serif'>2</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>个以上的，以平均得分计分。</span><span lang=ZH-CN style='font-family:
+  "Times New Roman",serif'> </span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <![if !supportMisalignedColumns]>
+ <tr height=0>
+  <td width=57 style='border:none'></td>
+  <td width=56 style='border:none'></td>
+  <td width=50 style='border:none'></td>
+  <td width=103 style='border:none'></td>
+  <td width=2 style='border:none'></td>
+  <td width=94 style='border:none'></td>
+  <td width=35 style='border:none'></td>
+  <td width=58 style='border:none'></td>
+  <td width=59 style='border:none'></td>
+  <td width=37 style='border:none'></td>
+  <td width=48 style='border:none'></td>
+  <td width=56 style='border:none'></td>
+  <td width=62 style='border:none'></td>
+  <td width=33 style='border:none'></td>
+  <td width=72 style='border:none'></td>
+  <td width=41 style='border:none'></td>
+  <td width=22 style='border:none'></td>
+  <td width=90 style='border:none'></td>
+  <td width=43 style='border:none'></td>
+ </tr>
+ <![endif]>
+</table>
+### （八）消防安全网格化管理评估细则（100分）
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=948
+ style='border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.9pt'>
+  <td width=109 style='width:81.4pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>项目</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+  "Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=168 style='width:125.8pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查内容</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+  "Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=301 style='width:225.75pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查标准</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+  "Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=322 style='width:241.65pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>检查方法</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+  "Courier New"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=49 style='width:36.65pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>备注</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+  "Courier New"'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:26.35pt'>
+  <td width=109 rowspan=14 style='width:81.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:26.35pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:Calibri;
+  mso-hansi-font-family:Calibri;mso-font-kerning:0pt'>消防安全网格化管理（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;mso-font-kerning:0pt'>100</span></b><b style='mso-bidi-font-weight:
+  normal'><span lang=ZH-CN style='font-size:12.0pt;mso-bidi-font-size:11.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+  mso-font-kerning:0pt'>分）</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;mso-bidi-font-size:11.0pt;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=168 rowspan=9 style='width:125.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.35pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'>1.<span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>网格化管理（</span>70<span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-hansi-font-family:Calibri'>分）</span></p>
+  </td>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.35pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'>1.<span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>未明确承担消防安全网格化管理职责的机构或部门的，扣</span>10<span lang=ZH-CN style='font-family:
+  宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>分。</span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.35pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>查阅文件资料</span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.35pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:50.8pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:50.8pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'>2.<span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>未将</span><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>消防网格纳入当地综治网格化管理体系或消防网格编码未采用综治网格统一编码的，未单独使用消防安全网格化管理信息管理系统，或未将消防安全网格化管理模块纳入基层综治、社区、网格等信息化管理平台，</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>扣</span>5<span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-hansi-font-family:Calibri'>分。</span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:50.8pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>查看消防网格、综治网格系统及编码等。未启用综治网格系统的，查阅核实是否印发贯彻落实意见，消防网格是否按要求划分并统一编码。查看<span
+  class=GramE>网格员</span>是否使用消防安全网格化信息管理系统。</span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:50.8pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:50.7pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:50.7pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'>3.<span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>街道、社区（村）、消防网格未按《关于进一步规范乡镇街道消防安全网格化管理的意见》要求落实人员和组织架构的，</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>扣</span>10<span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-hansi-font-family:Calibri'>分。</span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:50.7pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>查看组织架构图，并对所有街道、各社区（村）的<span class=GramE>网格员</span>身份进行核实，发现</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体;
+  mso-font-kerning:0pt'>1<span lang=ZH-CN>名人员未按要求配齐的，扣</span>5<span lang=ZH-CN>分，扣完为止。</span></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:50.7pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:48.0pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体;
+  mso-font-kerning:0pt'>4.<span class=GramE><span lang=ZH-CN>街道消防安全网格管理中心未建立健全消防安全网格化管理</span>“</span><span
+  lang=ZH-CN>四步闭环</span>”<span lang=ZH-CN>工作流程（即</span>“<span lang=ZH-CN>发现上报、调度处置、回访复查、评价结案</span>”<span
+  lang=ZH-CN>），实现作业流程标准化的，扣</span>5<span lang=ZH-CN>分。</span><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>结合所有“三小”场所、出租屋评估进行现场核查，检查工作流程是否规范，隐患是否查改到位，发现</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体;
+  mso-font-kerning:0pt'>1<span lang=ZH-CN>家不符合工作流程要求的，扣</span>2<span
+  lang=ZH-CN>分，扣完为止。</span><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:48.0pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>5.</span><span class=GramE><span lang=ZH-CN
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>街道未明确</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>“</span></span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>三合一</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>”</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>场所检查整治部门、人员，未严格落实</span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>“</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>谁检查、谁负责</span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>”</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>制度，坚决打击</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>“</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>违规住人</span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>”</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>现象，未实时动态登记场所信息并建立台账的，扣</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>10</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分。</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  class=GramE><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-font-kerning:0pt'>查看台</span></span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>账资料，未将</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>“</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>三合一</span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>”</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>场所列为每月必查对<span class=GramE>象</span>并建立健全火灾隐患跟踪和复查回访机制并落实的扣</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>3</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分；每周开展夜间错时检查行动少于</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>1</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>次的，扣</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>2</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>分。每月上门宣传服务少于</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'>1</span><span lang=ZH-CN
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>次的，扣</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>2</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分。每半年分街巷组织灭火救援疏散演练少于</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>1</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>次的，扣</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>3</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>分。</span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:48.0pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>6.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>街道未开展出租屋日常火灾隐患排查整治工作，未实时动态登记场所信息并建立台账的，扣</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>10</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分。</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  mso-pagination:widow-orphan'><span class=GramE><span lang=ZH-CN
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>查看台</span></span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>账资料，每周排查数量少于辖区内逐条街巷出租屋数量的</span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>20%</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>或未同步开展上门宣传服务的扣</span><span style='mso-bidi-font-size:10.5pt;font-family:
+  "Times New Roman",serif;mso-font-kerning:0pt'>3</span><span lang=ZH-CN
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分；每周开展夜间错时检查行动少于</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>1</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>次的，扣</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>2</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>分；每季度应组织消防安全主题活动少于</span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>1</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>次的，扣</span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>2</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分；每半年分街巷组织灭火救援疏散演练少于</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>1</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>次的，扣</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>2</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>分。</span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:48.0pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>7.</span><span class=GramE><span lang=ZH-CN
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>未全面建立消防安全网格化管理</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>“</span></span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>红、黄、绿</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>”</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>三色预警动态监管机制，科学确定具体判定条件和监管举措的，扣</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>5</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>分。</span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>结合所有</span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>“</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>三小</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>”</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>场所、出租屋评估进行现场核查，发现</span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>1</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>家未按三色预警动态进行监管的，扣</span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>2</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>分，扣完为止。</span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:48.0pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>8.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>未实行网格事件采集主体和处置主体相分离的（即网格员主要负责网格巡查，排查问题隐患、处置轻微消防隐患、上报规定事件。街道要协同各部门强化联合执法，建立常态化和长效化的网格联合执法工作机制，及时处置消防安全案事件），扣</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>5</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分。</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>结合所有</span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>“</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>三小</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>”</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>场所、出租屋评估进行现场核查，发现</span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>1</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>家未实行事件采集主体和处置主体相分离的，扣</span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>2</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>分，扣完为止。</span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:34.95pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.95pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>9.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>未将消防安全网格化管理纳入社会治安综合治理检查考评和政务督查内容，建立健全考评奖惩工作机制，<span
+  class=GramE>或未按<span lang=EN-US style='font-family:"Times New Roman",serif'>“</span></span>三率</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>”</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>（检查任务完成率、隐患发现率、隐患查处率）要求，对职能部门、社区（村）和消防网格员进行考评的，扣</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>10</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分。</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.95pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+  0pt'>查阅街道、各社区（村）相关文件、通知、考评通报、资料。</span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.95pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:2.9pt'>
+  <td width=168 rowspan=5 style='width:125.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'>2.<span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>消防宣传培训（</span>30<span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-hansi-font-family:Calibri'>分）</span></p>
+  </td>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>10.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未设置不少于</span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>处的消防科普体验场所并定期对外开放，或未利用消防宣传车每天开展街面宣传的，扣</span><span
+  style='font-family:"Times New Roman",serif'>6</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看文件、图片影像档案资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;height:2.9pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>11.</span><span class=GramE><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>未开展消防宣传</span><span
+  style='font-family:"Times New Roman",serif'>“</span></span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>五进</span><span style='font-family:"Times New Roman",serif'>”</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>活动，未开展以电动自行车火灾预防宣传为主的消防宣传活动，未开展疏散逃生演练、消防安全体验系列宣传活动的，扣</span><span
+  style='font-family:"Times New Roman",serif'>6</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>结合所有社会单位场所评估进行现场核查，发现</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>家未按要求落实的，扣</span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分，扣完为止。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;height:2.9pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>12.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>查看文件、图片影像档案资料，<span class=GramE>未组织镇级消防<span lang=EN-US
+  style='font-family:"Times New Roman",serif'>“</span></span>讲师团</span><span
+  style='font-family:"Times New Roman",serif'>”</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>走进养老院、福利院、出租屋、幼儿园等开展培训活动的，扣</span><span style='font-family:
+  "Times New Roman",serif'>6</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>结合养老院、福利院、出租屋、幼儿园等单位场所评估进行现场核查，发现</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>家未按要求落实的，扣</span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分，扣完为止。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;height:2.9pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>13.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>查看文件、图片影像档案资料，在重要节日、重要节点未通过媒体、手机短信、微博微信等发布火灾防范提示的，扣</span><span
+  style='font-family:"Times New Roman",serif'>6</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查看资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14;height:2.9pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>14.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>实地抽查电影院、剧院、网吧、宾馆、酒店等社会单位，未开展提示性消防宣传的，扣</span><span
+  style='font-family:"Times New Roman",serif'>6</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>结合电影院、剧院、网吧、宾馆、酒店等单位场所评估进行现场核查，发现</span><span
+  style='font-family:"Times New Roman",serif'>1</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>家未按要求落实的，扣</span><span style='font-family:"Times New Roman",serif'>1</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分，扣完为止。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15;mso-yfti-lastrow:yes;height:2.9pt'>
+  <td width=109 style='width:81.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:
+  Calibri'>备注</span></p>
+  </td>
+  <td width=791 colspan=3 style='width:593.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal><span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-hansi-font-family:Calibri'>火灾高风险区域为片区、工业园区、社区的，参照本细则对社区（村）的要求进行评估。</span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.9pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><o:p>&nbsp;</o:p></b></p>
+  </td>
+ </tr>
+</table>
+### （九）住宅建筑评估细则（100分）
+
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=948
+ style='border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.9pt'>
+  <td width=109 style='width:81.4pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman"'>项目</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+  <td width=168 style='width:125.8pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman"'>检查内容</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+  <td width=301 style='width:225.75pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman"'>检查标准</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+  <td width=322 style='width:241.65pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman"'>检查方法</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+  <td width=49 style='width:36.65pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.9pt'>
+  <p class=MsoPlainText align=center style='text-align:center;line-height:20.0pt;
+  mso-line-height-rule:exactly'><b><span lang=ZH-CN style='font-size:12.0pt;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman"'>备注</span></b><b><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:23.35pt'>
+  <td width=109 rowspan=8 style='width:81.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:23.35pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防宣传（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>20</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=168 rowspan=8 style='width:125.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.35pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'><span style='font-family:
+  "Times New Roman",serif'>1.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是否张贴宣传海报等（</span><span
+  style='font-family:"Times New Roman",serif'>20</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分）</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.35pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>1.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未发放致广大家庭消防安全一封信的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.35pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.35pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:3.0pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.0pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>2.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未发放家庭住宅火灾风险防范措施指引书的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.0pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:26.3pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.3pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>3.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未张贴复式住宅楼火灾防范海报的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.3pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>实地查看</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.3pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:34.5pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.5pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>4.</span><span class=GramE><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>未发放</span><span style='font-family:
+  "Times New Roman",serif'>“</span></span><span lang=ZH-CN style='font-family:
+  宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>小火亡人</span><span
+  style='font-family:"Times New Roman",serif'>”</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>火灾风险告知书的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>实地查看</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:27.9pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>5.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未开展家庭住宅消防安全知识问卷调查的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>查阅资料</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:26.15pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.15pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>6.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未组织家庭住宅开展火灾隐患自查的，扣</span><span style='font-family:"Times New Roman",serif'>5</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.15pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>查阅资料</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.15pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:30.85pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.85pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>7.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未张贴严禁堵塞、占用消防车通道的提示或海报的，扣</span><span style='font-family:
+  "Times New Roman",serif'>5</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>实地查看</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:30.85pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.85pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>8.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未落实高层住宅建筑楼长制的，扣</span><span style='font-family:"Times New Roman",serif'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>实地查看</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:70.25pt'>
+  <td width=109 rowspan=13 style='width:81.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:70.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>建筑防火及安全疏散（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>45</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=168 style='width:125.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:70.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'><span style='font-family:
+  "Times New Roman",serif'>2.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>总平面布置</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:70.25pt'>
+  <p class=MsoBodyText><span style='font-family:"Times New Roman",serif;
+  color:windowtext'>9.</span><span lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";color:windowtext'>存在防火间距被占用的，扣</span><span
+  style='font-family:"Times New Roman",serif;color:windowtext'>10</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";color:windowtext'>分</span><span
+  style='font-family:"Times New Roman",serif;color:windowtext'><o:p></o:p></span></p>
+  </td>
+  <td width=322 rowspan=2 style='width:241.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:70.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>实地查看</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 rowspan=2 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:70.25pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:70.25pt'>
+  <td width=168 style='width:125.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:70.25pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'><span style='font-family:
+  "Times New Roman",serif'>3.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>消防车道设置是否符合要求（</span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif'>25</span><span lang=ZH-CN
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分）</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:70.25pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'>10.</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>高层</span><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>住宅建筑消防车道应满足以下规定：</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:10.5pt;mso-char-indent-count:1.0;
+  line-height:15.0pt;mso-line-height-rule:exactly'><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif'>a.</span><span lang=ZH-CN
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>住宅建筑应沿建筑的一个长边设置消防车道，且满足消防车道净宽度和净高度不小于</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>4</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>米，不满足要求任意一条规定的扣</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>15</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>分；</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:10.5pt;mso-char-indent-count:1.0;
+  line-height:15.0pt;mso-line-height-rule:exactly'><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif'>b.</span><span lang=ZH-CN
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>消防车道与建筑之间未设置影响消防车操作的障碍物，存在堵塞或占用消防车道、救援场地的，扣</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>15</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'><span style='font-family:
+  "Times New Roman",serif'>c.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>消防车通道未按要求施划黄色禁止停车标线、出入口未施划黄色网状实线、未设立严禁占用告示牌的，扣</span><span
+  style='font-family:"Times New Roman",serif'>15</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;height:119.75pt'>
+  <td width=168 style='width:125.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:119.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'><span style='font-family:
+  "Times New Roman",serif'>4.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>救援场地和入口设置是否满足要求（</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif'>25</span><span lang=ZH-CN
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分）</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:119.75pt'>
+  <p class=MsoNormal style='line-height:15.0pt;mso-line-height-rule:exactly'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>11.</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>高层住宅建筑救援场地的设置不符合以下任意一条规定的扣</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>15</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>分。</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  <p class=MsoBodyText style='text-indent:10.5pt;mso-char-indent-count:1.0;
+  line-height:15.0pt;mso-line-height-rule:exactly'><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;color:windowtext'>a.</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";color:windowtext'>高层建筑应至少沿一个长边或周边长度的</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  color:windowtext'>1/4</span><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";color:windowtext'>且不小于一个长边长度的底边连续布置消防车登高操作场地，该范围内的裙房进深不应大于</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  color:windowtext'>4m</span><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";color:windowtext'>；</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;color:windowtext'><o:p></o:p></span></p>
+  <p class=MsoBodyText style='text-indent:10.5pt;mso-char-indent-count:1.0;
+  line-height:15.0pt;mso-line-height-rule:exactly'><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;color:windowtext'>b.</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";color:windowtext'>建筑高度不大于</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  color:windowtext'>50m</span><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";color:windowtext'>的建筑，连续布置消防车登高操作场地确有困难时，可间隔布置，但间隔距离不宜大于</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  color:windowtext'>30m</span><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";color:windowtext'>，且消防车登高操作场地的总长度仍应符合上述规定；</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  color:windowtext'><o:p></o:p></span></p>
+  <p class=MsoBodyText style='text-indent:10.5pt;mso-char-indent-count:1.0;
+  line-height:15.0pt;mso-line-height-rule:exactly'><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;color:windowtext'>c.</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman";color:windowtext'>场地与厂房、仓库、民用建筑之间不应设置妨碍消防车操作的树木、架空管线等障碍物和车库出入口；</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  color:windowtext'><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:10.5pt;mso-char-indent-count:1.0;
+  line-height:15.0pt;mso-line-height-rule:exactly'><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif'>d.</span><span lang=ZH-CN
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>场地的长度和宽度分别不应小于</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>15m</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>和</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>10m</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>。对于建筑高度大于</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>50m</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>的建筑，场地的长度和宽度分别不应小于</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>20m</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>和</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif'>10m</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 rowspan=11 style='width:241.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:119.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>实地查看</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=49 rowspan=11 style='width:36.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:119.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;height:38.75pt'>
+  <td width=168 rowspan=2 style='width:125.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:38.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'><span style='font-family:
+  "Times New Roman",serif'>5.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>防火分隔</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:38.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>12.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>消防泵房、发电机房、锅炉房、变配电间、空
+  调机房等重点用房的防火分隔不符合规范要求 的，扣 </span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>10 </span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>分。 </span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;height:38.75pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:38.75pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>13. </span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>建筑内的电缆井、管道井未在每层楼板处或与房间、走道等相连通处采用不低于楼板耐火</span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>极限的不燃材料或防火封堵材料封堵的，或封堵不完整的，扣</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>10</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman";mso-font-kerning:0pt'>分</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14;height:6.35pt'>
+  <td width=168 rowspan=6 style='width:125.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.35pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>6.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>安全疏散设施及管理是
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  class=GramE><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>否</span></span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>符合要求 </span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'><span style='font-family:
+  "Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.35pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>14.</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>占用、堵塞、封闭疏散通道、安全出口或者有其他妨碍安全疏散行为的，扣 </span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>10 </span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>分。 </span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15;height:6.35pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.35pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>15</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>未按规范要求设置<b>封闭楼梯间或防烟楼梯间
+  </b></span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>的，扣</span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>10</span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16;height:6.35pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.35pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>16.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>疏散通道、安全出口数量不足的，扣
+  </span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>15 </span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17;height:6.35pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.35pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>17.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>疏散通道、安全出口的其他设置不符合消防
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>技术标准的，扣 </span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>10 </span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>分。 </span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18;height:6.35pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.35pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>18.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>疏散通道、安全出口的防火门未保持完好有
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>效的，扣 </span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>5 </span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>分。 </span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19;height:6.35pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:6.35pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>19.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>消防应急照明、疏散指示标志设置不符合消
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  class=GramE><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>防技术</span></span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>标准的，扣 </span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>5 </span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>分。 </span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20;height:7.75pt'>
+  <td width=168 rowspan=2 style='width:125.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'><span style='font-family:
+  "Times New Roman",serif'>7.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>电动车消防安全管理</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'><span style='font-family:
+  "Times New Roman",serif'>20.</span><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>场所内部疏散走道和疏散楼梯间存在电动自行车违规停放或充电的，扣</span><span
+  style='font-family:"Times New Roman",serif'>15</span><span lang=ZH-CN
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>分。</span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21;height:7.75pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.75pt'>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;
+  layout-grid-mode:char;mso-layout-grid-align:none'><span style='font-family:
+  "Times New Roman",serif'>21.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>未张贴电动自行车火灾警示挂图或警示标示的，扣</span><span style='mso-bidi-font-size:
+  10.5pt;font-family:"Times New Roman",serif'>5</span><span lang=ZH-CN
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>分。</span><span style='font-family:
+  "Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22;height:23.4pt'>
+  <td width=109 rowspan=3 style='width:81.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:23.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>消防设施、器材（</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'>30</span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=ZH-CN style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt'>分）</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=168 rowspan=3 style='width:125.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.4pt'>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'>8.</span><span
+  lang=ZH-CN style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>消防设施是否保持完整好用</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.4pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>22.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>存在以下应设而未设消防设施或已设置但不
+  能正常运行的，每发现一项扣 </span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>10 </span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>分。 </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>a.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>未按规范要求设置消防给水及消火栓系统或
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>已设置但不能正常运行的； </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>b.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>未按规范要求设置火灾自动报警系统或已设
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  class=GramE><span lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>置但不能</span></span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>正常运行的； </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>c.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>未按规范要求设置自动灭火系统或已设置但
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>不能正常运行的； </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>d.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>未按规范要求设置防、排烟设施或已设置但不
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>能正常运行的； </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>e.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>未按规范要求设置灭火器或已设置但未保持
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>完好有效的。 </span><span style='mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=322 rowspan=2 style='width:241.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=49 rowspan=2 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23;height:26.6pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.6pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>23.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>未确定自动消防设施维护保养单位的，扣
+  </span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>5 </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>分。 </span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24;height:23.65pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>24.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>未每月开展消防设施维护保养的，扣
+  </span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>5 </span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>分。 </span></p>
+  <p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly'><span
+  style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查阅资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=49 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25;height:7.85pt'>
+  <td width=109 rowspan=6 style='width:81.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><b><span
+  lang=ZH-CN style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+  mso-font-kerning:0pt'>消防控制室 </span></b></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><b><span
+  style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+  0pt'>(5 <span lang=ZH-CN>分</span>) </span></b></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;font-family:"Times New Roman",serif;mso-font-kerning:0pt'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=168 rowspan=6 style='width:125.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体;
+  mso-font-kerning:0pt'>9.<span lang=ZH-CN>消防控制室的管理是否符合要求 </span></span></p>
+  <p class=MsoNormal align=left style='text-align:left;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>25.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>消防控制室的设置不符合消防技术标准的，
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>扣 </span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>2 </span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>分。 </span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=49 rowspan=6 style='width:36.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none'><b><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26;height:7.85pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>26.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>消防控制室未落实双人值班（持证上岗）的，扣</span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>3</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27;height:7.85pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体;
+  mso-font-kerning:0pt'>27.<span lang=ZH-CN>消防控制室值班记录不齐全的，扣 </span></span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>2 </span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>分。</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查阅资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28;height:7.85pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>28.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>消防控制室值班人员处置程序不熟悉的，扣
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>2</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>分。 </span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>随机提问一名值班人员</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29;height:7.85pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>29.</span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>未建立、悬挂《消防控制室管理制度》、《消防控制室值班人员职责》、《火灾接警处警程序》、《消防控制室管理及应急程序》的，扣
+  </span><span style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>1 </span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>分。 </span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>实地查看</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30;mso-yfti-lastrow:yes;height:7.85pt'>
+  <td width=301 style='width:225.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体;
+  mso-font-kerning:0pt'>30.<span lang=ZH-CN>未按照《消防控制室通用技术要求》</span></span><span
+  style='mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;
+  mso-font-kerning:0pt'>4.1 </span><span lang=ZH-CN style='mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt'>条规定保存有关消防工作的纸质或电子档案资料
+  </span></p>
+  <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>的，扣 </span><span style='mso-bidi-font-size:10.5pt;
+  font-family:"Times New Roman",serif;mso-font-kerning:0pt'>2 </span><span
+  lang=ZH-CN style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:
+  宋体;mso-font-kerning:0pt'>分。 </span><span style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=322 style='width:241.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:7.85pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:16.0pt;
+  mso-line-height-rule:exactly'><span lang=ZH-CN style='font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>查阅资料</span><span
+  style='font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+
+
