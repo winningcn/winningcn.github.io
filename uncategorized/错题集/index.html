@@ -1,0 +1,542 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=&#34;auto&#34;>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.png">
+  <link rel="icon" href="/img/favicon.png">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="description" content="">
+  <meta name="author" content="ing">
+  <meta name="keywords" content="">
+  
+  <title>安全001</title>
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
+
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css" />
+  <link  rel="stylesheet" href="/lib/hint/hint.min.css" />
+
+  
+    
+    
+      
+      <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@10.7.2/styles/github-gist.min.css" />
+    
+  
+
+  
+    <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+  
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_kmeydafke9r.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+<!-- 自定义样式保持在最底部 -->
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    var CONFIG = {"hostname":"example.com","root":"/","version":"1.8.11","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null}},"search_path":"/local-search.xml"};
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+
+<body>
+  <header style="height: 50vh;">
+    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand"
+       href="/">&nbsp;<strong>安全001</strong>&nbsp;</a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/power/">
+                    
+                    弱电基础
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/saftyedu/">
+                    
+                    安全教育
+                  </a>
+                
+              </div>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" data-toggle="modal" data-target="#modalSearch">&nbsp;<i
+                class="iconfont icon-search"></i>&nbsp;</a>
+          </li>
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="banner" id="banner" parallax=true
+         style="background: url('/img/default.png') no-repeat center center;
+           background-size: cover;">
+      <div class="full-bg-img">
+        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.6)">
+          <div class="page-header text-center fade-in-up">
+            <span class="h2" id="subtitle" title="">
+              
+            </span>
+
+            
+              <div class="mt-3">
+  
+  
+    <span class="post-meta">
+      <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+      <time datetime="2024-08-07 22:56" pubdate>
+        2024年8月7日 晚上
+      </time>
+    </span>
+  
+</div>
+
+<div class="mt-1">
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-chart"></i>
+      6k 字
+    </span>
+  
+
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-clock-fill"></i>
+      
+      
+      66
+       分钟
+    </span>
+  
+
+  
+  
+</div>
+
+            
+          </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="d-none d-lg-block col-lg-2"></div>
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div class="py-5" id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none"></h1>
+            
+            <div class="markdown-body">
+              <p>title: 错题集<br>banner_img: ‘&#x2F;img&#x2F;default.png’<br>date: 2023-08-08 22:28:55</p>
+<p>tags:</p>
+<ul>
+<li>标准</li>
+</ul>
+<p>category: 安全教育<br>index_img:<br>excerpt: 积沙成塔<br>hide: true</p>
+<p>​               </p>
+<p>​        【4&#x2F;200】()是从业人员在职业活动中必须遵守的符合人民根本利益的职业行为准则。您选择的答案：C.职业规范    正确答案：【A.职业道德行为规范】解析：《基础知识》P4,职业道德行为规范是从业人员在职业活动中必须遵守的符合人民根本利益的职业行为准则。       </p>
+<p>​               </p>
+<p>​        【6&#x2F;200】下列民用建筑耐火等级应为一级的是()。您选择的答案：C.建筑高度为22m的教学楼    正确答案：【D.地下1层营业厅】解析：《基础知识》P47,地下、半地下建筑（室）耐火等级应为一级。  </p>
+<p>​               </p>
+<p>​        【8&#x2F;200】手提式水基型灭火器的规格有2L、3L、6L和()。您选择的答案：A.8L    正确答案：【B.9L】解析：手提式水基型灭火器的规格有2L、3L、6L、9L。  </p>
+<p>​               </p>
+<p>​        【14&#x2F;200】如果身处室内，当观察到室内热烟气层中出现蓝色火焰，且听到吸气声或呼啸声，则可能出现()您选择的答案：A.轰燃    正确答案：【B.回燃】       </p>
+<p>​               </p>
+<p>​        【15&#x2F;200】热气溶胶灭火剂做不到的灭火方法是()。您选择的答案：A.冷却灭火    正确答案：【B.隔离灭火】     </p>
+<p>​               </p>
+<p>​        【16&#x2F;200】线型光束感烟火灾探测器的发射器和接收器之间的距离不宜超过()m。您选择的答案：B.120    正确答案：【A.100】解析：《火灾自动报警系统设计规范》规定，线型红外光束感烟探测器发射器和接收器之间的距离不宜超过100m。  </p>
+<p>​               </p>
+<p>​        【23&#x2F;200】消防应急灯具按()方式分为自带电源型消防应急灯具、集中电源型消防应急灯具。您选择的答案：B.工作方式    正确答案：【C.应急供电】解析：《基础知识》P117,知识点27：表6-3-4，按应急供电方式分为自带电源型消防应急灯具、集中电源型消防应急灯具。      </p>
+<p>​               </p>
+<p>​        【26&#x2F;200】XPS板通常被认定为()材料。您选择的答案：B.不燃    正确答案：【D.可燃】解析：建筑保温材料的分类：聚苯乙烯泡沫塑料（包括EPS板和XPS板)、硬泡沫聚氨酯和改性酚醛树脂为代表的有机保温材料，通常被认定为可燃材料。   </p>
+<p>​               </p>
+<p>​        【27&#x2F;200】利用破坏燃烧爆炸的基础的原理，用阻燃剂对可燃材料进行阻燃处理，改变其燃烧性质，这样防火方法称之为()。您选择的答案：C.阻止火势蔓延    正确答案：【D.控制可燃物】解析：利用破坏燃烧爆炸的基础的原理，用阻燃剂对可燃材料进行阻燃处理，改变其燃烧性质，这样防火方法称之为控制可燃物。     </p>
+<p>​               </p>
+<p>​        【33&#x2F;200】在空气中遇明火或高温作用时立即起火、微燃或炭化，火源移走后燃烧或微燃仍继续。如天然木材、胶合板、人造革、墙布、半硬质PVC塑料地板等属于()。您选择的答案：D.B3级材料    正确答案：【C.B2级材料】    </p>
+<p>​               </p>
+<p>​        【43&#x2F;200】线型感温火灾探测器按()分为定温、差温和差定温线型感温探测器。您选择的答案：B.敏感部件形式    正确答案：【D.动作性能】  </p>
+<p>​               </p>
+<p>​        【51&#x2F;200】火灾显示盘电源功能：主电源应能保证火灾显示盘在火灾报警状态下连续工作()，且应有过流保护措施。您选择的答案：B.2h    正确答案：【D.4h】  </p>
+<p>​               </p>
+<p>​        【59&#x2F;200】消防水泵启动方式中，消防控制室总线联动启动、高位消防水箱出水管流量开关启动、报警阀组压力开关启动和消防水泵出水干管压力开关启动属于()您选择的答案：C.联动控制    正确答案：【A.自动启动控制】  </p>
+<p>​               </p>
+<p>​        【60&#x2F;200】()是指控制信号通过消防联动控制器本身的输出接点或模块直接作用到连接的消防电动装置，进而实现对受控消防设备的控制。您选择的答案：C.总线控制    正确答案：【B.直接控制】      </p>
+<p>​               </p>
+<p>​        【62&#x2F;200】防火卷帘应具有发生火灾时靠自重()功能您选择的答案：B.自动降落    正确答案：:【D.自动关闭】   </p>
+<p>​               </p>
+<p>​        【69&#x2F;200】集中报警系统的控制与显示设备机壳内部和外部清洁保养周期至少是每()保养一次。您选择的答案：D.季度    正确答案：【C.月】解析：《中级》P43,保养周期：每月保养一次。        </p>
+<p>​               </p>
+<p>​        【70&#x2F;200】应急照明控制器的功能调试保养项目不包括()。您选择的答案：D.消音功能    正确答案：【C.复位功能】  </p>
+<p>​               </p>
+<p>​        【76&#x2F;200】对电气火灾监控器接线保养要求正确的是()。您选择的答案：B.显示字符清晰可读    正确答案：【C.接线端子应无松动】 </p>
+<p>​               </p>
+<p>​        【77&#x2F;200】自动喷水灭火系统管道穿过卫生间或厨房楼板的套管，其顶部应高出装饰地面()mm,且套管底部应与楼板底面相平，套管与管道的间隙应采用()材料填塞密实。您选择的答案：B.20,不燃    正确答案：【D.50,不燃】        </p>
+<p>​               </p>
+<p>​        【78&#x2F;200】火灾报警控制器和消防联动控制器安装在墙上时，正面操作距离可为()m。您选择的答案：C.1.0    正确答案：【D.1.5】 </p>
+<p>​               </p>
+<p>​        【80&#x2F;200】应急照明控制器设置在消防控制室墙面上时,设备正面操作距离不应小于()m。您选择的答案：A.1    正确答案：【D.1.2】        </p>
+<p>​               </p>
+<p>​        【81&#x2F;200】安装在通道上的防火卷帘，应在一个相关探测器报警后下降至距地面()处停止，另一个相关探测器报警后，防火卷帘应继续下降至地面，并向火灾报警控制器反馈信号。您选择的答案：D.2.0m    正确答案：【C.1.8m】    </p>
+<p>​               </p>
+<p>​        【89&#x2F;200】自动喷水灭火系统应有备用洒水喷头，其数量不应少于总数的1%，且每种型号均不得少于()只。您选择的答案：B.15    正确答案：【A.10】    </p>
+<p>​               </p>
+<p>​        【92&#x2F;200】在干式系统测试过程中，在打开末端试水装置后，测量系统充水时间不宜大于()min。您选择的答案：B.3.0    正确答案：【D.1.0】     </p>
+<p>​               </p>
+<p>​        【93&#x2F;200】消防水泵接合器距室外消火栓或消防水池的距离宜为()m。您选择的答案：C.25<del>40    正确答案：【A.15</del>40】     </p>
+<p>​               </p>
+<p>​        【94&#x2F;200】应急照明控制器设置在消防控制室墙面上时,设备靠近门轴的侧面距墙不应小于()m。您选择的答案：A.0.3    正确答案：【C.0.5】       </p>
+<p>​               </p>
+<p>​        【96&#x2F;200】感温火灾探测器的安装间距不应超过()m0您选择的答案：A.8    正确答案：【B.10】      </p>
+<p>​               </p>
+<p>​        【98&#x2F;200】干式系统一个报警阀组控制的洒水喷头数不宜超过()只。您选择的答案：C.800    正确答案：【B.500】解析：《中级》P121,一个报警阀组控制的洒水喷头数应符合下列规定。1)湿式系统不宜超过800只，干式系统不宜超过500只        </p>
+<p>​               </p>
+<p>​        【99&#x2F;200】末端试水装置的出水，应采取孔口出流的方式排入排水管，排水立管宜设伸顶通气管，且管径不应小于()mm,且应有明显标识。您选择的答案：A.25    正确答案：【C.75】    </p>
+<p>​               </p>
+<p>​        【101&#x2F;200】生命至上要求()。您选择的答案：A.责任担当；B.预防为主；D.救人第一    正确答案：【B.预防为主；C.安全第一；D.救人第一】解析：生命至上要求：预防为主，安全第一，救人第一0     </p>
+<p>​               </p>
+<p>​        【103&#x2F;200】按装配形式的不同，气体灭火系统分为(您选择的答案：A.管网灭火系统；D.悬挂灭火系统；E.外储压式灭火系统    正确答案：【A.管网灭火系统；B.预制灭火系统】                 </p>
+<p>​        【104&#x2F;200】防火卷帘可以分成()类型。您选择的答案：A.钢质防火卷帘；B.无机纤维复合防火卷帘；D.特级防火卷帘；E.单帘面防火卷帘    正确答案：【A.钢质防火卷帘；B.无机纤维复合防火卷帘；D.特级防火卷帘           </p>
+<p>​        【105&#x2F;200】可燃气体探测报警控制器在正常运行状态下可直接操作面板上的功能键，实施()、事件、功能设置等操作。您选择的答案：A.复位；B.自检；C.屏蔽；D.查询    正确答案：【A.复位；B.自检；D.查询】解析：正常运行状态下可直接操作面板上的功能键，实施复位、自检、查询、事件、功能设置等操作。    </p>
+<p>​                       </p>
+<p>​        【106&#x2F;200】由地方人民政府、单位、村（居）民委员会等组建的消防组织包括()。您选择的答案：B.专职消防队；C.志愿消防队；D.集体消防队    正确答案：【A.国家综合性消防救援队伍；B.专职消防队；C.志愿消防队】            </p>
+<p>​        【108&#x2F;200】满足下列()条件之一，即可认定为重大火灾。您选择的答案：B.50人以上100人以下重伤；C.5000万元以上1亿元以下直接财产损失；D.造成3人以上10人以下死亡    正确答案：【A.造成10人以上30人以下死亡；B.50人以上100人以下重伤；C.5000万元以上1亿元以下直接财产损失】        </p>
+<p>​                       </p>
+<p>​        【109&#x2F;200】自动喷水灭火系统是由()等组件以及管道、供水设施等组成，能在发生火灾时喷水的自动灭火系统。您选择的答案：A.洒水喷头；B.报警阀组；C.水流报警装置；D.火灾显示器；E.火灾报警控制器    正确答案：【A.洒水喷头；B.报警阀组；C.水流报警装置】     </p>
+<p>​               </p>
+<p>​        【110&#x2F;200】消防水泵按用途可分为()。您选择的答案：B.稳压消防泵；C.潜水消防泵；D.深井消防泵；E.供泡沫液消防泵    正确答案：【A.供水消防泵；B.稳压消防泵；E.供泡沫液消防泵】      </p>
+<p>​               </p>
+<p>​        【111&#x2F;200】按材质可将防火门分为()。您选择的答案：B.钢质防火门；C.钢木质防火门    正确答案：【A.木质防火门；B.钢质防火门；C.钢木质防火门】 </p>
+<p>​               </p>
+<p>​        【112&#x2F;200】以下防火方法属于“避免相互作用”的是()。您选择的答案：B.在气体管道上安装阻火器、安全液封等；C.密闭有可燃介质的容器设备；E.在建筑内设置防火分隔设施    正确答案：【B.在气体管道上安装阻火器、安全液封等;D.在能形成爆炸介质的场所，设置泄压门窗、轻质屋盖等；E.在建筑内设置防火分隔设施】        </p>
+<p>​               </p>
+<p>​        【117&#x2F;200】机械排烟系统中的常闭排烟阀或排烟口应具有()功能，其开启信号应与排烟风机联动。您选择的答案：A.火灾自动报警系统自动开启；C.现场手动开启    正确答案：【A.火灾自动报警系统自动开启；B.消防控制室手动开启；C.现场手动开启】                  </p>
+<p>​        【118&#x2F;200】消防联动控制器对消防设备的控制方式有()。您选择的答案：A.自动控制和手动控制；B.总线控制和直线控制    正确答案：【A.自动控制和手动控制；B.总线控制和直线控制；C.直接控制和间接控制】                     </p>
+<p>​        【119&#x2F;200】下列选项属于消防增（稳）压设施机房环境检查的保养要求的是()。您选择的答案：A.工作环境良好无杂物堆放；B.防止被水淹没的措施完好；C.散热通风设施良好；D.冬季防冻措施有效；E.设在室外时防雨措施应完好    正确答案：【A.工作环境良好无杂物堆放；B.防止被水淹没的措施完好；C.散热通风设施良好；E.设在室外时防雨措施应完好】      </p>
+<p>​               </p>
+<p>​        【120&#x2F;200】消防控制室图形显示装置应具有火灾报警和消防联动控制的历史记录功能，记录包括()消防联动设备的启动等信息。您选择的答案：A.报警时间；B.报警部位；C.复位操作;D.消音状态    正确答案：【A.报警时间；B.报警部位；C.复位操作；E.动作反馈】  </p>
+<p>​               </p>
+<p>​        【123&#x2F;200】现场各类消防设备的工作状态可分为()您选择的答案：A.正常（监视）；B.火警；C.故障；D.消音；E.屏蔽    正确答案：【A.正常（监视）；B.火警；C.故障；E.屏蔽】                 </p>
+<p>​        【124&#x2F;200】防火卷帘一般设置在()部位。您选择的答案：B.中庭与楼层走道、过厅相通的开口部位；C.生产车间中大面积工艺洞口；D.设置防火墙有困难的部位；E.建筑中需要防火分隔的    正确答案：【A.电梯厅、自动扶梯周围；B.中庭与楼层走道、过厅相通的开口部位；C.生产车间中大面积工艺洞口；D.设置防火墙有困难的部位】                       </p>
+<p>​        【127&#x2F;200】可燃气体报警控制器的保养项目包含()0您选择的答案：A.外壳外观保养；B.指示灯保养；C.显示屏保养；D.开关、按键保养    正确答案：【A.外壳外观保养；B.指示灯保养；C.显示屏保养；D.开关、按键保养；E.打印机、接线保养】                  </p>
+<p>​        【129&#x2F;200】更换消防应急广播模块后，应检查模块的启动、切换功能，并待其功能正常后进行消防应急广播()操作，观察2min,系统应处于正常监视状态。您选择的答案：A.系统复位；B.自检；C.重新启动；E.查询    正确答案：【A.系统复位；B.自检】                  </p>
+<p>​        【130&#x2F;200】线型感烟火灾探测器火警灯常亮的原因有()。您选择的答案：A.探测器自身老化损坏；B.报警总线发生故障；C.探测器发射端和接收端之间有障碍物遮挡；D.探测器积尘过多，影响探测器灵敏度    正确答案：【C.探测器发射端和接收端之间有障碍物遮挡；D.探测器积尘过多，影响探测器灵敏度】  </p>
+<p>​               </p>
+<p>​        【131&#x2F;200】有关室内消火栓设备的安装质量要求，说法正确的是()。您选择的答案：A.消防电梯前室应设置室内消火栓，并应计入消火栓使用数量；B.同一楼梯间及其附近不同层设置的消火栓，其平面位置宜相同；D.室内消火栓栓口不应安装在门轴侧；E.箱门的开启不应小于90°                       </p>
+<p>​            正确答案：【A.消防电梯前室应设置室内消火栓，并应计入消火栓使用数量；B.同一楼梯间及其附近不同层设置的消火栓，其平面位置宜相同；D.室内消火栓栓口不应安装在门轴侧】                       </p>
+<p>​        【133&#x2F;200】()等开关信号应能直接自动启动消防水泵。您选择的答案：A.消防水泵出水干管上设置的压力开关;B.高位消防水箱出水管上的流量开关；C.湿式报警阀的压力开关；E.信号蝶阀开关    正确答案：【A.消防水泵出水干管上设置的压力开关；B.高位消防水箱出水管上的流量开关；C.湿式报警阀的压力开关；D.干式报警阀组的压力开关】      </p>
+<p>​               </p>
+<p>​        【135&#x2F;200】关于消防电话各组件的设置要求，说法正确的是()。您选择的答案：A.多线制消防电话系统中的每个电话分机应与总机单独连接；B.消防电话分机应固定安装在明显且便于使用的部位；D.电话插孔在墙上安装时，其底边距地面高度宜为1.1~1.3m;E.消防控制室应设置消防电话总机                  </p>
+<p>​            正确答案：【A.多线制消防电话系统中的每个电话分机应与总机单独连接；B.消防电话分机应固定安装在明显且便于使用的部位；C.设有手动火灾报警按钮或消火栓按钮等处宜设置电话插孔，并宜选择带有电话插孔的手动火灾报警按钮；E.消防控制室应设置消防电话总机】                     </p>
+<p>​        【136&#x2F;200】防火门关闭后无反馈信息的原因是()。您选择的答案：A.电动闭门器滑槽内的信号反馈装置调试不到位或损坏；C.接线不正确；D.监控模块损坏    正确答案：【A.电动闭门器滑槽内的信号反馈装置调试不到位或损坏；B.未安装门磁开关或门磁开关损坏；C.接线不正确；D.监控模块损坏】                   </p>
+<p>​        【137&#x2F;200】使用钳形接地电阻测试仪进行火灾自动报警系统接地电阻测试时，下列说法正确的是()。您选择的答案：B.校准完成后，测试仪如果处于电流测量模式，需要按”Q”切换到电阻测量模式；C.钳形接地电阻测试仪有辅助接地钉；D.在校准过程中，能张开钳头或钳住被测体；E.检测完毕后，需按规定做好记录    正确答案：【A.钳形接地电阻测试仪开机后会进行自校准；E.检测完毕后，需按规定做好记录】                     </p>
+<p>​        【140&#x2F;200】排烟口可通过以下方式控制：()。您选择的答案：A.现场手动操作；B.机械关闭；E.通过火灾自动报警系统自动启动    正确答案：【A.现场手动操作；D.消防控制室手动操作;E.通过火灾自动报警系统自动启动】  </p>
+<p>​               </p>
+<p>​        【150&#x2F;200】干式自动喷水灭火系统是在准工作状态时配水管道内充满用于启动系统的有压水的闭式系统。()您选择的答案：A.正确    正确答案：【B.错误】解析：《基础知识》P89,干式自动喷水灭火系统是在准工作状态时配水管道内充满用于启动系统的有压气的闭式系统。      </p>
+<p>​               </p>
+<p>​        【151&#x2F;200】消防控制室“两屏三器两柜”中的“两屏”指的是火灾监视屏、图形显示屏。()您选择的答案：A.正确    正确答案：【B.错误】解析：消防控制室“两屏三器两柜”中的“两屏”指的是视频监控屏、图形显示屏。     </p>
+<p>​               </p>
+<p>​        【154&#x2F;200】建筑高度为30m的住宅楼应设置消防电梯。()0您选择的答案：A.正确    正确答案：【B.错误】解析：《基础知识》P119,知识点33：国家标准《建筑设计防火规范》规定，建筑高度大于33m的住宅建筑，一类高层公共建筑和建筑高度大于32m的二类高层公共       </p>
+<p>​               </p>
+<p>​        【155&#x2F;200】建筑高度大于50m的乙、丙类生产厂房和丙类物品库房，消防用电应采用二级负荷供电。()您选择的答案：A.正确    正确答案：【B.错误】解析：建筑高度大于50m的乙、丙类生产厂房和丙类物品库房，消防用电应采用一级负荷供电                       </p>
+<p>​        【159&#x2F;200】机关、团体、企业、事业等单位是消防安全的责任主体，消防工作分管领导是本单位、本场所消防安全责任人，对本单位、本场所消防安全全面负责。()您选择的答案：A.正确    正确答案：【B.错误】解析：机关、团体、企业、事业等单位是消防安全的责任主体，法定代表人、主要负责人或实际控制人是本单位、本场所消防安全责任人，对本单位、本场所消防安                    </p>
+<p>​        【162&#x2F;200】只有与空气中的氧气燃烧反应的物质，称为可燃物。()您选择的答案：A.正确    正确答案：【B.错误】解析：《基础知识》P17,知识点4：凡是与空气中的氧或其他氧化剂起燃烧化学反应的物质称为可燃物，简单来说，可燃物就是可以燃烧的物品。                     </p>
+<p>​        【164&#x2F;200】在使用Excel图表的过程中，不可以对其中的数据进行修改。()您选择的答案：A.正确    正确答案：【B.错误】解析：《基础知识》P182,知识点16：在使用图表的过程中，可以对其中的数据进行修改。                    </p>
+<p>​        【165&#x2F;200】在消防泵房防淹没措施中，设置的潜水泵在集水坑水位报警时一用一备。()您选择的答案：A.正确    正确答案：【B.错误】解析：消防泵房防淹没措施中，设置集水坑用的潜水泵在报警时双启，结合题意，本题错误。                 </p>
+<p>​        【166&#x2F;200】现场消防设备工作状态可通过查询功能、检查功能或联动控制信号等三种方式进行判别。()您选择的答案：B.错误    正确答案：【A.正确】                    </p>
+<p>​        【179&#x2F;200】火灾显示盘的信息显示应按火灾报警、故障、监管报警的顺序由高至低排列显示等级。()您选择的答案：A.正确    正确答案：【B.错误】              </p>
+<p>​        【182&#x2F;200】消防设备末端配电装置的清扫和检修一般每半年至少一次。()您选择的答案：A.正确    正确答案：【B.错误】解析：消防设备末端配电装置的清扫和检修一般每年至少一次，其内容除清扫和摇测绝缘外，还应检查各部连接点和接地处的紧固状况。                             </p>
+<p>​        【185&#x2F;200】稳压泵组的主、备泵应采用交替运行方式,投入消防运行状态后，稳压泵组应继续工作。()您选择的答案：A.正确    正确答案：【B.错误】解析：稳压泵组的主、备泵应采用交替运行方式。投入消防运行状态后，稳压泵组应停止工作。                       </p>
+<p>​        【187&#x2F;200】火灾自动报警系统中采用交流供电的各类控制，与指示类设备均应设置接地保护装置，接地保护装置的主要作用是利用接地体把剩余电流或雷电流快速地泄放到大地中。()您选择的答案：A.正确    正确答案：【B.错误】解析：中级61页，火灾自动报警系统中采用交流供电的各类控制与显示类设备均应设置接地保护装置，接地保护装置的主要作用是利用接地体把故障电流或雷电流快                 </p>
+<p>​        【188&#x2F;200】管道最小管顶覆土应至少在冰冻线以下0.30m。()您选择的答案：B.错误    正确答案：【A.正确】                      </p>
+<p>​        【189&#x2F;200】测试机械加压送风系统的加压部位余压值时，通常使用数字风速仪测量前室和楼梯间余压值。()您选择的答案：A.正确    正确答案：【B.错误】解析：中级237页，使用微压计分别测量前室和楼梯间余压值。      </p>
+
+            </div>
+            <hr>
+            <div>
+              <div class="post-metas mb-3">
+                
+                
+              </div>
+              
+              
+                <div class="post-prevnext">
+                  <article class="post-prev col-6">
+                    
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/saftyedu/%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A84160%E4%B8%AA%E9%97%AE%E9%A2%98%E5%9B%9E%E5%A4%8D%E6%B1%87%E6%80%BB6/">
+                        <span class="hidden-mobile">应急管理部回复汇总6</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+    
+      <div class="d-none d-lg-block col-lg-2 toc-container" id="toc-ctn">
+        <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+
+<!-- Custom -->
+
+
+    
+
+    
+      <a id="scroll-top-button" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v"
+                 for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    
+  </main>
+
+  <footer class="text-center mt-5 py-3">
+  <div class="footer-content">
+     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+  </div>
+  
+
+  
+
+  
+</footer>
+
+
+  <!-- SCRIPTS -->
+  
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+<!-- Plugins -->
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+  
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/tocbot@4.12.3/dist/tocbot.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/anchor-js@4.3.1/anchor.min.js" ></script>
+
+
+
+  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js" ></script>
+
+
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var title = document.getElementById('subtitle').title;
+      
+      typing(title)
+      
+    })(window, document);
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 主题的启动项 保持在最底部 -->
+<script  src="/js/boot.js" ></script>
+
+
+</body>
+</html>
