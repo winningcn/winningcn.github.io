@@ -2,9 +2,6 @@
 title: bz
 banner_img: '/img/default.png'
 date: 2023-10-11 22:28:55
-password: guanguan
-abstract: 小弟弟。
-message: 密码是啥？
 tags:
 - 标准
 
@@ -1908,7 +1905,7 @@ hide: true
 </tbody>
 </table>
 
- 
+
 
 ##### 涉氨制冷企业检查标准清单
 
@@ -9058,4 +9055,3 @@ hide: true
 </tr>
 </tbody>
 </table>
-

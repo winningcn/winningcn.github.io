@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: EHS 数字化之路
+title: 安全001
 subtitle: '早游读写跑'
 description: ''
 keywords:
@@ -123,6 +123,10 @@ theme: fluid
 # theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+pdfjs:
+  enable: true
+  src: /pdfjs/build/pdf.js
+  workerSrc: /pdfjs/build/pdf.worker.js
 deploy:
   type: 'git'
   repo: git@github.com:winningcn/winningcn.github.io.git
