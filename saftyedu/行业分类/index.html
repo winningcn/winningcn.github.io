@@ -1,0 +1,537 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=&#34;auto&#34;>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.png">
+  <link rel="icon" href="/img/favicon.png">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="description" content="行业分类">
+  <meta name="author" content="ing">
+  <meta name="keywords" content="">
+  
+  <title>行业分类 - 安全001</title>
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
+
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css" />
+  <link  rel="stylesheet" href="/lib/hint/hint.min.css" />
+
+  
+    
+    
+      
+      <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@10.7.2/styles/github-gist.min.css" />
+    
+  
+
+  
+    <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+  
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_kmeydafke9r.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+<!-- 自定义样式保持在最底部 -->
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    var CONFIG = {"hostname":"example.com","root":"/","version":"1.8.11","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null}},"search_path":"/local-search.xml"};
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+
+<body>
+  <header style="height: 50vh;">
+    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand"
+       href="/">&nbsp;<strong>安全001</strong>&nbsp;</a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/power/">
+                    
+                    弱电基础
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/saftyedu/">
+                    
+                    安全教育
+                  </a>
+                
+              </div>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" data-toggle="modal" data-target="#modalSearch">&nbsp;<i
+                class="iconfont icon-search"></i>&nbsp;</a>
+          </li>
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="banner" id="banner" parallax=true
+         style="background: url('/img/default.png') no-repeat center center;
+           background-size: cover;">
+      <div class="full-bg-img">
+        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.6)">
+          <div class="page-header text-center fade-in-up">
+            <span class="h2" id="subtitle" title="行业分类">
+              
+            </span>
+
+            
+              <div class="mt-3">
+  
+  
+    <span class="post-meta">
+      <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+      <time datetime="2024-01-14 11:13" pubdate>
+        2024年1月14日 上午
+      </time>
+    </span>
+  
+</div>
+
+<div class="mt-1">
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-chart"></i>
+      1.3k 字
+    </span>
+  
+
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-clock-fill"></i>
+      
+      
+      13
+       分钟
+    </span>
+  
+
+  
+  
+</div>
+
+            
+          </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="d-none d-lg-block col-lg-2"></div>
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div class="py-5" id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none">行业分类</h1>
+            
+            <div class="markdown-body">
+              <p>《国民经济行业分类》&amp;《冶金有色建材机械轻工纺织烟草商贸行业安全监管分类标准（试行）》</p>
+<h3 id="冶金有色建材机械轻工纺织烟草商贸行业安全监管分类标准（试行）应急厅〔2019〕-17号"><a href="#冶金有色建材机械轻工纺织烟草商贸行业安全监管分类标准（试行）应急厅〔2019〕-17号" class="headerlink" title="冶金有色建材机械轻工纺织烟草商贸行业安全监管分类标准（试行）应急厅〔2019〕 17号"></a>冶金有色建材机械轻工纺织烟草商贸行业安全监管分类标准（试行）应急厅〔2019〕 17号</h3><p>按照《国民经济行业分类》（GB&#x2F;T4754-2017），对冶金有色建材机械轻工纺织烟草商贸行业安全监管作出分类标准。</p>
+<h4 id="一、冶金行业"><a href="#一、冶金行业" class="headerlink" title="一、冶金行业"></a><strong>一、冶金行业</strong></h4><p>主要包括：31黑色金属冶炼和压延加工业大类所包含的全部企业。</p>
+<h4 id="二、有色行业"><a href="#二、有色行业" class="headerlink" title="二、有色行业"></a><strong>二、有色行业</strong></h4><p>主要包括：32有色金属冶炼和压延加工业大类所包含的全部企业。</p>
+<h4 id="三、建材行业"><a href="#三、建材行业" class="headerlink" title="三、建材行业"></a><strong>三、建材行业</strong></h4><p>主要包括：30非金属矿物制品业大类企业。</p>
+<h5 id="不包括："><a href="#不包括：" class="headerlink" title="不包括："></a>不包括：</h5><p>305玻璃制品制造中类所包含的全部企业；</p>
+<p>3073特种陶瓷制品制造，</p>
+<p>3074日用陶瓷制品制造，</p>
+<p>3075陈设艺术陶瓷制造，</p>
+<p>3076园艺陶瓷制造，</p>
+<p>3079其他陶瓷制品制造等5个小类的企业。</p>
+<h4 id="四、机械行业"><a href="#四、机械行业" class="headerlink" title="四、机械行业"></a><strong>四、机械行业</strong></h4><p>主要包括：33金属制品业，</p>
+<p>34通用设备制造业，</p>
+<p>35专用设备制造业，</p>
+<p>36汽车制造业，</p>
+<p>37铁路、船舶、航空航天和其他运输设备制造业，</p>
+<p>38电气机械和器材制造业，</p>
+<p>39计算机、通信和其他电子设备制造业，</p>
+<p>40仪器仪表制造业，</p>
+<p>43金属制品、机械和设备修理业等9大类企业。</p>
+<h5 id="不包括：-1"><a href="#不包括：-1" class="headerlink" title="不包括："></a>不包括：</h5><p>338金属制日用品制造，</p>
+<p>373船舶及相关装置制造，</p>
+<p>374航空、航天器及设备制造，</p>
+<p>376自行车和残疾人座车制造，</p>
+<p>384电池制造，</p>
+<p>385家用电力器具制造，</p>
+<p>387照明器具制造，</p>
+<p>403钟表与计时仪器制造，</p>
+<p>405衡器制造等9个中类所包含的全部企业；</p>
+<p>3322手工具制造，</p>
+<p>3324刀剪及类似日用金属工具制造，</p>
+<p>3351建筑、家具用金属配件制造，</p>
+<p>3379搪瓷日用品及其他搪瓷制品制造，</p>
+<p>3473照相机及器材制造，</p>
+<p>3587眼镜制造等6个小类的企业；</p>
+<p>3399其他未列明金属制品制造小类中武器弹药制造的企业；特种设备目录中的特种设备制造企业。</p>
+<h4 id="五、轻工行业"><a href="#五、轻工行业" class="headerlink" title="五、轻工行业"></a><strong>五、轻工行业</strong></h4><p>主要包括：13农副食品加工业，</p>
+<p>14食品制造业，</p>
+<p>15酒、饮料和精制茶制造业，</p>
+<p>19皮革、毛皮、羽毛及其制品和制鞋业，</p>
+<p>20木材加工和木、竹、藤、棕、草制品业，</p>
+<p>21家具制造业，</p>
+<p>22造纸和纸制品业，</p>
+<p>23印刷和记录媒介复制业，</p>
+<p>24文教、工美、体育和娱乐用品制造业，</p>
+<p>29橡胶和塑料制品业等10大类的企业；</p>
+<p>305玻璃制品制造，</p>
+<p>307陶瓷制品制造（除3071建筑陶瓷制品制造，3072卫生陶瓷制品制造），</p>
+<p>338金属制日用品制造，</p>
+<p>376自行车和残疾人座车制造，</p>
+<p>384电池制造，</p>
+<p>385家用电力器具制造，</p>
+<p>387照明器具制造，</p>
+<p>403钟表与计时仪器制造，</p>
+<p>405衡器制造，</p>
+<p>411日用杂品制造等10个中类所包含的全部企业；</p>
+<p>3322手工具制造，</p>
+<p>3324刀剪及类似日用金属工具制造，</p>
+<p>3351建筑、家具用金属配件制造，</p>
+<p>3379搪瓷日用品及其他搪瓷制品制造，</p>
+<p>3473照相机及器材制造，</p>
+<p>3587眼镜制造等6个小类的企业。</p>
+<h5 id="不包括：-2"><a href="#不包括：-2" class="headerlink" title="不包括："></a>不包括：</h5><p>131谷物磨制1个中类所包含的全部企业；</p>
+<p>1351牲畜屠宰，</p>
+<p>1352禽类屠宰，</p>
+<p>1511酒精制造等3个小类的企业；从种植、养殖、捕捞等环节进入批发、零售市场或者生产加工企业前的农、林、牧、渔业产品初加工服务的企业。</p>
+<h4 id="六、纺织行业"><a href="#六、纺织行业" class="headerlink" title="六、纺织行业"></a><strong>六、纺织行业</strong></h4><p>主要包括：17纺织业，</p>
+<p>18纺织服装、服饰业等2大类所包含的全部企业。</p>
+<h4 id="七、烟草行业"><a href="#七、烟草行业" class="headerlink" title="七、烟草行业"></a><strong>七、烟草行业</strong></h4><p>主要包括：16烟草制品业大类所包含的全部企业及5128烟草制品批发1个小类的企业。</p>
+<h4 id="八、商贸行业"><a href="#八、商贸行业" class="headerlink" title="八、商贸行业"></a><strong>八、商贸行业</strong></h4><p>主要包括：51批发业，</p>
+<p>52零售业，</p>
+<p>59装卸搬运和仓储业，</p>
+<p>61住宿业，</p>
+<p>62餐饮业等5大类的企业（不含消防、燃气的监管）。</p>
+<h5 id="不包括：-3"><a href="#不包括：-3" class="headerlink" title="不包括："></a>不包括：</h5><p>515医药及医疗器材批发，</p>
+<p>518贸易经纪与代理，</p>
+<p>525医药及医疗器材专门零售，</p>
+<p>529货摊、无店铺及其他零售业，</p>
+<p>591装卸搬运，</p>
+<p>594危险品仓储，</p>
+<p>596中药材仓储，</p>
+<p>624餐饮配送及外卖送餐服务等8个中类所包含的全部企业；5112种子批发，</p>
+<p>5128烟草制品批发，</p>
+<p>5162石油及制品批发，</p>
+<p>5166化肥批发，</p>
+<p>5167农药批发，</p>
+<p>5168农业薄膜批发，</p>
+<p>5169其他化工产品批发，</p>
+<p>5191再生物资回收与批发，</p>
+<p>5265机动车燃油零售，</p>
+<p>5266机动车燃气零售，</p>
+<p>5267机动车充电销售，</p>
+<p>5951谷物仓储等12个小类的企业。</p>
+<h3 id="《国民经济行业分类》（GB-T4754-2017）"><a href="#《国民经济行业分类》（GB-T4754-2017）" class="headerlink" title="《国民经济行业分类》（GB&#x2F;T4754-2017）"></a>《国民经济行业分类》（<a href="GB/T4754-2017">GB&#x2F;T4754-2017</a>）</h3>
+
+	<div class="row">
+    <embed src="https://www.mca.gov.cn/images3/www/file/201711/1509495881341.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+ 
+
+            </div>
+            <hr>
+            <div>
+              <div class="post-metas mb-3">
+                
+                  <div class="post-meta mr-3">
+                    <i class="iconfont icon-category"></i>
+                    
+                      <a class="hover-with-bg" href="/categories/saftyedu/">安全教育</a>
+                    
+                  </div>
+                
+                
+                  <div class="post-meta">
+                    <i class="iconfont icon-tags"></i>
+                    
+                      <a class="hover-with-bg" href="/tags/EHS/">EHS</a>
+                    
+                      <a class="hover-with-bg" href="/tags/%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8/">应急管理部</a>
+                    
+                  </div>
+                
+              </div>
+              
+              
+                <div class="post-prevnext">
+                  <article class="post-prev col-6">
+                    
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/saftyedu/%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A84160%E4%B8%AA%E9%97%AE%E9%A2%98%E5%9B%9E%E5%A4%8D%E6%B1%87%E6%80%BB3/">
+                        <span class="hidden-mobile">应急管理部4160个问题回复汇总3</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+    
+      <div class="d-none d-lg-block col-lg-2 toc-container" id="toc-ctn">
+        <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+
+<!-- Custom -->
+
+
+    
+
+    
+      <a id="scroll-top-button" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v"
+                 for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    
+  </main>
+
+  <footer class="text-center mt-5 py-3">
+  <div class="footer-content">
+     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+  </div>
+  
+
+  
+
+  
+</footer>
+
+
+  <!-- SCRIPTS -->
+  
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+<!-- Plugins -->
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+  
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/tocbot@4.12.3/dist/tocbot.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/anchor-js@4.3.1/anchor.min.js" ></script>
+
+
+
+  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js" ></script>
+
+
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var title = document.getElementById('subtitle').title;
+      
+      typing(title)
+      
+    })(window, document);
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 主题的启动项 保持在最底部 -->
+<script  src="/js/boot.js" ></script>
+
+
+</body>
+</html>

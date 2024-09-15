@@ -1,0 +1,666 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=&#34;auto&#34;>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.png">
+  <link rel="icon" href="/img/favicon.png">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="description" content="积沙成塔">
+  <meta name="author" content="ing">
+  <meta name="keywords" content="">
+  
+  <title>标准收集学习 - 安全001</title><meta name="robots" content="noindex">
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
+
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css" />
+  <link  rel="stylesheet" href="/lib/hint/hint.min.css" />
+
+  
+    
+    
+      
+      <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@10.7.2/styles/github-gist.min.css" />
+    
+  
+
+  
+    <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+  
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_kmeydafke9r.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+<!-- 自定义样式保持在最底部 -->
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    var CONFIG = {"hostname":"example.com","root":"/","version":"1.8.11","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null}},"search_path":"/local-search.xml"};
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+
+<body>
+  <header style="height: 50vh;">
+    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand"
+       href="/">&nbsp;<strong>安全001</strong>&nbsp;</a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/power/">
+                    
+                    弱电基础
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/saftyedu/">
+                    
+                    安全教育
+                  </a>
+                
+              </div>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" data-toggle="modal" data-target="#modalSearch">&nbsp;<i
+                class="iconfont icon-search"></i>&nbsp;</a>
+          </li>
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="banner" id="banner" parallax=true
+         style="background: url('/img/default.png') no-repeat center center;
+           background-size: cover;">
+      <div class="full-bg-img">
+        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.6)">
+          <div class="page-header text-center fade-in-up">
+            <span class="h2" id="subtitle" title="标准收集学习">
+              
+            </span>
+
+            
+              <div class="mt-3">
+  
+  
+    <span class="post-meta">
+      <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+      <time datetime="2023-06-18 22:28" pubdate>
+        2023年6月18日 晚上
+      </time>
+    </span>
+  
+</div>
+
+<div class="mt-1">
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-chart"></i>
+      8.6k 字
+    </span>
+  
+
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-clock-fill"></i>
+      
+      
+      92
+       分钟
+    </span>
+  
+
+  
+  
+</div>
+
+            
+          </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="d-none d-lg-block col-lg-2"></div>
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div class="py-5" id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none">标准收集学习</h1>
+            
+            <div class="markdown-body">
+              <p>国家现行的有关规程、规范及相关行业标准</p>
+<p>1）《建筑和市政工程抗震通用规范》GB 55002-2021	</p>
+<p>2）《建筑节能与可再生能源利用通用规范》GB 55015-2021<br>3）《建筑电气与智能化通用规范》GB 55024-20224）《安全防范工程通用规范》GB 55029-2022<br>5）《消防设施通用规范》GB 55036-2022</p>
+<p>6）《建筑防火通用规范》GB 55037-2022<br>7）《建筑抗震设计规范》GB 50011-2010（2016年版）	</p>
+<p>8）《建筑机电工程抗震设计规范》GB 50981-2014	<br>9）《民用建筑设计统一标准》GB 50352-2019		</p>
+<p>10）《民用建筑电气设计标准》GB 51348-2019	<br>11）《建筑设计防火规范》GB 50016-2014（2018年版）	</p>
+<p>12）《火灾自动报警系统设计规范》GB 50116-2013<br>13）《火灾自动报警系统施工及验收规范》 GB 50166-2019	</p>
+<p>14）《消防控制室通用技术要求》 GB 25506-2010<br>15）《消防设备电源监控系统》 GB 28184-2011	</p>
+<p>16）《视频安防监控系统工程设计规范》 GB 50395-2007<br>17）《综合布线系统工程设计规范》GB 50311-2016	</p>
+<p>18）《气体灭火系统设计规范》 GB 50370-2005</p>
+<h3 id="编写原则"><a href="#编写原则" class="headerlink" title="编写原则"></a>编写原则</h3><p>原则：场所实现的目的，场所的性质，实现场所性质的技术指标</p>
+<p>基础：建筑分类与耐火等级</p>
+<p>依据：法律规范条目</p>
+<h3 id=""><a href="#" class="headerlink" title=""></a><img src="/img/640.jpg" srcset="/img/loading.gif" lazyload></h3><h3 id="消防救援设施"><a href="#消防救援设施" class="headerlink" title="消防救援设施"></a>消防救援设施</h3><h4 id="消防救援口-55037-2-23"><a href="#消防救援口-55037-2-23" class="headerlink" title="消防救援口 55037-2.23"></a>消防救援口 55037-2.23</h4><p>1沿外墙的每个防火分区在对应消防救援操作面范围内设置的消防救援口<br>不应少于2个：<br>2无外窗的建筑应每层设置消防救援口，有外窗的建筑应自第三层起每层设<br>置消防救援口：<br>3消防救援口的净高度和净宽度均不应小于1.0m，当利用门时，净宽度不<br>应小于0.8m；<br>5消防救援口应设置可在室内和室外识别的永久性明显标志。</p>
+<p><strong>表3.1.1</strong> <strong>民用建筑主要用电负荷分级</strong></p>
+<table>
+<thead>
+<tr>
+<th>用电负荷 级别</th>
+<th align="center">用电负荷分级依据</th>
+<th align="left">适用建筑物示例</th>
+<th>用电负荷名称</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>特级</td>
+<td align="center">1)中断供电将危害人身安全、 造成人身重大伤亡；2)中断供电将在经济上造成特 别重大损失；3)在建筑中具有特别重要作用 及重要场所中不允许中断供电的 负荷</td>
+<td align="left">高度150m及以上的一类高层公共建筑</td>
+<td>安全防范系统、航空障碍 照明等</td>
+</tr>
+<tr>
+<td>一级</td>
+<td align="center">1)中断供电将造成人身伤害；2)中断供电将在经济上造成重 大损失 ；3)中断供电将影响重要用电单 位的正常工作，或造成人员密集 的公共场所秩序严重混乱</td>
+<td align="left">一类高层建 筑</td>
+<td>安全防范系统、航空障碍照明、值班照明、警卫照明、客梯、排水泵、生活给水泵等</td>
+</tr>
+<tr>
+<td>二级</td>
+<td align="center">1)中断供电将在经济上造成较 大损失 ；2)中断供电将影响较重要用电 单位的正常工作或造成公共场所 秩序混乱</td>
+<td align="left">二类高层建筑</td>
+<td>安全防范系统、客梯、排水泵、生活给水泵等</td>
+</tr>
+<tr>
+<td>一类和二类高层建筑</td>
+<td align="center">主要通道、走道及楼梯间照明等</td>
+<td align="left"></td>
+<td></td>
+</tr>
+<tr>
+<td>三级</td>
+<td align="center">不属于特级、一级和二级的用 电负荷</td>
+<td align="left"></td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="布局与布置"><a href="#布局与布置" class="headerlink" title="布局与布置"></a>布局与布置</h3><h4 id="选址"><a href="#选址" class="headerlink" title="选址"></a>选址</h4><h4 id="防火间距"><a href="#防火间距" class="headerlink" title="防火间距"></a>防火间距</h4><h4 id="布置"><a href="#布置" class="headerlink" title="布置"></a>布置</h4><h3 id="建筑结构防火"><a href="#建筑结构防火" class="headerlink" title="建筑结构防火"></a>建筑结构防火</h3><h4 id="建筑耐火等级"><a href="#建筑耐火等级" class="headerlink" title="建筑耐火等级"></a>建筑耐火等级</h4><p>①一级耐火等级建筑：主要建筑构件全部为不燃烧性。<br>②二级耐火等级建筑：主要建筑构件除吊顶为难燃烧性，其它为不燃烧性。<br>③三级耐火等级建筑：屋顶承重构件为难燃性。<br>④四级耐火等级建筑：防火墙为不燃烧性， 其余为难燃性和可燃性。</p>
+<h4 id="构件耐火极限"><a href="#构件耐火极限" class="headerlink" title="构件耐火极限"></a>构件耐火极限</h4><h4 id="构件材料燃烧性能"><a href="#构件材料燃烧性能" class="headerlink" title="构件材料燃烧性能"></a>构件材料燃烧性能</h4><p>不燃 难燃 可燃</p>
+<h4 id="防火墙"><a href="#防火墙" class="headerlink" title="防火墙"></a>防火墙</h4><h4 id="金属夹芯板"><a href="#金属夹芯板" class="headerlink" title="金属夹芯板"></a>金属夹芯板</h4><h3 id="建筑材料防火"><a href="#建筑材料防火" class="headerlink" title="建筑材料防火"></a>建筑材料防火</h3><h4 id="建筑材料燃烧性能"><a href="#建筑材料燃烧性能" class="headerlink" title="建筑材料燃烧性能"></a>建筑材料燃烧性能</h4><p>A不燃 B1难燃 B2可燃B3易燃</p>
+<h4 id="附加信息"><a href="#附加信息" class="headerlink" title="附加信息"></a>附加信息</h4><p>产烟特性、毒性、低落物</p>
+<h4 id="防火封堵"><a href="#防火封堵" class="headerlink" title="防火封堵"></a>防火封堵</h4><p>建筑防火通用规范GB55037-2022</p>
+<p>6.3.4电气线路和各类管道穿过防火墙、防火隔墙竖井井壁、建筑变形缝处和楼板处的孔隙应采取防火封堵措施。防火封堵组件的耐火性能不应低于防火分隔部位的耐火性能要求<br>6.3.5通风和空气调节系统的管道、防烟与排烟系统的管道穿过防火墙、防火隔墙、楼板、建筑变形缝处，建筑内未按防火分区独立设置的通风和空气调节系统中的竖向风管与每层水平风管交接的水平管段处，均应采取防止火灾通过管道蔓延至其他防火分隔区域的措施。</p>
+<h3 id="防火分区"><a href="#防火分区" class="headerlink" title="防火分区"></a>防火分区</h3><h3 id="安全疏散"><a href="#安全疏散" class="headerlink" title="安全疏散"></a>安全疏散</h3><h4 id="通道堵塞、高度"><a href="#通道堵塞、高度" class="headerlink" title="通道堵塞、高度"></a>通道堵塞、高度</h4><p>建筑防火通用规范GB55037-2022   7. 1. 5<br>在疏散通道、疏散走道、疏散出口处，不应有任何影响人员疏散的物体，并应在疏散通道、疏散走道、疏散出口的明显位置设置明显的指示标志。疏散通道、疏散走道、疏散出口的净高度均不应小于2.1m。疏散走道在防火分区分隔处应设置疏散门。</p>
+<h3 id="救援设施"><a href="#救援设施" class="headerlink" title="救援设施"></a>救援设施</h3><h4 id="消防救援口"><a href="#消防救援口" class="headerlink" title="消防救援口"></a>消防救援口</h4><p>建筑防火通用规范GB55037-2022  2.2.3</p>
+<p>1沿外墙的每个防火分区在对应消防救援操作面范围内设置的消防救援口不应少于2个；<br>2无外窗的建筑应每层没置消防救援口，有外窗的建筑应自第三层起每层设置消防救援口；<br>3消防救援口的净高度和净宽度均不应小于1.0m,当利用门时，净宽度不应小于0.8m;<br>4消防救援口应易于从室内和室外打开或破拆，采用玻璃窗时，应选用安全玻璃；<br>5消防救援口应设置可在室内和室外识别的永久性明显标志。</p>
+<h4 id="消防电梯"><a href="#消防电梯" class="headerlink" title="消防电梯"></a>消防电梯</h4><p>建筑防火通用规范GB55037-2022  2.2.6</p>
+<p>消防电梯不应少于1 部：<br>1 建筑高度大于33m 的住宅建筑；<br>2 5 层及以上且建筑面积大于3000m2 （包括设置在但纤h 建<br>筑内第五层及以上楼层）的老年人照料设施；<br>3 一类高层公共建筑，建筑高度大于32m 的立类宵b层公共<br>建筑；<br>4 建筑高度大于32m 的丙类高层厂房？<br>5 建筑高度大于32m 的封闭或半封闭汽车库<br>6 除轨道交通工程外，埋深大于10m且总建筑面积大于3000平<br>的地下或半地下建筑（室） </p>
+<h4 id="直升机停机坪"><a href="#直升机停机坪" class="headerlink" title="直升机停机坪"></a>直升机停机坪</h4><p>建筑防火通用规范GB55037-2022  2.2.11</p>
+<p>建筑高度大于250m 的工峰主~~民用是筑，应在屋顶设置<br>直升机停机坪。</p>
+<h3 id="防排烟"><a href="#防排烟" class="headerlink" title="防排烟"></a>防排烟</h3><h3 id="建筑、设备防火防爆"><a href="#建筑、设备防火防爆" class="headerlink" title="建筑、设备防火防爆"></a>建筑、设备防火防爆</h3><h4 id="-1"><a href="#-1" class="headerlink" title=""></a></h4><h3 id="重点部位"><a href="#重点部位" class="headerlink" title="重点部位"></a>重点部位</h3><h4 id="消防控制室"><a href="#消防控制室" class="headerlink" title="消防控制室"></a>消防控制室</h4><h4 id="配电房"><a href="#配电房" class="headerlink" title="配电房"></a>配电房</h4><h4 id="水泵房"><a href="#水泵房" class="headerlink" title="水泵房"></a>水泵房</h4><h4 id="柴油机发电房"><a href="#柴油机发电房" class="headerlink" title="柴油机发电房"></a>柴油机发电房</h4><h4 id="排烟风机房"><a href="#排烟风机房" class="headerlink" title="排烟风机房"></a>排烟风机房</h4><h3 id="管理制度"><a href="#管理制度" class="headerlink" title="管理制度"></a>管理制度</h3><h4 id="投入"><a href="#投入" class="headerlink" title="投入"></a>投入</h4><h4 id="培训"><a href="#培训" class="headerlink" title="培训"></a>培训</h4><h4 id="预案"><a href="#预案" class="headerlink" title="预案"></a>预案</h4><h4 id="演练"><a href="#演练" class="headerlink" title="演练"></a>演练</h4><h4 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h4><h3 id="用电规范"><a href="#用电规范" class="headerlink" title="用电规范"></a>用电规范</h3><h4 id="配电线路的老化，破损；"><a href="#配电线路的老化，破损；" class="headerlink" title="配电线路的老化，破损；"></a>配电线路的老化，破损；</h4><p>《用电安全导则》GB&#x2F;T13869-2017 6<br>用电产品应该在规定的使用寿命期内使用，超过使用 寿命期限的应及时报废或更换，必要时按照相关规定 延长使用寿命。 </p>
+<h4 id="配电箱内电器件安装在木板和可燃材料上；"><a href="#配电箱内电器件安装在木板和可燃材料上；" class="headerlink" title="配电箱内电器件安装在木板和可燃材料上；"></a>配电箱内电器件安装在木板和可燃材料上；</h4><p>《建筑电气工程施工质量验收 规 范 》 GB50303-2015 6.2.8<br>配电箱、开关箱内的电器（含插座）应先安装在金属 或非木质阻燃绝缘电器安装板上，然后方可整体紧固 在配电箱、开关箱箱体内。  </p>
+<h4 id="配电房线管未做防火封堵"><a href="#配电房线管未做防火封堵" class="headerlink" title="配电房线管未做防火封堵"></a>配电房线管未做防火封堵</h4><p>建筑防火通用规范GB55037-2022  6.3.4</p>
+<h4 id="导线垂直敷设至地面低于-1-8m-时，未穿管保护。导线水平敷设至地面低于-2-5m-时，未穿管保-护；"><a href="#导线垂直敷设至地面低于-1-8m-时，未穿管保护。导线水平敷设至地面低于-2-5m-时，未穿管保-护；" class="headerlink" title="导线垂直敷设至地面低于 1.8m 时，未穿管保护。导线水平敷设至地面低于 2.5m 时，未穿管保 护；"></a>导线垂直敷设至地面低于 1.8m 时，未穿管保护。导线水平敷设至地面低于 2.5m 时，未穿管保 护；</h4><p>《低压配电设计规范》GB 50054-2011 7.2.1 </p>
+<h3 id="消防控制室GB-25506"><a href="#消防控制室GB-25506" class="headerlink" title="消防控制室GB+25506"></a>消防控制室GB+25506</h3><p>火警信号<br>联动信号<br>故障信号<br>屏蔽信号<br>监管信号</p>
+<h4 id="资料管理："><a href="#资料管理：" class="headerlink" title="资料管理："></a>资料管理：</h4><ol>
+<li>总平面图、消防设施布置图、消防设施系统图、安全出口布置图、重点部位布置图</li>
+<li>制度、灭火预案、疏散预案</li>
+<li>培训记录、演练记录</li>
+<li>值班、巡查情况</li>
+<li>消防设备一览表，操作说明、维护保养制度</li>
+</ol>
+<h4 id="设置管理："><a href="#设置管理：" class="headerlink" title="设置管理："></a>设置管理：</h4><p>24小时值班，2人持证<br>如自动不应手动</p>
+<h4 id="设备："><a href="#设备：" class="headerlink" title="设备："></a>设备：</h4><p>显示装置<br>火灾报警控制器<br>消防联动控制器  喷淋 泵 电源 电梯 通风排烟 防火卷帘<br>电话总机<br>广播<br>照明疏散指示系统  工作状态转换 应急状态</p>
+<h3 id="《仓储场所消防安全管理通则》XF-1131-2014"><a href="#《仓储场所消防安全管理通则》XF-1131-2014" class="headerlink" title="《仓储场所消防安全管理通则》XF+1131-2014"></a>《仓储场所消防安全管理通则》XF+1131-2014</h3><h4 id="标志画线"><a href="#标志画线" class="headerlink" title="标志画线"></a>标志画线</h4><pre><code>3.4消防安全标志仓储场所应按照GB15630的要求设置消防安全标志。
+仓储场所应划线标明库房的墙距、垛距、主要通道、货物固定位置等，
+</code></pre>
+<h4 id="电检、防雷"><a href="#电检、防雷" class="headerlink" title="电检、防雷"></a>电检、防雷</h4><p>5.4.3 消防安全管理情况<br>仓储场所消防安全管理情况应包括以下内容：<br>e)防火检查、巡查记录；<br>f)有关电气设备检测、防雷装置检测等记录资料</p>
+<h4 id="堆放"><a href="#堆放" class="headerlink" title="堆放"></a>堆放</h4><p>6.8 库房内堆放物品应满足以下要求：<br>a) 堆垛上部与楼板、平屋顶之间的距离不小于 0.3m (人字屋架从横梁算起)；<br>b)物品与照明灯之间的距离不小于 0.5m:<br>c)物品与墙之间的距离不小于 0.5m:<br>d)物品堆垛与柱之间的距离不小于 0.3m;<br>e) 物品堆垛与堆垛之间的距离不小于 1m。</p>
+<p>货架非燃烧材料、不应遮挡消防设施：消火栓、喷淋、排烟</p>
+<h3 id="消防应急照明和疏散指示标志GB51309"><a href="#消防应急照明和疏散指示标志GB51309" class="headerlink" title="消防应急照明和疏散指示标志GB51309"></a>消防应急照明和疏散指示标志GB51309</h3><h4 id="控制方式："><a href="#控制方式：" class="headerlink" title="控制方式："></a>控制方式：</h4><p>集中控制：<br>    有中控室<br>    设置火灾自动报警系统<br>非集中控制</p>
+<h4 id="供电方式："><a href="#供电方式：" class="headerlink" title="供电方式："></a>供电方式：</h4><p>集中供电<br>自带蓄电池供电</p>
+<h4 id="灯："><a href="#灯：" class="headerlink" title="灯："></a>灯：</h4><p>方向标志灯<br>出口标志灯</p>
+<p>不应用蓄光型代替应急标志灯</p>
+<p>8m以下应急标志灯：<br>应选A型灯<br>地面上设置的标志灯应选择集中电源A型灯 36v<br>未设置消防控制室的住宅，疏散通道、楼梯间可选择自带电源B型灯</p>
+<p>标志灯应保证人员清晰辨识路径、方向、出口位置、楼层</p>
+<h4 id="配电"><a href="#配电" class="headerlink" title="配电"></a>配电</h4><p>应急照明配电箱、集中电源的输入输出回路中 不设置剩余电流动作保护器，严禁装入系统外的开关插座</p>
+<p>除住宅外，不同防火分区不能公用同一配电回路</p>
+<p>避难走道应单独设置配电回路</p>
+<p>重点区域：配电室、消防中控、消防水泵房、发电机房应单独设置配电回路</p>
+<p>竖向疏散区域：封闭楼梯间、防烟楼梯间单独设置配电回路</p>
+<p>任意配电回路灯具数量不宜超过60个，额定功率和不大于配电回路额定功率80%，A型灯具额定电流不大于6A，B型不大于10A</p>
+<p>电井防火门防火等级为丙级 </p>
+<p>建筑防火通用规范GB55037-2022 </p>
+<p>6.4.4.2  </p>
+<p>未明确重点消防部位负责人  </p>
+<p>&lt;高层民用建筑消防安全管理规定》第二十五条</p>
+<p>场所未提供电气防火检测报告</p>
+<p>中华人民共和国消防法 16.3</p>
+<p>消防电梯内有易燃材料</p>
+<p>建筑设计防火规范GB+50016-2014（2018）7.3</p>
+<p>消火栓接合器铭牌未标明 额定压力</p>
+<p>《消防给水及消火栓系统技术规范》GB+50974-2014  5.4.9 </p>
+<p>防火门顺序器失效</p>
+<p>建筑防火通用规范GB55037-2022  6.4.1 </p>
+<p>配电房未设计气体灭火系统</p>
+<p>GB50016-2014（2018年版）8.3.9</p>
+<p>配电房线管未做防火封堵<br>建筑防火通用规范GB55037-2022 6.3.4</p>
+<p>消防中控室线槽未封闭<br>建筑电气防火检测技术规程 DBJ&#x2F;T 15-123-2018  35.1</p>
+<h3 id="1建筑的耐火等级"><a href="#1建筑的耐火等级" class="headerlink" title="1建筑的耐火等级"></a>1<strong>建筑的耐火等级</strong></h3><p>一、建筑物的耐火等级</p>
+<p>1、建筑物的耐火等级分为四级，一二类三四类。</p>
+<p>2、节点缝隙或金属承重构件节点的外露部位，应做防火保护层，</p>
+<p>3、民用建筑的耐火等级、层数、长度和面积，一二级最大防火分区的长度250米。最大允许建筑面积2500平方米。</p>
+<p>4、对于地下房间、无窗房间或有固定窗扇的地上房间，以及超过20m且无自然排烟的疏散走道或有直接自然通风、但长度超过40m的疏散内走道，应设机械排烟设施。</p>
+<p>5、1)建筑高度超过32米，应设机械排烟设施。2)内走廊超过20米。并设有自然采光、自然通风设施。应设机械排烟设施。3)面积超过100平方米，应设机械排烟设施。4)通风和空调系统应设置排烟系统应设机械排烟设施。</p>
+<p>　　</p>
+<p><img src="https://mmbiz.qpic.cn/mmbiz/T5dkWX3OCRDlFNVF2dE6BG84WF8R2ClPxo0737WciaialLf5QdmzAIuBbGA8BoEgW1hHQneQxjNSz5iaa2mCuwNJA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" srcset="/img/loading.gif" lazyload alt="Image"></p>
+<h3 id="2建筑的防火分区、防火间距及疏散出口"><a href="#2建筑的防火分区、防火间距及疏散出口" class="headerlink" title="2建筑的防火分区、防火间距及疏散出口"></a>2<strong>建筑的防火分区、防火间距及疏散出口</strong></h3><p>6、建筑物内如设有上下层相连通的走马廊、自动扶梯等开口部位时，应按上、下连通层作为一个防火分区，</p>
+<p>7、地下、半地下建筑内的防火分区间应采用防火墙分隔，每个防火分区的建筑面积不应大于500m2。</p>
+<p>8、当设置自动灭火系统时，每个防火分区的最大允许建筑面积可增加到1000m2。局部设置时，增加面积应按该局部面积的一倍计算。</p>
+<p>9、民用建筑的防火间距：民用建筑之间的防火间距，6-9米</p>
+<p>10、公共建筑和通廊式居住建筑安全出口的数目不应少于两个。</p>
+<p>11、九层及九层以下，建筑面积不超过500m2的塔式住宅，可设一个楼梯</p>
+<p>12、高层建筑安全处口或疏散口必须设置两个安全出口</p>
+<p>13、建筑中的安全出口或疏散出口应分散布置。建筑中相邻2个安全出口或疏散出口最近边缘之间的水平距离不应小于5.0m</p>
+<p>14、直接通向公共走道的房间门至最近的外部出口或封闭楼梯间的距离:一级二级25米，环形通道22米。设有自动喷水系统的建筑疏散距离可增加25%</p>
+<p>15、楼梯间的首层应设置直接对外的出口，当层数不超过四层时，可将对外出口设置在离楼梯间不超过15m处。</p>
+<p>16、太平门应为推闩式外开门。</p>
+<p>17、变压器室与配电室之间的隔墙，应设防火墙。锅炉房、变压器室应设置在首层靠外墙的部位，并应在外墙上开门。首层外墙开口部位的上方应设置宽度不小于1.00m的防火挑檐或高度不小于1.50m的窗。</p>
+<h3 id="3室外消防栓系统"><a href="#3室外消防栓系统" class="headerlink" title="3室外消防栓系统"></a>3<strong>室外消防栓系统</strong></h3><p>18、消防车道穿过建筑物的门洞时，其净高和净宽不应小于4m;门垛之间的净宽不应小于3.5m。</p>
+<p>19、建筑物内的管道井、电缆井应每隔2～3层在楼板处用耐火极限不低于0.50h的不燃烧体封隔，其井壁应采用耐火极限不低于1.00h的不燃烧体。井壁上的检查门应采用丙级防火门。</p>
+<p>20、电梯井和电梯机房的墙壁等均应采用耐火极限不低于1h的非燃烧体。高层工业建筑的室内电梯井和电梯机房的墙壁应采用耐火极限不低于2.5h的非燃烧体</p>
+<p>21、疏散楼梯栏杆扶手的高度不应小于1.1m，其他建筑的室外，其倾斜角可不大于600,净宽可不小于80cm。且每级离扶手25cm处的踏步深度超过22cm时可不受此限。</p>
+<p>22、消防用水可由给水管网、天然水源或消防水池供给。</p>
+<p>23、室外消火栓水枪的充实水柱仍不小于10m; (从地面算起)。</p>
+<p>24、民用建筑室外消防栓的用水量应保证30L&#x2F;S 25、20。按建筑面积计算。</p>
+<p>25、环状管网的输水干管及向环状管网输水的输水管均不应少于两条，</p>
+<p>26、环状管道应用阀门分成若干独立段，每段内消火栓的数量不宜超过5个。室外消防给水管道的最小直径不应小于100mm</p>
+<p>27、室外消火栓应沿道路设置，道路宽度超过60m时，宜在道路两边设置消火栓，并宜靠近十字路口。</p>
+<p>28、消火栓距路边不应超过2m，距房屋外墙不宜小于5m。</p>
+<p>29、室外消火栓的间距不应超过120m。室外消火栓的保护半径不应超过150m;</p>
+<p>30、每个室外消火栓的用水量应按10～15 L&#x2F;s计算;水泵结合器的用水量10L&#x2F;S -15L&#x2F;S。</p>
+<p>31、高层建筑的消防栓充实水柱不小于10米-13米</p>
+<p>32、室外地上式消火栓应有一个直径为150mm或100mm和两个直径为65mm的栓口</p>
+<p>33、消防水池应满足自动喷水灭火延续时间按1h计算。</p>
+<p>34、消防水池一类18立方米。住宅一类建筑12立方米</p>
+<p>35、供消防车取水的消防水池，保护半径不应大于150m。供消防车取水的消防水池应设取水口，其取水口与建筑物(水泵房除外)的距离不宜小于15m;</p>
+<h3 id="4室内消防栓系统"><a href="#4室内消防栓系统" class="headerlink" title="4室内消防栓系统"></a>4<strong>室内消防栓系统</strong></h3><p>36、民用建筑用水量室内消火栓一般20L&#x2F;S，布置不小于4个。室内消防栓用水量：建筑高度大于50米 10L&#x2F;S 超高层建筑 30L&#x2F;S。</p>
+<p>37、室内消火栓超过10个且室内消防用水量大于15 L&#x2F;s时，室内消防给水管道至少应有两条进水管与室外环状管网连接，并应将室内管道连成环状或将进水管与室外管道连成环状。当环状管网的一条进水管发生事故时，其余的进水管应仍能供应全部用水量</p>
+<p>38、高层工业建筑室内消防竖管应成环状，且管道的直径不应小于100mm。</p>
+<p>39、室内消防给水管道应用阀门分成若干独立段，</p>
+<p>40、室内消火栓的布置，应保证有两支水枪的充实水柱同时到达室内任何部位。两个消防水栓的距离不应超过25米，水枪的充实水柱不应小于13m水柱;</p>
+<p>41、室内消火栓栓口处的静水压力应不超过80m水柱，如超过80m水柱时，应采用分区给水系统。消火栓栓口处的出水压力超过50m水柱时，应有减压设施</p>
+<p>42、消防电梯前室应设室内消火栓，栓口离地面高度为1.1m，其出水方向宜向下或与设置消火栓的墙面成900角;</p>
+<p>43、同层消防栓距离不超过30米。栓口距地面1.1米。栓口为DN65。水龙带不小于25米，水龙口20毫米。</p>
+<p>44、应储存10min的消防用水量。当室内消防用水量不超过25 L&#x2F;s，经计算水箱消防储水量超过12m3时，仍可采用12m3;当室内消防用水量超过25 L&#x2F;s，经计算水箱消防储水量超过18m3，仍可采用18m3。</p>
+<h3 id="5自动喷水系统消防喷淋系统的类型"><a href="#5自动喷水系统消防喷淋系统的类型" class="headerlink" title="5自动喷水系统消防喷淋系统的类型"></a>5<strong>自动喷水系统消防喷淋系统的类型</strong></h3><p>湿式喷淋灭火系统(适用于室内温度4-700C)、干式喷林灭火系统(适用于室内温度4-700C)、预作用喷林灭火系统。雨淋喷林系统、水幕系统</p>
+<p>45、积大于500m2的地下商店应设自动喷水灭火系统</p>
+<p>46、自动喷林系统的组成：报警阀、控制阀、水力警铃、系统检验装置、压力表、启闭指示装置。并设有水流指示器、压力开关、辅助电动报警装置组成。</p>
+<p>47、报警阀安装距地面1.2米。</p>
+<p>48、每个报警阀控制的喷淋头湿式或预作用喷淋头不超过800个。干式有排气装置的50个，干式无排气装置的250个</p>
+<p>49、消防支管的管径不小于25。每个消防支管最多能代8个喷淋头</p>
+<p>6<strong>消防水泵</strong></p>
+<p>50、一组消防水泵的吸水管不应少于两条。高层建筑设有防超压措施</p>
+<p>51、消防水泵房应有不少于两条的出水管直接与环状管网连接。</p>
+<p>52、固定消防水泵应设有备用泵，其工作能力不应小于一台主要泵。</p>
+<p>53、消防水泵应保证在火警后5min内开始工作，并在火场断电时仍能正常运转。</p>
+<h3 id="7各机电专业的消防设计"><a href="#7各机电专业的消防设计" class="headerlink" title="7各机电专业的消防设计"></a>7<strong>各机电专业的消防设计</strong></h3><p>54、多层建筑和高层工业建筑各层的每个防火分区，当其通风、空气调节系统均系独立设置时，则被保护防火分区内的送、回风水平风管与总管的交接处可不设防火阀。</p>
+<p>55、火灾事故照明和疏散指示标志可采用蓄电池作备用电源，但连续供电时间不应少于20min。</p>
+<p>56、火灾照明应在下列设置封闭楼梯间、防烟楼梯间及其前室，消防电梯前室。</p>
+<p>57、按规定应设封闭楼梯间或防烟楼梯间建筑的疏散走道</p>
+<p>58、疏散用的事故照明，其最低照度不应低于0.5 lx。消防控制室，消防水泵房，自备发电机房的照明支线，应接在消防配电线路上。</p>
+<p>59、散指示标志宜放在太平门的顶部或疏散走道及其转角处距地面高度1m以下的墙面上，走道上的指示标志间距不宜大于20m。</p>
+<h3 id="8火灾自动报警及消控室"><a href="#8火灾自动报警及消控室" class="headerlink" title="8火灾自动报警及消控室"></a>8<strong>火灾自动报警及消控室</strong></h3><p>60、报警区域按防火区域划分，一个报警区域可以有几个防火分区组成。</p>
+<p>61、火灾自动报警系统的形式有：集中报警系统：区域报警系统;控制报警系统(消控中心)，一个区域报警控制器可警戒多个楼层(看产品的功能)安装位置距地面1.3-1.5米，报警电话安装位置1.3-1.5米。</p>
+<p>62、建筑面积大于500m 2的地下商店应设火灾自动报警装置。</p>
+<p>63、独立设置的消防控制室，其耐火等级不应低于二级。采用耐火极限分别不低于3h的隔墙和2h的楼板，并与其他部位隔开和设置直通室外的安全出口</p>
+<p>64、消控室应设置下列功能：接受火灾报警，发出火灾的声、光信号，事故广播和安全疏散指令等：控制消防水泵，固定灭火装置，通风空调系统，电动的防火门、阀门、防火卷帘、防烟排烟设施。显示电源、消防电梯运行情况等</p>
+<p>65、火灾报警按钮安装在距地面1.5米</p>
+<p>66、报警线预留100-200毫米长度，绑扎成束、+红—兰线</p>
+<p>67、报警线敷设不应有接头、纽结，导线接头应在接线盒内用接线端子或焊接连接(每个接线端子接线不超过2根)，盒内外加螺母。不同电压、电流、不同回路、不同系统、不同类别的线不能放在同一线槽内。</p>
+<p>68、线槽每隔1.5米设吊架及支架，吊拉杆不小于6MM。</p>
+<p>69、消防电源应为专用电源，不允许插接接头，</p>
+<p>70、消控室门向疏散方向开门，允许有送回风管但应加防火阀。严禁无关电气线路穿越，控制台周围留1米通道和检修通道。</p>
+<p>71、消防控制的功能：控制消防设备的开启、关闭;消防水泵、防烟、排烟风机的开关;关闭防火阀，停止空调送风机;显示火灾、故障报警的位置;疏散通道、出口等;显示保护地图(模拟图、平面图);显示消防电源的状态;配备火灾报警应急广播控制装置</p>
+<p>72、消防控制状态的过程：当火灾报警时;火灾报警系统报警;自动灭火系统启动;室内消防栓系统启动(消防水泵启动);电源进行切换(非消防电源停电，应急消防电源启动)，并接通报警装置和应急照明装置和疏散指示照明。电梯迫降在首层;，加压送风机启动(风口开启)，隔离系统启动(防火卷帘下降);防火门关闭</p>
+<p>73、每隔防火分区至少设置一个手动火灾报警装置，两个手动火灾报警装置的距离不超过30米，安装位置1.3-1.5米</p>
+<h3 id="9防烟、排烟系统"><a href="#9防烟、排烟系统" class="headerlink" title="9防烟、排烟系统"></a>9<strong>防烟、排烟系统</strong></h3><p>74、一二类建筑(高度超过50米)、建筑高度超过32米的建筑物应设置防烟分区。</p>
+<p>75、防烟分区一般不超过500平方米，不大于防火分区;不跨越防火分区，防排烟系统设置一般在走廊、防烟道、排风井道各自独立，耐火等级1小时</p>
+<p>76、高层建筑的防烟、排烟系统。分为机械加压送风防烟系统和自动排烟系统(可开启外窗);自动排烟系统(可开启外窗)分为：机械排烟系统和可开启外窗的自然排烟系统。</p>
+<p>77、塔楼建筑应设有两个疏散防烟楼梯;并设有前室，前室设有机械加压送风系统。楼梯间每隔2-3层设置一个加压送风口，前室每层都设加压送风口</p>
+<p>78、防烟楼梯间。合用消防前室设计风量18000-20000。28000-30000M3、H。层数超过32层的分段计算(一)机械加压送风系统</p>
+<p>79、机械加压送风系统设置在前室、楼梯间、合用前室、消防电梯间前室;当楼梯间和消防前室加压送风系统必须合用时应设置压差自动调节装置;机械加压送风系统的全压除计算最不力点的的压头损失，其余压应符合下列规定：</p>
+<p>80、防烟楼梯间为50PA</p>
+<p>81、前室、楼梯间、合用前室、消防电梯间前室、避难间为25PA</p>
+<p>82、楼梯间每隔2-3层设置一个加压送风口，前室每层都设加压送风口。</p>
+<p>83、机械加压送风系统和机械排烟系统的风速规定1)采用金属风管，风速不大于20米、秒2) 混凝土结构管道风速不大于15米、秒3) 送风口的风速不大于7米、秒。排烟口的风速不大于10米、秒</p>
+<p>84、排烟系统的设置的：一般设置在楼梯间、前室、消防前室，合用前室，避难层。</p>
+<p>85、超过32层的建筑楼梯间的送风量和排风量应分段计算</p>
+<p>86、剪力楼楼梯间可供用一个风道其风量按两个楼梯间计算，风口分别设置。</p>
+<p>87、避难层的加压送风量按净面积计算不小于30立方米、秒，避难层应设有消防电梯出口、应急照明、广播、消防电话、消防栓、并设有独立的防烟设施，防烟楼梯进行分割(二)机械排风(防烟)系统</p>
+<p>88、排烟系统的设置条件：1)建筑高度超过32米，2)内走廊超过20米。并设有自然采光、自然通风设施3)面积超过100平方米4)通风和空调系统应设置排烟系统</p>
+<p>89、防烟系统的安装位置：1)担负一个防烟分区净空高度大于6米的房间，每平方米不小于60立方米2)担负一个防烟分区净空高度大于6米的房间，每平方米不小于120立方米3)排烟口安装在屋面及顶棚位置;排烟量不小于60立方米、秒4)防烟口设置水平距离不超过30米 防烟阀关闭温度280 0C5)走廊的防排烟系统竖向设置，室内的按防火分区设置6)机械防排烟系统可以与通风空调系统合用但必须采用可靠的防火措施7)防火风管为建筑中的安全救生系统: 主要应用于火灾时的排烟和正压送风的救生保障系统,一般可分为1h、2h、4h等的不同要求级别</p>
+<p>90、通风与空气调节1)通风系统应设置，横向按防火分区设置，竖向每五层设置(不超过5层)，2)通风空调系统穿越下列情况时安装防火阀70 0C(穿越防火分区墙、楼板变形缝等)</p>
+<h3 id="10其他"><a href="#10其他" class="headerlink" title="10其他"></a>10<strong>其他</strong></h3><p>91、玻璃幕的耐火等级应耐火1小时</p>
+<p>92、建筑变形缝等应加防火保护层</p>
+<p>93、无框玻璃幕墙及间隔玻璃幕墙应耐火1小时，应有800MM高实体墙。</p>
+<p>94、发电机房储油不能超过8小时用量，</p>
+<p>95、高层建筑的间距13米、群楼6米</p>
+<p>96、消防车道宽度不小于4米，与建筑物距离不小于5米，高度不超过4米</p>
+<p>97、建筑物的变形缝及金属结构要加防火保护层。</p>
+<p>98、一、二级建筑防火分区最大允许距离150米，面积2500平方米。电缆井、管道井、排风井、防烟井应每层进行分隔。</p>
+<h3 id="11防火分区"><a href="#11防火分区" class="headerlink" title="11防火分区"></a>11<strong>防火分区</strong></h3><p>99、一类建筑：1000平方米;二类建筑：1500平方米;地下室：500平方米</p>
+<p>100、高层建筑与裙楼有防火墙及良好的防火措施时最大防火分区不应超过2500平方米</p>
+<p>101、高层建筑有自动扶梯、上下层连通、上下开口通道楼梯等，防火分区应按上下连通作分防火分区，面积叠加计算</p>
+<p>102、每层防火分区安全通道门不应小于两个，两个安全门的距离不小于5米。一般在24-40米，环形走廊10-20米;安全疏散门距离室内的任何一点不超过40米，室内到室内门不超过15米。</p>
+<p>103、首层消防通道走廊宽1100-1200毫米;门900-1300毫米，门往外开。门外1.4米内不应有踏步</p>
+<p>104、防火卷帘耐火等级一般为3小时</p>
+<p>105、十八层及十八层以下的建筑，面积不超过650平方米，住户不超过八户，应设有防烟楼梯间和消防电梯，;</p>
+<p>106、消防电梯的配置：小于1500平方米设置一台消防电梯，大于1500小于4500平方米2台，4500平方米3台</p>
+<p>107、消防电梯应设置在不同的防火分区内;消防电梯前室不小于6平方米。</p>
+<p>108、十层以上的建筑应在单元内的阳台进行连通或凹陷</p>
+<h3 id="12消防给水及消防灭火设备"><a href="#12消防给水及消防灭火设备" class="headerlink" title="12消防给水及消防灭火设备"></a>12<strong>消防给水及消防灭火设备</strong></h3><p>109、消防电梯前室设有消火栓</p>
+<p>110、消防泵房耐火等级为2级。消防水箱楼板厚15毫米，隔墙耐火2小时，甲级防火门。</p>
+<p>111、超过100米的高层建筑均应设有自动喷水灭火设备。 </p>
+<p>112、安装线管时 当管长超过45米时应设有接线盒</p>
+<p>113、管道穿越消防水池和剪力墙时应加放水套管，震动管道要加柔性接头，与水箱接口要用焊接，消防水箱要预留1米的通道周围不得小于0.7米，与顶棚高度不小于0.6米。压力表的量程是2.5倍。</p>
+<p>114、消防水泵结合器的组成：接口、本体、连接器、止回阀、安全阀、防空阀、控制阀顺序安装，安装高度1.1米</p>
+<p>115、小于或等于DN100的管道采用焊接。大于DN100的管道采用卡故连接</p>
+<p>116、管道安装与楼板粱、拄、的距离，按管道的管径为递增40-200毫米</p>
+<p>117、管道与支架的安装距离，按管道的管径为递增3.5-12毫米。</p>
+<p>118、管道支架、吊架与喷头的安装距离不宜小于300毫米，与末端喷头的距离不得小于750毫米。</p>
+<p>119、管道穿过变形缝的时候，采用柔性接头和短管。短管不得小于墙体长度或出墙体50毫米。</p>
+<p>120、管道竖向安装支架距离1.5-1.8米。</p>
+<p>121、消防水泵出口应安装止回阀、压力表。</p>
+<p>122、消防气压装置安装距棚顶高度不小于1.0米</p>
+<p>123、消防结合器的安装顺序，接口、本体、连接管、止回阀、安全阀、防空阀、止回阀、</p>
+<p>124、报警阀组安装距离距地面1。2米，水力警铃与报警阀的连接应采用镀新钢管长度不超过6米 </p>
+<p>125、按类型分为A、B、C、类 </p>
+<p>126、喷淋头的保护面积8平方米(严重的5.4米)喷淋头的水平距离为2.8米(中危险级3.6米)，喷淋头与柱面、或墙面的距离1.4米(严重的1.1米)，侧喷距顶棚距离7.5-15CM</p>
+<p>127、侧喷垂直两米，两侧1米内严禁有障碍物。侧喷的最远距离7米。</p>
+<!-- flag of hidden posts -->
+            </div>
+            <hr>
+            <div>
+              <div class="post-metas mb-3">
+                
+                  <div class="post-meta mr-3">
+                    <i class="iconfont icon-category"></i>
+                    
+                      <a class="hover-with-bg" href="/categories/saftyedu/">安全教育</a>
+                    
+                  </div>
+                
+                
+                  <div class="post-meta">
+                    <i class="iconfont icon-tags"></i>
+                    
+                      <a class="hover-with-bg" href="/tags/%E6%A0%87%E5%87%86/">标准</a>
+                    
+                  </div>
+                
+              </div>
+              
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+    
+      <div class="d-none d-lg-block col-lg-2 toc-container" id="toc-ctn">
+        <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+
+<!-- Custom -->
+
+
+    
+
+    
+      <a id="scroll-top-button" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v"
+                 for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    
+  </main>
+
+  <footer class="text-center mt-5 py-3">
+  <div class="footer-content">
+     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+  </div>
+  
+
+  
+
+  
+</footer>
+
+
+  <!-- SCRIPTS -->
+  
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+<!-- Plugins -->
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+  
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/tocbot@4.12.3/dist/tocbot.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/anchor-js@4.3.1/anchor.min.js" ></script>
+
+
+
+  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js" ></script>
+
+
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var title = document.getElementById('subtitle').title;
+      
+      typing(title)
+      
+    })(window, document);
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 主题的启动项 保持在最底部 -->
+<script  src="/js/boot.js" ></script>
+
+
+</body>
+</html>

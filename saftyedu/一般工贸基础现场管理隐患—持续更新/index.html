@@ -1,0 +1,643 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=&#34;auto&#34;>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.png">
+  <link rel="icon" href="/img/favicon.png">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="description" content="现场常见问题列举，仅供参考。">
+  <meta name="author" content="ing">
+  <meta name="keywords" content="">
+  
+  <title>一般工贸基础现场隐患对标 - 安全001</title>
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
+
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css" />
+  <link  rel="stylesheet" href="/lib/hint/hint.min.css" />
+
+  
+    
+    
+      
+      <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@10.7.2/styles/github-gist.min.css" />
+    
+  
+
+  
+    <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+  
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_kmeydafke9r.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+<!-- 自定义样式保持在最底部 -->
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    var CONFIG = {"hostname":"example.com","root":"/","version":"1.8.11","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null}},"search_path":"/local-search.xml"};
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+
+<body>
+  <header style="height: 50vh;">
+    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand"
+       href="/">&nbsp;<strong>安全001</strong>&nbsp;</a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/power/">
+                    
+                    弱电基础
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/saftyedu/">
+                    
+                    安全教育
+                  </a>
+                
+              </div>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" data-toggle="modal" data-target="#modalSearch">&nbsp;<i
+                class="iconfont icon-search"></i>&nbsp;</a>
+          </li>
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="banner" id="banner" parallax=true
+         style="background: url('/img/default.png') no-repeat center center;
+           background-size: cover;">
+      <div class="full-bg-img">
+        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.6)">
+          <div class="page-header text-center fade-in-up">
+            <span class="h2" id="subtitle" title="一般工贸基础现场隐患对标">
+              
+            </span>
+
+            
+              <div class="mt-3">
+  
+  
+    <span class="post-meta">
+      <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+      <time datetime="2023-09-10 12:12" pubdate>
+        2023年9月10日 中午
+      </time>
+    </span>
+  
+</div>
+
+<div class="mt-1">
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-chart"></i>
+      2.3k 字
+    </span>
+  
+
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-clock-fill"></i>
+      
+      
+      24
+       分钟
+    </span>
+  
+
+  
+  
+</div>
+
+            
+          </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="d-none d-lg-block col-lg-2"></div>
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div class="py-5" id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none">一般工贸基础现场隐患对标</h1>
+            
+            <div class="markdown-body">
+              <h3 id="一般工贸基础现场隐患整改对标—持续更新"><a href="#一般工贸基础现场隐患整改对标—持续更新" class="headerlink" title="一般工贸基础现场隐患整改对标—持续更新"></a>一般工贸基础现场隐患整改对标—持续更新</h3><h4 id="机械："><a href="#机械：" class="headerlink" title="机械："></a>机械：</h4><h5 id="原则：四必有，四不修，四停用"><a href="#原则：四必有，四不修，四停用" class="headerlink" title="原则：四必有，四不修，四停用"></a>原则：四必有，四不修，四停用</h5><p>四必有:</p>
+<p>有轮必有罩<br>有轴必有套<br>有台必有栏<br>有洞必有盖</p>
+<p>四不修:</p>
+<p>带电不修<br>带压不修<br>高温过冷不修<br>无专用工具不修</p>
+<p>四停用:</p>
+<p>无联锁防护停用<br>无接地漏电保护停用<br>无岗前培训停用<br>无安全操作规程停用</p>
+<h5 id="电机旋转方向"><a href="#电机旋转方向" class="headerlink" title="电机旋转方向"></a>电机旋转方向</h5><img src="/img/sdasdkl6567567.jpg" srcset="/img/loading.gif" lazyload width="500px"/>
+
+<h5 id="人字梯"><a href="#人字梯" class="headerlink" title="人字梯"></a>人字梯</h5><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><span style="display:inline-block;width:200px">1. 梯子脚部无防滑装置<br/>2. 人字梯无防张开的拉绳</span></td>
+<td><img src="/img/Weixin-Image_20230909213246.jpg" srcset="/img/loading.gif" lazyload width="500px"/></td>
+</tr>
+</tbody></table>
+<h5 id="砂轮机"><a href="#砂轮机" class="headerlink" title="砂轮机"></a>砂轮机</h5><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><span style="display:inline-block;width:100px">1.挡屑板<br/>2.工件托架<br/>3.防护罩 </span></td>
+<td><img src="/img/slj.jpg" srcset="/img/loading.gif" lazyload width="500px"/></td>
+</tr>
+</tbody></table>
+<h5 id="切割机"><a href="#切割机" class="headerlink" title="切割机"></a>切割机</h5><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><span style="display:inline-block;width:100px">1.皮带防护罩<br />2.工件夹具<br />3.切割片防护罩</span></td>
+<td><img src="/img/qgj.jpg" srcset="/img/loading.gif" lazyload width="500px"/></td>
+</tr>
+</tbody></table>
+<h5 id="冲压脚踏开关"><a href="#冲压脚踏开关" class="headerlink" title="冲压脚踏开关"></a>冲压脚踏开关</h5><img src="/img/jttkkkfger45345.jpg" srcset="/img/loading.gif" lazyload width="500px"/>
+
+
+
+<h4 id="特种设备："><a href="#特种设备：" class="headerlink" title="特种设备："></a>特种设备：</h4><h5 id="乙炔气瓶回火阀、减压阀"><a href="#乙炔气瓶回火阀、减压阀" class="headerlink" title="乙炔气瓶回火阀、减压阀"></a>乙炔气瓶回火阀、减压阀</h5><img src="/img/Weixin-Image_20230909220045.jpg" srcset="/img/loading.gif" lazyload width="500px"/>
+
+<p> 《气体焊接设备焊接、切割和类似作业用橡胶软管》(GB&#x2F;T2550-2016),第10.2的“颜色标识”的规定，乙炔瓶胶管应采用红色,氧气瓶胶管应采用蓝色， 氮气、氩气、二氧化碳为黑色。</p>
+<h4 id="有限空间："><a href="#有限空间：" class="headerlink" title="有限空间："></a>有限空间：</h4><img src="/img/yxkj_20231214195121.png" srcset="/img/loading.gif" lazyload width="500px"/>
+
+<h4 id="粉尘："><a href="#粉尘：" class="headerlink" title="粉尘："></a>粉尘：</h4><h5 id="粉尘检查表"><a href="#粉尘检查表" class="headerlink" title="粉尘检查表"></a>粉尘检查表</h5><img src="/img/dfasfsdf345345.jpg" srcset="/img/loading.gif" lazyload style="zoom:60%;" />
+
+<img src="/img/dfasfsdf3453452.jpg" srcset="/img/loading.gif" lazyload style="zoom:60%;" />
+
+<h4 id="危化品："><a href="#危化品：" class="headerlink" title="危化品："></a>危化品：</h4><h5 id="燃气减压阀："><a href="#燃气减压阀：" class="headerlink" title="燃气减压阀："></a>燃气减压阀：</h5><p>为什么不能使用<a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/604089287">可调式减压阀</a>？</p>
+<h5 id="防爆柜"><a href="#防爆柜" class="headerlink" title="防爆柜"></a>防爆柜</h5><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><span style="display:inline-block;width:200px">    1&gt;防爆柜上锁，专人负责，<br/>2&gt;MSDS、5S标准放置显著位置，便于取用，<br/>3&gt;防爆柜应安装静电接地，<br/>4&gt;大桶化学品专用容器盛装防泄漏，<br/>5&gt;分装容器为金属材质。  </span></td>
+<td><img src="/img/Weixin-Image_20230909205333.jpg" srcset="/img/loading.gif" lazyload width="500px"/></td>
+</tr>
+</tbody></table>
+<p><img src="/img/0230910155628.jpg" srcset="/img/loading.gif" lazyload></p>
+<h5 id="MSDS"><a href="#MSDS" class="headerlink" title="MSDS:"></a>MSDS:</h5><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><span style="display:inline-block;width:200px"> MSDS（化学品安全说明书）<br/>1）工厂所有化学品均需配备MSDS;且需中文说明；<br/>2）所有化学品的导入（包括承包商临时携带入厂），均需事先获得相关化学品MSDS;<br/>3）化学品的使用现场和存储区域均需放置MSDS，并易于取得。     </span></td>
+<td><img src="/img/sdgd343777hhh.jpg" srcset="/img/loading.gif" lazyload width="500px"/></td>
+</tr>
+</tbody></table>
+<h5 id="油品防泄漏、分装"><a href="#油品防泄漏、分装" class="headerlink" title="油品防泄漏、分装"></a>油品防泄漏、分装</h5><img src="/img/Image_s20230917193844.jpg" srcset="/img/loading.gif" lazyload width="500px"/>
+
+<h5 id="吸附棉"><a href="#吸附棉" class="headerlink" title="吸附棉"></a>吸附棉</h5><img src="/img/1567567587942858 (1).jpg" srcset="/img/loading.gif" lazyload width="500px"/>
+
+<h5 id="化学品安全标签"><a href="#化学品安全标签" class="headerlink" title="化学品安全标签"></a>化学品安全标签</h5><img src="/img/26510411_092254832000_2.png" srcset="/img/loading.gif" lazyload width="500px"/>
+
+
+
+
+<h4 id="危废："><a href="#危废：" class="headerlink" title="危废："></a>危废：</h4><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><span style="display:inline-block;width:200px"> 1.防渗漏托盘<br />2.泄流槽或则门口漫坡     </span></td>
+<td><img src="/img/Weixin-Image_20230909204857.jpg" srcset="/img/loading.gif" lazyload width="500px"/></td>
+</tr>
+<tr>
+<td>危废标签：</td>
+<td><img src="/img/Weixin-Image_20230909205158.jpg" srcset="/img/loading.gif" lazyload width="500px"/></td>
+</tr>
+</tbody></table>
+<p>《危险废物识别标志设置技术规范》（HJ 1276—2022），对贮存设施、标识符号进行了修改，新规范2023年7月1日实施。<br><img src="/img/etg345345345fgh.png" srcset="/img/loading.gif" lazyload></p>
+<h4 id="用电："><a href="#用电：" class="headerlink" title="用电："></a>用电：</h4><h5 id="万能插排"><a href="#万能插排" class="headerlink" title="万能插排"></a>万能插排</h5><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><span style="display:inline-block;width:200px"> 《家用和类似用途插头插座通用规范》，GB2099三极插头和二极插头不能再共用插孔。    </span></td>
+<td><img src="/img/Weixin-Image_20230910142003.jpg" srcset="/img/loading.gif" lazyload width="500px"/></td>
+</tr>
+</tbody></table>
+<h5 id="插头私自更换"><a href="#插头私自更换" class="headerlink" title="插头私自更换"></a>插头私自更换</h5><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><span style="display:inline-block;width:200px"> 《家用和类似用途插头插座通用规范》，GB2099三极插头和二极插头不能再共用插孔。    </span></td>
+<td><img src="/img/fgfrerebvnb78978.jpg" srcset="/img/loading.gif" lazyload width="500px"/></td>
+</tr>
+<tr>
+<td></td>
+<td><img src="/img/452fsdrt343534534.jpg" srcset="/img/loading.gif" lazyload width="500px"/></td>
+</tr>
+</tbody></table>
+<h5 id="配电柜"><a href="#配电柜" class="headerlink" title="配电柜"></a>配电柜</h5><img src="/img/Weixin-Image_20230909214456.jpg" srcset="/img/loading.gif" lazyload width="500px"/>
+
+<h4 id="消防："><a href="#消防：" class="headerlink" title="消防："></a>消防：</h4><h5 id="警示标志"><a href="#警示标志" class="headerlink" title="警示标志"></a>警示标志</h5><img src="/img/xfjb2324234.jpg" srcset="/img/loading.gif" lazyload width="500px"/>
+
+<h5 id="厂房、办公室防火分隔"><a href="#厂房、办公室防火分隔" class="headerlink" title="厂房、办公室防火分隔"></a>厂房、办公室防火分隔</h5><p><img src="/img/eerer343426789k.jpg" srcset="/img/loading.gif" lazyload></p>
+<h5 id="各类建筑防火间距"><a href="#各类建筑防火间距" class="headerlink" title="各类建筑防火间距"></a>各类建筑防火间距</h5><img src="/img/4ba5bc7e16bb4a00ef2c1bcd6bdcb875dd718fe3.jpg@1256w_810h_!web-article-pic.jpg" srcset="/img/loading.gif" lazyload width="500px"/>
+
+<h5 id="灭火器配置"><a href="#灭火器配置" class="headerlink" title="灭火器配置"></a>灭火器配置</h5><p><img src="/img/mhqg88545.jpg" srcset="/img/loading.gif" lazyload></p>
+<h5 id="消防疏散图"><a href="#消防疏散图" class="headerlink" title="消防疏散图"></a>消防疏散图</h5><img src="/img/f86563c3_E1006178_ca1bf679.jpg" srcset="/img/loading.gif" lazyload width="500px"/>
+
+<h4 id="管理："><a href="#管理：" class="headerlink" title="管理："></a>管理：</h4><h5 id="生产经营单位-“六做到”-、“六必须”-、“六务必”"><a href="#生产经营单位-“六做到”-、“六必须”-、“六务必”" class="headerlink" title="生产经营单位 “六做到” 、“六必须” 、“六务必”"></a>生产经营单位 “六做到” 、“六必须” 、“六务必”</h5><h6 id="单位负责人-“六做到”"><a href="#单位负责人-“六做到”" class="headerlink" title="单位负责人 “六做到”"></a>单位负责人 “六做到”</h6><p>1.做到安全培训教育：主动接受培训，组织员工安全教育。</p>
+<p>2.做到风险隐患管控：每季必查1次（高危企业、小微园区〔厂中厂〕运营单位每月必查1次），应急逃生通道必查，隐患消除要及时。</p>
+<p>3.做到安全投入有保障：有监测监控，有应急联动设施，有人员队伍，有演练经费。</p>
+<p>4.做到有准备应急：能预警，有演练，有信号，有人守。</p>
+<p>5.做到重点时段在岗值守：危大工程实施，复工复产，开停车、试运行，重要节假日生产经营等，要带班值守。</p>
+<p>6.做到如实报告信息：报人员受困情况、报事发地点。</p>
+<h6 id="现场负责人-“六必须”"><a href="#现场负责人-“六必须”" class="headerlink" title="现场负责人 “六必须”"></a>现场负责人 “六必须”</h6><p>1.“班前会”必须强调安全：班前“三查三交”（查员工仪表、查劳保用品佩戴安全、查工作精神状态，交生产任务、交作业安全、交技术要求）。</p>
+<p>2.逃生通道必须保证畅通：每天至少查一次。</p>
+<p>3.现场作业必须杜绝“三违”：岗中查“三违”（违章作业、违章指挥、违反劳动纪律）。</p>
+<p>4.危险作业必须落实现场监护：危险作业一看二查三监护，一看资格条件、二查禁业规定落实、三现场监护到位。</p>
+<p>5.异常情况必须到场研判：看工艺、查参数、拉警铃。</p>
+<p>6.快速响应必须三个“第一”：第一时间发出警报，组织人员疏散转移；第一时间控制危险源；第一时间报告信息。</p>
+<h6 id="一线从业人员“六务必”"><a href="#一线从业人员“六务必”" class="headerlink" title="一线从业人员“六务必”"></a>一线从业人员“六务必”</h6><p>1.务必遵守岗位操作规程：做到“三懂三会”（懂基本安全常识，懂岗位主要风险，懂逃生自救和呼救技能；会查改事故隐患，会使用消防器材，会使用应急广播或逃生警铃等呼救设备）。</p>
+<p>2.特种作业人员务必持证上岗。</p>
+<p>3.岗前务必检查安全：岗前查设备、岗中查防护、岗后查清理。</p>
+<p>4.逃生通道务必牢记：牢记逃生线路、班前查畅通、发现问题就举报。</p>
+<p>5.务必第一时间“避”至安全地带：逃生是第一要务、日常多留意、急时看风向。</p>
+<p>6.务必“报”告情况及时求援：拉警铃、报平安、快救援。</p>
+<h5 id="浙江省小微园区（厂中厂）-“十必须十不准十必会”"><a href="#浙江省小微园区（厂中厂）-“十必须十不准十必会”" class="headerlink" title="浙江省小微园区（厂中厂） “十必须十不准十必会”"></a>浙江省小微园区（厂中厂） “十必须十不准十必会”</h5><h6 id="“十必须”"><a href="#“十必须”" class="headerlink" title="“十必须”"></a>“十必须”</h6><p>1.必须保证厂房消防审验合格。</p>
+<p>2.必须出租给具备安全生产条件的企业。</p>
+<p>3.必须签订安全管理协议。</p>
+<p>4.必须配备专职安全管理人员。</p>
+<p>5.必须开展每日安全巡查。</p>
+<p>6.必须保持消防设施、器材完好。</p>
+<p>7.必须安装联动逃生警铃。</p>
+<p>8.必须落实电气焊作业“审批、清理、动火、监护、处置” 五到位措施。</p>
+<p>9.必须组织联合应急演练。</p>
+<p>10.必须清退拒不整改重大事故隐患的企业。</p>
+<h6 id="“十不准”"><a href="#“十不准”" class="headerlink" title="“十不准”"></a>“十不准”</h6><p>1.不准擅自改变厂房使用性质、使用功能。</p>
+<p>2.不准使用易燃、可燃材料进行隔断、装修装饰。</p>
+<p>3.不准在厂房、仓库内设置宿舍。</p>
+<p>4.不准在厂房外窗设置铁栅栏、防盗网。</p>
+<p>5.不准占用堵塞疏散通道、安全出口。</p>
+<p>6.不准违规分租转租厂房。</p>
+<p>7.不准违章搭建占用防火间距。</p>
+<p>8.不准乱堆乱放危险化学品。</p>
+<p>9.不准私拉乱接电气线路。</p>
+<p>10.不准违规充停电动车。</p>
+<h6 id="“十必会”"><a href="#“十必会”" class="headerlink" title="“十必会”"></a>“十必会”</h6><p>1.会第一时间报火警。</p>
+<p>2.会使用消防器材。</p>
+<p>3.会扑救初期火灾。</p>
+<p>4.会自救逃生。</p>
+<p>5.会使用联动逃生警铃、逃生装备。</p>
+<p>6.会按规程安全操作。</p>
+<p>7.会排查岗位事故隐患。</p>
+<p>8.会正确佩戴劳动防护用品。</p>
+<p>9.会举报重大事故隐患。</p>
+<p>10.会拒绝违章指挥、强令冒险作业。</p>
+<h5 id="小微企业园“双十二”清单"><a href="#小微企业园“双十二”清单" class="headerlink" title="小微企业园“双十二”清单"></a>小微企业园“双十二”清单</h5><p>12个“必须”<br/>1.必须明确园区的管理方，并明确管理职责，建立管理架构。<br/>2.必须健全园区安全生产责任体系。<br/>3.必须完善园区管理制度和台账登记。<br/>4.必须严把园区企业入驻的安全审核管理关口。<br/>5.必须严格危险作业审批。<br/>6.必须检查入驻企业生产安全。<br/>7必须强化相关方安全管理。<br/>8.必须杜绝园区重大安全(消防）隐患。<br/>9必须将安全生产有关要求意贯到每家入驻企业。<br/>10.必须建立键全园区生产安全事故应急救援联动机制。<br/>11.必须管好公建区域安全。<br/>12.必须建立健全入驻企业一企一档，并实时更新相关信息资料。<br/>12个“不得”<br/>1.不得随意改变园区建构筑物的使用功能。<br/>2.不得臆造园区安全管理制度、台账。<br/>3.不得与不同部门，岗位签订同一内容的安全责任书。<br/>4.不得以口头告知代替现场检查。<br/>5.不得以桌面推演代替实际应急处置演练。<br/>6.不得引进与园区功能不匹配的工艺、技术和设备的项目。<br/>7.不得以物业管理代替园区安全管理。<br/>8.不得实施未经审批的危险作业。<br/>9.不得漏签、不签与入驻企业、相关方的安全管理协议。<br/>10.不得对发现的隐患不做闭环处理。<br/>11.不得擅自停用安全设施及篡改安全信息数据。<br/>12.不得瞒报、谎报或者不报园区安全事故。</p>
+<h5 id="警示标志-1"><a href="#警示标志-1" class="headerlink" title="警示标志"></a>警示标志</h5><p><img src="/img/dxffdse.jpg" srcset="/img/loading.gif" lazyload></p>
+<h5 id="风险分级管控"><a href="#风险分级管控" class="headerlink" title="风险分级管控"></a>风险分级管控</h5><img src="/img/Weixin Screenshot_20230910152540.png" srcset="/img/loading.gif" lazyload style="zoom:60%;" />
+
+<p><a target="_blank" rel="noopener" href="http://www.zcom.gov.cn/art/2022/1/27/art_1229618004_58934419.html">为什么要做风险分级管控？</a>       <a target="_blank" rel="noopener" href="https://www.tjnh.gov.cn/zwgk/zcwj/qzfwj/yjj88/202207/t20220706_5927430.html">怎么做风险分级管控？</a></p>
+<h5 id="应急预案"><a href="#应急预案" class="headerlink" title="应急预案"></a>应急预案</h5><p>《生产经营单位生产安全事故应急预案编制导则》（GB&#x2F;T29639-2020）</p>
+<p>粉尘、特种设备、有限空间、危化</p>
+<h5 id="教育培训"><a href="#教育培训" class="headerlink" title="教育培训"></a>教育培训</h5><p>《中华人民共和国安全生产法》</p>
+<p>《生产经营单位安全培训规定》</p>
+<p>《安全生产培训管理办法》</p>
+<p>《特种作业人员安全技术培训考核管理规定》</p>
+<p>培训计划、培训实施、培训记录、安管员证、特种操作证</p>
+<h5 id="演练"><a href="#演练" class="headerlink" title="演练"></a>演练</h5><p>《生产安全事故应急演练基本规范》（AQ&#x2F;T 9007-2019 ）</p>
+<p>《生产安全事故应急演练评估规范》（AQ&#x2F;<a target="_blank" rel="noopener" href="http://www.cigia.org.cn/v/yjjy/qtyjyl/3188.html">T9009-</a>2015）</p>
+
+            </div>
+            <hr>
+            <div>
+              <div class="post-metas mb-3">
+                
+                  <div class="post-meta mr-3">
+                    <i class="iconfont icon-category"></i>
+                    
+                      <a class="hover-with-bg" href="/categories/saftyedu/">安全教育</a>
+                    
+                  </div>
+                
+                
+                  <div class="post-meta">
+                    <i class="iconfont icon-tags"></i>
+                    
+                      <a class="hover-with-bg" href="/tags/%E9%9A%90%E6%82%A3/">隐患</a>
+                    
+                  </div>
+                
+              </div>
+              
+              
+                <div class="post-prevnext">
+                  <article class="post-prev col-6">
+                    
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/saftyedu/%E3%80%8A%E5%B7%A5%E8%B4%B8%E4%BC%81%E4%B8%9A%E9%87%8D%E5%A4%A7%E4%BA%8B%E6%95%85%E9%9A%90%E6%82%A3%E5%88%A4%E5%AE%9A%E6%A0%87%E5%87%86%E3%80%8B%E8%A7%A3%E8%AF%BB/">
+                        <span class="hidden-mobile">《工贸企业重大事故隐患判定标准》解读</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+    
+      <div class="d-none d-lg-block col-lg-2 toc-container" id="toc-ctn">
+        <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+
+<!-- Custom -->
+
+
+    
+
+    
+      <a id="scroll-top-button" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v"
+                 for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    
+  </main>
+
+  <footer class="text-center mt-5 py-3">
+  <div class="footer-content">
+     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+  </div>
+  
+
+  
+
+  
+</footer>
+
+
+  <!-- SCRIPTS -->
+  
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+<!-- Plugins -->
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+  
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/tocbot@4.12.3/dist/tocbot.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/anchor-js@4.3.1/anchor.min.js" ></script>
+
+
+
+  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js" ></script>
+
+
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var title = document.getElementById('subtitle').title;
+      
+      typing(title)
+      
+    })(window, document);
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 主题的启动项 保持在最底部 -->
+<script  src="/js/boot.js" ></script>
+
+
+</body>
+</html>
