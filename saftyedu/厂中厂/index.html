@@ -1,0 +1,553 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=&#34;auto&#34;>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.png">
+  <link rel="icon" href="/img/favicon.png">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="description" content="积沙成塔">
+  <meta name="author" content="ing">
+  <meta name="keywords" content="">
+  
+  <title>厂中厂 - 安全001</title><meta name="robots" content="noindex">
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
+
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css" />
+  <link  rel="stylesheet" href="/lib/hint/hint.min.css" />
+
+  
+    
+    
+      
+      <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@10.7.2/styles/github-gist.min.css" />
+    
+  
+
+  
+    <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+  
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_kmeydafke9r.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+<!-- 自定义样式保持在最底部 -->
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    var CONFIG = {"hostname":"example.com","root":"/","version":"1.8.11","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null}},"search_path":"/local-search.xml"};
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+
+<body>
+  <header style="height: 50vh;">
+    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand"
+       href="/">&nbsp;<strong>安全001</strong>&nbsp;</a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/power/">
+                    
+                    弱电基础
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/saftyedu/">
+                    
+                    安全教育
+                  </a>
+                
+              </div>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" data-toggle="modal" data-target="#modalSearch">&nbsp;<i
+                class="iconfont icon-search"></i>&nbsp;</a>
+          </li>
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="banner" id="banner" parallax=true
+         style="background: url('/img/default.png') no-repeat center center;
+           background-size: cover;">
+      <div class="full-bg-img">
+        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.6)">
+          <div class="page-header text-center fade-in-up">
+            <span class="h2" id="subtitle" title="厂中厂">
+              
+            </span>
+
+            
+              <div class="mt-3">
+  
+  
+    <span class="post-meta">
+      <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+      <time datetime="2023-08-08 22:28" pubdate>
+        2023年8月8日 晚上
+      </time>
+    </span>
+  
+</div>
+
+<div class="mt-1">
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-chart"></i>
+      1.3k 字
+    </span>
+  
+
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-clock-fill"></i>
+      
+      
+      12
+       分钟
+    </span>
+  
+
+  
+  
+</div>
+
+            
+          </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="d-none d-lg-block col-lg-2"></div>
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div class="py-5" id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none">厂中厂</h1>
+            
+            <div class="markdown-body">
+              <table>
+  <tbody>
+    <tr>
+      <td colspan="4">"园中园""厂中厂"检查对照表</td>
+    </tr>
+    <tr>
+      <td>检查项目</td>
+      <td>检查内容</td>
+      <td>是否</td>
+      <td>分值</td>
+    </tr>
+    <tr>
+      <td rowspan="4">安全生产管理机制</td>
+      <td>*厂区（园区）是否依法设置安全生产管理机构，并以公司正式文件公布。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>*厂区（园区）是否配备专职安全管理人员，厂区（园区）主要负责人和安管员是否参加相关培训考试合格并取得安全生产培训合格证书。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>是否建立厂区（园区）安全生产和消防安全协调机构，由出租方牵头各入驻企业至少有一名负责人和安全管理人员参加。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>*是否与各入驻企业签订安全生产管理协议，明确各自的安全管理职责。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td rowspan="3">日常管理制度</td>
+      <td>*是否建立安全审核准入制度，明确不予准入清单和清退条件清单。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>*厂区（园区）是否建立安全风险管控与隐患排查治理制度。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>是否建立安全生产及消防安全例会制度、检查制度。厂区（园区）安全协调机构原则上每季度组织召开厂区（园区）安全生产例会，出租方至少每季度进行一次安全生产及消防安全检查。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td rowspan="7">安全生产应急设施</td>
+      <td>是否建立厂区（园区）消防控制室，落实24小时值班制度，值班员人员持证上岗。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>是否按要求建设微型消防站，定期对厂区（园区）消防报警装置、联动逃生警铃等设备进行联调联试</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>微型消防站配备战斗服、防护靴、头盔、腰带、手套、灭火器、水带、水枪、简易逃生面具、消防水桶、消防强光照明灯、消防锹等常用消防器材并定期维护和使用</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>*厂区（园区）建筑物是否符合消防安全要求，出租分隔方案是否影响安全出口、防火分区、建筑消防设施等消防安全条件。其中厂区（园区）二层及以上建筑应是否设置至少2部疏散楼梯。同一楼层有多家企业的，每家企业应是否设置至少2个安全出口，是否设置公共疏散走道，确保消防安全疏散符合要求。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>是否在厂区（园区）入口处等醒目位置设置安全生产宣传公告栏，公告栏主要内容包括厂区（园区）简介、安全管理组织网络、消防平面布置图、风险辨识四色图、应急处置图、临时危险作业信息、"十必须十不准十必会"等。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>是否厂区（园区）内消防泵房、消火栓、配电房等特定位置应设置警 示标志，包括消防设施标识、危险场所危险部位标识、安全疏散标识、应急疏散点等。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>是否加强智慧消防建设。积极推广使用电气火灾监控、城市远程监控和消防智能 APP 等系统，按规定安装智能感烟探测器、自动喷淋、电警铃等。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td rowspan="6">统一协调、管理的安全生产主体责任</td>
+      <td>是否建立一园一档，建立入驻企业安全生产管理台账。主要为：入驻企业基本情况、主要负责人、安全生产管理人员、特种作业人员、特种设备登记信息、特种设备作业人员、企业安全风险辨识及隐患排查清单、安全生产管理协议、入驻企业营业执照等。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>是否落实风险辨识和隐患排查，常态化开展相关工作，落实每日安全巡查、每月联合检查、每季考核通报等工作，并每日上传工作日志。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>是否开展安全生产和消防安全教育培训，对本单位及入驻企业从业人员进行安全生产和消防安全教育培训，内容包括厂区（园区）安全风险状况、管理要求、疏散逃生技能、事故案例等。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>是否对厂区（园区）内的危险化学品统一建档管理，定期对危险化学品使用和储存场所进行检查。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>是否对厂区（园区）内临时实施的吊装、动火、有限空间作业、临时用电等危险作业进行监管，建立审批制度，落实现场监督措施，严禁无证无票作业。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>是否应用"工业企业安全在线-小微厂区（园区）（厂中厂）安全管理" 平台开展相关工作。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td rowspan="2">应急预案与演练</td>
+      <td>*是否制定生产安全事故综合应急预案和现场处置方案，且方案与实际一致</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td>*是否落实每半年至少组织一次现场处置方案和消防联合演练，是否每年至少组织一次综合应急预案或专项应急预案演练。</td>
+      <td></td>
+      <td>     </td>
+    </tr>
+    <tr>
+      <td colspan="4">备注：1、"*"为一票否决项，此项不符合直接判定为"不合格"；2、实际得分=总得分/（总分-不符合项分数）×100%</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table><!-- flag of hidden posts -->
+            </div>
+            <hr>
+            <div>
+              <div class="post-metas mb-3">
+                
+                  <div class="post-meta mr-3">
+                    <i class="iconfont icon-category"></i>
+                    
+                      <a class="hover-with-bg" href="/categories/saftyedu/">安全教育</a>
+                    
+                  </div>
+                
+                
+                  <div class="post-meta">
+                    <i class="iconfont icon-tags"></i>
+                    
+                      <a class="hover-with-bg" href="/tags/%E6%A0%87%E5%87%86/">标准</a>
+                    
+                  </div>
+                
+              </div>
+              
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+    
+      <div class="d-none d-lg-block col-lg-2 toc-container" id="toc-ctn">
+        <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+
+<!-- Custom -->
+
+
+    
+
+    
+      <a id="scroll-top-button" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v"
+                 for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    
+  </main>
+
+  <footer class="text-center mt-5 py-3">
+  <div class="footer-content">
+     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+  </div>
+  
+
+  
+
+  
+</footer>
+
+
+  <!-- SCRIPTS -->
+  
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+<!-- Plugins -->
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+  
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/tocbot@4.12.3/dist/tocbot.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/anchor-js@4.3.1/anchor.min.js" ></script>
+
+
+
+  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js" ></script>
+
+
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var title = document.getElementById('subtitle').title;
+      
+      typing(title)
+      
+    })(window, document);
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 主题的启动项 保持在最底部 -->
+<script  src="/js/boot.js" ></script>
+
+
+</body>
+</html>
