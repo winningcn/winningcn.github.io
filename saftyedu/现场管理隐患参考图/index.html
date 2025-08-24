@@ -1,0 +1,1443 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=&#34;auto&#34;>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.png">
+  <link rel="icon" href="/img/favicon.png">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="description" content="现场常见问题列举，仅供参考。">
+  <meta name="author" content="ing">
+  <meta name="keywords" content="">
+  
+  <title>现场管理隐患参考图 - 安全001</title>
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
+
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css" />
+  <link  rel="stylesheet" href="/lib/hint/hint.min.css" />
+
+  
+    
+    
+      
+      <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@10.7.2/styles/github-gist.min.css" />
+    
+  
+
+  
+    <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+  
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_kmeydafke9r.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+<!-- 自定义样式保持在最底部 -->
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    var CONFIG = {"hostname":"example.com","root":"/","version":"1.8.11","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null}},"search_path":"/local-search.xml"};
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+
+<body>
+  <header style="height: 50vh;">
+    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand"
+       href="/">&nbsp;<strong>安全001</strong>&nbsp;</a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/power/">
+                    
+                    弱电基础
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/saftyedu/">
+                    
+                    安全教育
+                  </a>
+                
+              </div>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" data-toggle="modal" data-target="#modalSearch">&nbsp;<i
+                class="iconfont icon-search"></i>&nbsp;</a>
+          </li>
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="banner" id="banner" parallax=true
+         style="background: url('/img/default.png') no-repeat center center;
+           background-size: cover;">
+      <div class="full-bg-img">
+        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.6)">
+          <div class="page-header text-center fade-in-up">
+            <span class="h2" id="subtitle" title="现场管理隐患参考图">
+              
+            </span>
+
+            
+              <div class="mt-3">
+  
+  
+    <span class="post-meta">
+      <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+      <time datetime="2025-08-24 16:32" pubdate>
+        2025年8月24日 下午
+      </time>
+    </span>
+  
+</div>
+
+<div class="mt-1">
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-chart"></i>
+      8.4k 字
+    </span>
+  
+
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-clock-fill"></i>
+      
+      
+      86
+       分钟
+    </span>
+  
+
+  
+  
+</div>
+
+            
+          </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="d-none d-lg-block col-lg-2"></div>
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div class="py-5" id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none">现场管理隐患参考图</h1>
+            
+            <div class="markdown-body">
+              <h3 id="工贸企业消防-——————"><a href="#工贸企业消防-——————" class="headerlink" title="工贸企业消防 ——————"></a>工贸企业消防 ——————</h3><table>
+  <tr>
+    <th><strong>建筑物</strong></th>
+    <th>厂房与厂房之间、厂房与围墙之间多处有违章建筑，局部采用可燃芯材的夹芯板做顶板。</th>
+    <th></th>
+    <th>拆除违章建筑，设备、货物等另行安装存放在合适建筑内。</th>
+  </tr>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>围墙与厂房之间局部有违章搭建，存放货物，影响消防救援。</td>
+      <td><img src="/img/image1.jpeg" srcset="/img/loading.gif" lazyload alt="消防通道"></td>
+      <td>拆除违章建筑，转移通道上货物，保持消防通道畅通。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>车间内局部违章搭建隔层。</td>
+      <td></td>
+      <td>拆除违章搭建，货物另行存放在其它合适场所内，或补办相关手续，使其符合有关消防安全要求。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>一个车间与同层相邻企业之间用石膏板隔断。</td>
+      <td></td>
+      <td>相邻企业之间应采用无门窗洞孔的防火墙隔断。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>生产车间与行政办公区用石膏板隔断。</p>
+        <p>行政办公室设置生产车间内，与车间的防火隔断不符要求。</p>
+      </td>
+      <td></td>
+      <td>设在丙类厂房内（或丙、丁类仓库内）的行政办公室应采用耐火极限不低于2.50h的防火隔墙和不低于1.00h的楼板与其他部位隔开，并至少设置一个独立的安全出口，隔墙上开设相互连通的门应是不低于乙级的防火门。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>丙类厂房无喷淋</td>
+      <td>
+        <p><img src="/img/image2.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image3.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>货物堆放不符合"五距"要求</td>
+      <td><img src="/img/image4.jpeg" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>安全通道与出口</strong></td>
+      <td>安全出口卷帘门缺防脱落装置。</td>
+      <td><img src="/img/image5.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>在安全出口卷帘门两边轨道离地2.5m以上位置设置防脱落装置，并确保上班期间正常使用。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>1、车间部分区域未划出安全通道线。</p>
+        <p>2、安全通道未设置疏散方向指示标志。</p>
+        <p>3、车间部分区域未划出安全通道线，未设置疏散方向指示标志。</p>
+      </td>
+      <td>
+        <p><img src="/img/image6.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image7.png" srcset="/img/loading.gif" lazyload alt="image7"></p>
+      </td>
+      <td>
+        <p>1、根据安全疏散、货物通行、设备（货物）布置、功能区划分等在车间各岗位划出安全疏散通道。</p>
+        <p>2、在疏散通道及其转角处设置的灯光疏散方向指示标志离地面高度应在1米以下，方向标志灯的标志面与疏散方向垂直时，灯具的设置间距不应大于20米，标志面与疏散方向平行时，灯具的设置间距不应大于10米，转角区间距不应大于1米，在疏散通道设置应急照明灯，疏散通道的地面水平照度不能低于1.0lx。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>部分设备、货物摆放在楼梯间。</p>
+        <p>部分货物摆放在安全通道上。</p>
+        <p>个别安全出口堵塞。</p>
+      </td>
+      <td></td>
+      <td>转移楼梯间货物至其他安全处，加强日常管理，确保上班期间各安全出口、通道畅通。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>1、安全出口锁闭。</p>
+        <p>2、安全出口缺标志。</p>
+        <p>3、安全出口标志灯有故障。</p>
+        <p>4、部分楼层只有一个安全出口。</p>
+      </td>
+      <td></td>
+      <td>
+        <p>1、上班期间应保持各安全出口、通道畅通。</p>
+        <p>2、在各安全出口上方设置"安全出口"指示标志。</p>
+        <p>3、修理或更换安全出口标志灯。</p>
+        <p>4、至少再增加一个安全出口，且2个安全出口最近边缘之间的距离应不小于5m。</p>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>消防设施</strong></td>
+      <td>
+        <p>1、灭火器等消防设施无月检记录。</p>
+        <p>2、部分灭火器放地上，放消火栓箱内。</p>
+        <p>3、部分灭火器超期使用。</p>
+        <p>4、个别灭火器压力表指针在"红色"区域。</p>
+        <p>5、灭火器集中设置。</p>
+        <p>6、灭火器使用说明书被检查卡覆盖</p>
+      </td>
+      <td>
+        <p><img src="/img/image8.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image9.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+      </td>
+      <td>
+        <p>1、灭火器、消火栓、应急照明灯等消防设施每月至少检查一次完好情况，并做记录。</p>
+        <p>2、灭火器设置、安装要求：每个点设2-5只（一般2只一组）手提灭火器，手提灭火器悬挂安装，顶离地不超过1.50m，底离地不少于0.08m，或将灭火器放在灭火器箱里、托架上。</p>
+        <p>3、干粉灭火器有效使用期限为10年，超期使用的灭火器应报废。</p>
+        <p>4、灭火器压力正常情况压力表指针应在"绿色区域"，如果在"红色区域"表示罐内压力不足，应重新充装或修理、更换。</p>
+        <p>5、灭火器等消防设施使用说明书禁止被涂覆。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>部分灭火器等消防设施前有货物堆放。</td>
+      <td><img src="/img/image10.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>转移消防设施前货物至其它合适场所存放，在消防设施前地面划出"禁止堆放"区域，并加强日常管理。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>BC型干粉灭火器与ABC型干粉灭火器一起摆放。</td>
+      <td></td>
+      <td>将BC型干粉灭火器更换为ABC型等适合扑救现场潜在主要火灾类型和相应灭火级别的灭火器。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>车间部分常闭防火门闭门器损坏。</td>
+      <td><img src="/img/image11.png" srcset="/img/loading.gif" lazyload alt="IMG_256"><img src="/img/image12.jpeg" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>修理或更换闭门器。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>部分防火门破损。</td>
+      <td><img src="/img/image13.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>修理或更换防火门。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>部分防火卷帘下有货物堆放。</p>
+        <p>部分防火卷帘破损。</p>
+      </td>
+      <td></td>
+      <td>
+        <p>转移防火卷帘下货物至其它合适场所，在防火卷帘附近设置"禁止堆放"等警示标志，并加强日常管理。</p>
+        <p>修理或更换防火卷帘。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>1、部分消火栓箱内有杂物。</p>
+        <p>2、部分消防水带卷错。</p>
+        <p>3、部分水带破损。</p>
+      </td>
+      <td>
+        <p><img src="/img/image14.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image15.jpeg" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+      </td>
+      <td>
+        <p>1、清理消火栓箱内杂物，并做好日常管理。</p>
+        <p>2、消防水带应2个接口朝外卷起。</p>
+        <p>3、更换消防水带。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>1、个别消火栓阀门漏水，快接口处有污垢。</p>
+        <p>2、部分消火栓接口朝向错误。</p>
+      </td>
+      <td></td>
+      <td>
+        <p>1、修理或更换消火栓阀门，清理快接口污垢，并加强日常管理。</p>
+        <p>2、消火栓接口应与墙壁垂直。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>末端试水无压力</td>
+      <td><img src="/img/image16.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>消火栓箱内手动报警按钮无电源指示。</td>
+      <td></td>
+      <td>检查、修理手动报警线路和消控室火灾自动报警控制系统，确保火灾自动报警系统工作正常。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>灭火器送修，现场配置不足。</td>
+      <td></td>
+      <td>每次送修的灭火器数量不得超过计算单元配置灭火器总数量的1/4。超出时，应选择相同类型和操作方法的灭火器替代，替代灭火器的灭火级别不应小于原配置灭火器的灭火级别。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>车间灭火器配置不足。</td>
+      <td></td>
+      <td>根据现行《建筑灭火器配置设计规范》的要求在各场所配置灭火器。</td>
+    </tr>
+    <tr>
+      <td><strong>消防管理</strong></td>
+      <td>有电瓶车在一楼车间充电。</td>
+      <td><img src="/img/image17.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>电瓶车应在设有智能充电桩的安全处充电。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>1、消控室无持证值班人员。</p>
+        <p>2、消防联动控制系统没有投入使用（自动、手动都在"禁止"位）。</p>
+      </td>
+      <td></td>
+      <td>消控室需每日24小时有人值班，每班至少配置2名持证人员，确保火灾报警系统和喷水灭火系统正常运行，及时做当班好值班记录，消除或上报故障。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>厂区未配备微型消防站</td>
+      <td><img src="/img/image18.jpeg" srcset="/img/loading.gif" lazyload alt="微型消防柜"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>车间五楼设置的食堂使用液化石油气。</td>
+      <td></td>
+      <td>车间建筑内禁止设置食堂等民用设施。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>车间地面多处有烟头。</td>
+      <td><img src="/img/image19.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>生产车间应禁止吸烟。</td>
+    </tr>
+  </tbody>
+</table>
+### 工贸企业用电 ------------------
+<table>
+  <tr>
+    <th><strong>设备配电箱</strong></th>
+    <th>
+      <p>车间设备、金属配电箱、箱门、三孔插座、插板等无接地，或地线连接不可靠，个别配电箱内有杂物。</p>
+      <p>部分设备无接地。</p>
+    </th>
+    <th>
+      <p><img src="/img/image20.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+      <p><img src="/img/image21.png" srcset="/img/loading.gif" lazyload alt="image21"></p>
+    </th>
+    <th>
+      <p>生产用电采用TN-S系统，所有设备金属外壳、配电箱、箱门、三孔插座等都应有PE线，各配电柜（箱）内设置接地端子排、接零端子排，并有接地、接零标志，配电箱各穿线孔有防护套，并用防火泥封堵，双色线只能用于接地或接零保护，禁止将单色线用于接地、接零保护，PE线应采用焊接、压接等可靠的方式连接，清理配电箱内杂物，保持配电箱干燥、整洁。</p>
+      <p>用电设备金属外壳应可靠接地。</p>
+    </th>
+  </tr>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>
+        <p>1、配电箱内缺地排，相关设备、配电箱无接地。</p>
+        <p>2、配电箱内电器设备未固定安装。</p>
+        <p>3、配电箱内积尘较多。</p>
+        <p>4、部分电源线接线不规范，从箱门与箱体之间穿过。</p>
+        <p>5、配电箱箱门被设备阻挡，不能正常打开</p>
+      </td>
+      <td>
+        <p><img src="/img/image22.png" srcset="/img/loading.gif" lazyload alt="IMG_256"><img src="/img/image23.png" srcset="/img/loading.gif" lazyload alt="image23"><img src="/img/image24.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image25.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+      </td>
+      <td>
+        <p>1、配电箱引入接地线，设置接地排，并对配电箱、箱门、相关设备金属外壳规范安装接地保护线。</p>
+        <p>2、电器设备应固定安装在配电箱内。</p>
+        <p>3、保持配电箱干燥整洁。</p>
+        <p>4、电源线应从配电箱专用接线孔进出，并做好防护。</p>
+        <p>5、重新安装配电箱，确保配电箱门打开角度不小于90°，并留有足够的操作空间。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>1、车间配电盒缺盖。</p>
+        <p>2、配电箱缺门。</p>
+        <p>3、部分配电箱下摆放货物。</p>
+        <p>4、个别配电箱缺警示标志。</p>
+        <p>5、配电箱放在电加热烘箱上，未做隔热处理。</p>
+      </td>
+      <td>
+        <p><img src="/img/image26.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image27.jpeg" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image28.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+      </td>
+      <td>
+        <p>1、安装配电盒盖，保持配电盒结构完整。</p>
+        <p>2、安装配电箱门，保持配电箱结构完整。</p>
+        <p>3、转移配电箱下货物，并在配电箱下地面划出"禁止堆放"区域，加强日常管理。</p>
+        <p>4、在配电箱门上设置"有电危险"、"当心触电"等警示标志。</p>
+        <p>5、在配电箱与烘箱之间设置隔热层或将配电箱离开烘箱。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>1易燃、可燃物品摆放在配电柜附近。</p>
+        <p>2、配电柜与周围未做安全隔离。</p>
+        <p>3、配电柜前后未铺设绝缘垫。</p>
+        <p>4、配电室内堆放杂物。配电室内未配备绝缘棒、绝缘手套等防护用品。</p>
+      </td>
+      <td><img src="/img/image29.png" srcset="/img/loading.gif" lazyload alt="IMG_256"><img src="/img/image30.jpeg" srcset="/img/loading.gif" lazyload alt="image30"><img src="/img/image31.png" srcset="/img/loading.gif" lazyload alt="image31"></td>
+      <td>
+        <p>1、转移配电柜前货物至安全处。</p>
+        <p>2、在配电柜周围设置隔离栏栅与相邻场所隔开。</p>
+        <p>3、在配电柜前后地面铺设防滑绝缘垫。</p>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>电源线照明灯</strong></td>
+      <td>
+        <p>车间部分电源线未套管固定安装。</p>
+        <p>电源线中间接头缺少防护。</p>
+      </td>
+      <td><img src="/img/image32.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>所有电源线应固定安装，高度低于2.5m（水平敷设）和低于1.8m（垂直敷设）的电源线建议穿金属管、封闭式金属线槽或者绝缘阻燃PVC电工套管保护，易燃易爆区域或沿地面铺设等易受机械损伤的场所的电源线应穿钢管保护。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>部分排风扇电源线中间有接头，排风扇金属外壳无接地。</td>
+      <td></td>
+      <td>更换风扇电源线，采用整条三芯电缆（或护套线，导线允许载电流量大于风扇额定电流），并做好风扇外壳或电机可靠接地。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>线槽局部未封闭，部分电源线未套管固定。</td>
+      <td><img src="/img/image33.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>安装线槽盖板，使线槽处于封闭状态，电源线套绝缘阻燃PVC电工套管固定。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>部分照明灯用电源线做支撑，电源线未套管。</td>
+      <td>
+        <p><img src="/img/image34.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image35.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+      </td>
+      <td>照明灯应安装在灯座上，有可靠支撑，电源线应穿金属管或者绝缘阻燃PVC电工套管固定。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>装配岗位等高度低于2.5m照明灯采用220V电源。</td>
+      <td></td>
+      <td>低于2.5m照明灯、局部照明灯应采用特低电压的电源；或者采用LED 等，灯具金属外壳可靠接地，并配置合适的漏电保护器。</td>
+    </tr>
+    <tr>
+      <td><strong>插板断路器</strong></td>
+      <td>部分插板乱挂或放地上，无接地、无漏保。</td>
+      <td><img src="/img/image20.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>插板应固定安装，有可靠的PE线，并安装合适的漏电保护器。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>个别插座未固定，无接地、无漏保。</td>
+      <td><img src="/img/image36.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>插座应固定安装，三孔插座应有可靠的PE线，安装合适的漏电保护器。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>员工厨房插座缺漏保。</td>
+      <td></td>
+      <td>插座末端线路应安装合适的漏电保护器。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>断路器"一闸双控"。</p>
+        <p>断路器"一闸多控"。</p>
+        <p>断路器裸装。</p>
+      </td>
+      <td><img src="/img/image37.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>
+        <p>设备末端线路上的断路器只能控制一台设备，并根据设备额定电流在末端线路上安装合适容量的断路器；</p>
+        <p>断路器应固定安装在配电箱（盒）内。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>断路器相间无隔弧板</td>
+      <td>
+        <p><img src="/img/image38.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image39.jpeg" srcset="/img/loading.gif" lazyload alt="电闸安装隔弧板"></p>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>断路器与电源线不匹配。</p>
+        <p>断路器与设备不匹配。</p>
+      </td>
+      <td></td>
+      <td>
+        <p>断路器动作电流应小于其所控制的用电线路的允许载流量。</p>
+        <p>断路器动作电流应是设备额定电流的1.5-2.5倍，并加装热继电器。</p>
+        <p>基本原则是：设备额定电流＜末端线路断路器动作电流＜导线允许载流量</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>流水线电加热烘箱外壳无接地，未安装漏电保护器。</td>
+      <td></td>
+      <td>用电设备金属外壳应有可靠的接地保护，高温、高湿等场所的用电设备应在末端线路安装合适的漏电保护器</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>木工车间等产尘场所使用普通插座、插板、配电箱。</td>
+      <td></td>
+      <td>产尘场所应使用防尘（尘密型）插座、插板、配电箱等防尘电气设施。</td>
+    </tr>
+    <tr>
+      <td><strong>电气防爆</strong></td>
+      <td>
+        <p>1、喷光台电源线穿管、断路器等电气设施不防爆。</p>
+        <p>2、喷光台周围未安装可燃气体探测器。</p>
+      </td>
+      <td><img src="/img/image40.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>
+        <p>1、喷光台周围3m范围内电气设备都应满足相应的防爆要求，电机、照明灯等选用Ⅱ类防爆电器，电源线套镀锌钢管或防爆挠性管保护，各接口可靠连接。</p>
+        <p>2、在喷光台附近离地30-60cm处安装带声光报警功能的可燃气体探测器，其保护半径为5m，如有需要，应安装多个。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>楼顶设在环保设施前的风机不防爆，废气管道未接地。</td>
+      <td><img src="/img/image41.jpeg" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>净化装置前设置风机正压操作时，风机与电机均应选用防爆型。通过风机的气体温度应低于风机运行时的规定温度；净化装置中可能产生静电的管道和一切设备均应可靠接地，设置专用的静电接地体，其接地电阻值不大于100Ω。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>单机布袋除尘器除尘风机不防爆。</td>
+      <td></td>
+      <td>除尘风机应采用Ⅲ类防爆电器，其表面工作温度应低于粉尘燃点。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>自动喷粉构成2级除尘无火花探测熄灭装置（重大隐患）</td>
+      <td><img src="/img/image42.jpeg" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>自动喷粉应安装火花探测熄灭装置</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>除尘器无泄爆，抑爆，惰化措施，无锁气卸灰装置（重大隐患）</td>
+      <td><img src="/img/image43.jpeg" srcset="/img/loading.gif" lazyload alt="image43"><img src="/img/image44.jpeg" srcset="/img/loading.gif" lazyload alt="image44"></td>
+      <td>除尘器安装泄爆措施，锁气卸灰装置</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>单机布袋除尘器与安全出口、与有人作业的岗位间距不足；单机布袋除尘器之间间距不足。</td>
+      <td></td>
+      <td>单机布袋除尘器距与日常操作中有人出现的地方至少为6m，距任意出口的距离至少为6m，单机布袋除尘器之间的距离至少为6m。</td>
+    </tr>
+    <tr>
+      <td><strong>用电管理</strong></td>
+      <td>临时用电未办理审批手续，电源线放地上。</td>
+      <td></td>
+      <td>临时用电应办理审批手续，电源线应架空敷设，沿地面铺设的电源线应套金属钢管保护。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>有电瓶车在一楼车间充电。</td>
+      <td></td>
+      <td>电瓶车应在设有智能充电桩的安全处充电。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>1、配电房内绝缘鞋、绝缘手套等电工用具缺少维护，已老化。</p>
+        <p>2、配电房门口缺挡鼠板。</p>
+        <p>3、配电房活动窗户缺防护网。</p>
+        <p>4、配电房内缺应急照明灯。</p>
+        <p>5、配电柜后缺绝缘垫。</p>
+      </td>
+      <td><img src="/img/image45.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>
+        <p>1、新购电工用具，并做好日常维护和管理。</p>
+        <p>2、在配电房出入口设置高度不低于500mm高的挡鼠板。</p>
+        <p>3、在窗户上安装孔径不大于10*10mm的金属防护网。</p>
+        <p>4、在配电房内设置应急照明灯。</p>
+        <p>5、在配电柜后设置防滑绝缘垫。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>发电机设在通道上，与周围未做防火隔断</td>
+      <td></td>
+      <td>应设置发电机房。与周围用实体墙和</td>
+    </tr>
+  </tbody>
+</table>
+###工贸企业机械 ------------------
+<table>
+  <tr>
+    <th><strong>防护设施</strong></th>
+    <th>砂轮机防护罩不全、缺挡板、托架，正对安全通道，未做安全隔离。</th>
+    <th><img src="/img/image46.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></th>
+    <th>砂轮机防护罩、挡板、托架等安全装置应齐全完好，设置砂轮机房或在砂轮机正前方设置高度不低于1.8m的隔墙或足够强度的金属防护挡板。</th>
+  </tr>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>多台冲床、台钻等设备缺皮带防护罩。</td>
+      <td><img src="/img/image47.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>在各设备皮带传动、链条传动、齿轮传动及其它凸出高速运转部位设置安全防护罩。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>冲床踏板未采取防护措施。</td>
+      <td><img src="/img/image48.png" srcset="/img/loading.gif" lazyload alt="冲床踏板防护罩"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>粉碎机飞轮缺防护罩。</td>
+      <td></td>
+      <td>在各设备皮带传动、链条传动、飞轮及其它凸出高速运转部位设置安全防护罩。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>锯切割机轴心防护罩缺失</td>
+      <td><img src="/img/image49.jpeg" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>行车吊钩缺防脱扣或防脱扣失效。</td>
+      <td><img src="/img/image50.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>安装行车吊钩防脱扣，并加强日常管理，确保防脱扣有效。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>电机缺风叶、风叶缺防护罩。</td>
+      <td></td>
+      <td>配置电机风叶、风叶罩。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>部分设备防护盖板缺少。</td>
+      <td></td>
+      <td>安装设备防护隔板。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>台钻手柄无绝缘球</td>
+      <td><img src="/img/image51.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>简易货梯未设置防护栏杆，连锁装置</td>
+      <td><img src="/img/image52.jpeg" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>柴油燃烧机缺防护外壳。</td>
+      <td></td>
+      <td>规范安装柴油燃烧机防护外壳。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>注塑机螺杆电加热部位缺防护罩。</td>
+      <td></td>
+      <td>在电加热等高温部位设置防护罩，并在防护罩上设置"当心烫伤"等警示标志。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>角磨机无防护罩</td>
+      <td><img src="/img/image53.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>电焊机未"加芯赋码"</td>
+      <td><img src="/img/image54.jpeg" srcset="/img/loading.gif" lazyload alt="image54"><img src="/img/image54.jpeg" srcset="/img/loading.gif" lazyload alt="image54"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>普通车床缺挡屑板。</td>
+      <td></td>
+      <td>在车床上设置挡屑板。</td>
+    </tr>
+    <tr>
+      <td><strong>气罐等</strong></td>
+      <td>
+        <p>1、储气罐压力表、安全阀无定期检测合格标志。</p>
+        <p>2、压力表安装在不易观察的位置，无最高工作压力位指示。</p>
+        <p>3、个别压力表已失准。</p>
+        <p>4、安全阀排气口设在室内。</p>
+      </td>
+      <td><img src="/img/image55.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>
+        <p>1、压力表至少每半年，安全阀至少每一年检测一次完好情况。</p>
+        <p>2、将储气罐压力表转装到易观察的位置，在压力表表盘上用红色标志线标出最高工作压力位。</p>
+        <p>3、立即更换损坏或失准的安全附件。</p>
+        <p>4、将安全阀排气口接到室外安全处。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>一只储气罐（简单压力容器）超期使用。</td>
+      <td></td>
+      <td>报废该简单压力容器，或准备相关资料向特种设备监督管理部门申请办理特种设备使用登记证，按特种设备有关要求使用和管理。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>一只储气罐为Ⅰ类压力容器，未见其特种设备使用登记证等信息。</td>
+      <td></td>
+      <td>准备相关资料向特种设备监督管理部门申请办理特种设备使用登记证，按规定做好安全使用和管理。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>下料机单手操作。</td>
+      <td><img src="/img/image56.png" srcset="/img/loading.gif" lazyload alt="image56"></td>
+      <td>下料机应改回双手操作，并加强对下料员工的培训教育和日常检查。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>抛光机无液位计</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>抛光车间配置4公斤灭火器</td>
+      <td><img src="/img/image57.png" srcset="/img/loading.gif" lazyload alt="D型灭火器"></td>
+      <td>配置5公斤的灭火器</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>液位计、水流量计未与机器联锁</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+### 工贸企业化学品 --------------------
+<table>
+  <tr>
+    <th><strong>危化品储存</strong></th>
+    <th>
+      <p>1、未按有关要求设置危化品中间库。</p>
+      <p>2、危化品中间库未靠外墙设置。</p>
+      <p>3、危化品中间库与周围用石膏板隔断。</p>
+      <p>4、危化品中间库与周围防火隔断不符要求。</p>
+      <p>5、危化品中间库库门不是甲级防火门，库门朝里开。</p>
+      <p>6、库内未设置可燃气体探测器、防爆风机。</p>
+      <p>7、库内部分电器设备不防爆，电源线套管不符防爆要求。</p>
+      <p>8、危化品中间库内缺温湿度计，未定期做好温湿度记录。</p>
+      <p>9、地面缺防流散设施。</p>
+      <p>10、危化品中间库门口缺静电导除器。</p>
+      <p>11、库内危化品堆放混乱。</p>
+      <p>12、部分危化品缺安全标签。</p>
+      <p>13、部分易燃液体存放在塑料桶等不导静电的容器内。</p>
+      <p>14、在危化品中间库内分装、调配危化品。</p>
+      <p>15、使用塑料油抽、铁质开桶器。</p>
+      <p>16、缺少部分危化品安全周知卡、缺少危化品安全操作规程。</p>
+      <p>17、门口缺少消防砂、灭火器等消防设施。</p>
+      <p>18、危化品中间库缺少必要的安全警示标志。</p>
+      <p>19、无洗眼器</p>
+    </th>
+    <th><img src="/img/image58.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></th>
+    <th>
+      <p>易燃液体类危化品中间库基本要求：1、靠外墙设置，采用防火墙和耐火极限不低于1.50h的不燃性楼板与其他区域隔开，与相邻区域相通的门应是外开式甲级防火门。</p>
+      <p>2、在离地30-60cm处安装防爆风机、可燃气体探测器（保护半径5m，可燃气体报警装置应安装在操作人员常驻的控制室等建筑物内，与事故排风机联锁），现场报警器安装高度应高于现场区域地面或楼地板2.2m，且位于工作人员易察觉的地点，每年至少检测一次可燃气体探测系统完好情况，探测器安装地点与周边工艺管道或设备之间的净空不应小于0.5m。</p>
+      <p>3、库内电源线应穿镀锌钢管或防爆挠性管固定安装，各接口可靠连接，所有电气设备应选用Ⅱ类防爆电器。</p>
+      <p>4、地面设置防止液体流散的措施（设置门槛或围堰，地漏等要封堵严密）。</p>
+      <p>5、窗户上设阻燃或不燃材料制作的遮阳帘。</p>
+      <p>6、库内设置温湿度计，做好日常温湿度检查记录。</p>
+      <p>7、库内物品分类堆放，做好标识，各危化品包装物外有完整的与盛装的物质一致的安全标签。</p>
+      <p>8、入口处设置静电导除器，设置消防沙、灭火器等消防设施。</p>
+      <p>9、在库内（或门口）设置存放的各危化品安全周知卡。</p>
+      <p>10、库门上设置"危化品中间仓库"等字样，在库外设置"严禁烟火"、"当心中毒"等安全警示标志。</p>
+      <p>11、禁止在库内拆装、分装、调配危化品。</p>
+    </th>
+  </tr>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>危化品存放在作业现场。</td>
+      <td></td>
+      <td>应设置危化品仓库，专门存放，禁忌物品不得同库存放。</td>
+    </tr>
+    <tr>
+      <td><strong>气瓶使用</strong></td>
+      <td>氧气瓶、乙炔瓶间距不足，与明火间距不足。</td>
+      <td></td>
+      <td>氧气瓶与乙炔瓶间距不少于5m，两者与明火间距不少于10m。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>气瓶缺防倾倒措施。</td>
+      <td>
+        <p><img src="/img/image59.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image60.png" srcset="/img/loading.gif" lazyload alt="气瓶存放"></p>
+      </td>
+      <td>在气瓶上部离瓶底2/3处设置防倾倒装置。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>乙炔瓶减压阀出口缺回火防止器。</td>
+      <td></td>
+      <td>在减压器出口安装回火阀。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>燃气管路无自动切断阀</td>
+      <td><img src="/img/image61.png" srcset="/img/loading.gif" lazyload alt="image61"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>车间有使用液化石油气做燃料，气瓶摆放在明火附近，安全间距不足。</td>
+      <td></td>
+      <td>液化气钢瓶应设置专门的存放间，内部电器设施等符合防爆要求，与明火间距不少于30m。</td>
+    </tr>
+    <tr>
+      <td><strong>危化品使用</strong></td>
+      <td>作业现场危化品超量存放。</td>
+      <td></td>
+      <td>作业现场危化品存放不超过当班使用量。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>成型流水线烘箱附近堆放胶黏剂等危化品。</td>
+      <td></td>
+      <td>另选合适场所临时存放胶黏剂等危化品（危化品应远离热源）。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>印刷机车间油墨槽附近未设置可燃气体探测报警器。</td>
+      <td></td>
+      <td>根据油墨槽设置位置和数量在印刷车间设置带声光报警功能的可燃气体探测器（保护半径不超过5m）。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>1、喷光台电器设备不防爆。</p>
+        <p>2、电源线套管不防爆。</p>
+        <p>3、未设置可燃气体探测器。</p>
+      </td>
+      <td></td>
+      <td>
+        <p>1、所有电气设备应选用防爆型。</p>
+        <p>2、电源线应穿镀锌钢管或防爆挠性管固定安装，各接口可靠连接。</p>
+        <p>3、在离地30-60cm处安装带声光报警功能的可燃气体探测器（保护半径5m,根据现场需要可以设置多个）。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>喷漆间送风管道未安装防火阀</td>
+      <td></td>
+      <td>在送风管道进入喷漆房前安装防火火阀。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>废气净化装置前的风机不防爆。</td>
+      <td></td>
+      <td>净化装置前设置的风机正压操作时，风机和电机都应选用防爆型。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>烘房使用不防爆的空调。</p>
+        <p>电加热器不防爆。</p>
+      </td>
+      <td></td>
+      <td>
+        <p>喷漆室、调漆室、油漆（溶剂）储存场所及其他防爆区域内严禁设置非防爆型空调。</p>
+        <p>禁止使用不防爆的电加热装置用作干燥、发热装置。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>1、易燃液体危化品临时存放在塑料桶，未上盖。</p>
+        <p>2、使用塑料勺、塑料油抽、铁质工具。</p>
+      </td>
+      <td></td>
+      <td>
+        <p>易燃液体应存放在金属材质等导静电良好的包装桶内，并做好静电接地，物料取用后应立即盖紧桶盖。</p>
+        <p>禁止使用不导静电的工具、会产生火花的工具。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>1、柴油罐缺防流散设施，液位计缺防护。</p>
+        <p>2、油罐外壳无接地。</p>
+        <p>3、输油管道采用铝塑复合管，无静电接地。</p>
+      </td>
+      <td></td>
+      <td>
+        <p>1、在柴油罐下地面设置围堰，围堰内体积不少于最大储罐容积，在液位计上设置金属防护套管。</p>
+        <p>2、在油罐外壳做可靠的静电接地，接地电阻不大于100Ω。</p>
+        <p>3、输油管道采用无缝钢管，并有可靠静电接地。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>丝印岗位电源线乱绕，插板未固定，无接地、无漏保，未安装可燃气体探测器，职业病危害防护设施未运行。</td>
+      <td></td>
+      <td>建议电源线穿金属管或者绝缘阻燃PVC电工套管保护，插板应固定安装，有可靠的PE线，并安装合适的漏电保护器，在丝印岗位离地30-60cm处带声光报警功能的可燃气体探测器（保护半径5m），作业期间确保岗位职业病危害防护设施正常运行，根据作业场所职业病危害因素检测结果，未员工配备防毒口罩等合适的防护用品，并监督其正确使用。</td>
+    </tr>
+    <tr>
+      <td><strong>喷胶</strong></td>
+      <td>喷胶台风扇未可靠固定，外壳无接地，缺少防护罩。</td>
+      <td></td>
+      <td>设备应固定安装，金属外壳应可靠接地，风叶前后设置防护罩，孔径不大于10*10mm。</td>
+    </tr>
+    <tr>
+      <td><strong>危废</strong></td>
+      <td>油漆桶（危险废物）随意摆放车间。</td>
+      <td></td>
+      <td>油漆桶等危险废物应存放在专门的仓库内，按危化品中间库的要求与周围做好防火隔断，并配置可燃气体探测报警器、防爆风机等安全装置和应急设施，做好日常管理。</td>
+    </tr>
+  </tbody>
+</table>
+### 工贸企业管理 ------------------
+<table>
+  <tr>
+    <th><strong>操作规程、告知卡</strong></th>
+    <th>部分岗位缺安全操作规程，作业人员没有佩戴合适的防护用品。</th>
+    <th><img src="/img/image62.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></th>
+    <th>在各岗位醒目位置设置符合实际的安全操作规程，根据岗位职业病危害特性为员工配置合适的防护用品。</th>
+  </tr>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>企业未按要求进行双重预防体系建设，未定期对各岗位进行风险辨识。</td>
+      <td>
+        <p><img src="/img/image63.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image64.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image65.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+      </td>
+      <td>采用科学、合理的方法对厂区进行全面的危险源和风险辨识，根据判定的风险等级落实分级管控措施，在岗位醒目位置设置岗位安全风险告知卡，建立健全安全生产双重预防体系。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>部分岗位缺岗位风险告知卡、安全操作规程、警示标志。</td>
+      <td><img src="/img/image66.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>对厂区进行全面的危险源和风险辨识，根据风险等级落实分级管控措施，在各岗位醒目位置处设置岗位风险告知卡、安全操作规程，建立健全安全生产双重预防体系；根据岗位特性设置"严禁烟火"、"当心机械伤害"、"当心触电"、 "注意高温"等相应的警示警告标志。</td>
+    </tr>
+    <tr>
+      <td><strong>警示标志</strong></td>
+      <td>货梯口缺少警示标志、安全操作规程。</td>
+      <td>
+        <p><img src="/img/image67.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+        <p><img src="/img/image68.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+      </td>
+      <td>在各楼层货梯口规范设置"禁止乘人"标志、"限载****kg"指示，及安全操作规程。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>蒸汽管道等等未标出介质和流向标识。</td>
+      <td></td>
+      <td>在各管道外粘贴或悬挂管内介质名称和流向标识。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>未对有限空间作业场所进行风险辨识，未设置警示标志。</td>
+      <td><img src="/img/image69.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>对企业涉及的有限空间作业场所进行风险辨识，在各有限空间入口附近设置"未经许可禁止入内"等警示标志，根据岗位固有风险设置相应的风险告知卡。</td>
+    </tr>
+    <tr>
+      <td><strong>劳动防护</strong></td>
+      <td>作业人员没有佩戴合适的防护用品</td>
+      <td>
+        <p><img src="/img/image70.png" srcset="/img/loading.gif" lazyload alt="image70"></p>
+        <p><img src="/img/image71.jpeg" srcset="/img/loading.gif" lazyload alt="IMG_256"></p>
+      </td>
+      <td>根据作业场所职业病危害因素检测结果，机加工岗位佩戴耳塞等防护用品；有毒有害作业岗位佩戴防毒口罩等防护用品。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>下料机一个按钮被人为卡住，成单手操作。</td>
+      <td></td>
+      <td>下料机应改回双手操作，并加强对下料员工的培训教育和日常检查。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>车工、钻工戴手套作业。</td>
+      <td></td>
+      <td>车工、钻工等有裸露的高速运转部件的岗位，作业人员禁止佩戴手套等防护用品，穿合身的工作服，做到工作服领口、袖口、下摆三紧。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <p>上作业平台楼梯栏杆缺防护栏。</p>
+        <p>作业平台缺防护栏。</p>
+        <p>钢平台缺少踢脚板</p>
+      </td>
+      <td><img src="/img/image72.jpeg" srcset="/img/loading.gif" lazyload alt="挡脚板"><img src="/img/image73.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>
+        <p>1、在楼梯2边设置高度不低于1.05m的护手。 （室内可以90cm）</p>
+        <p>2、在作业平台四周设置高度不低于1.05m的防护栏杆。（2m以下90cm）</p>
+        <p>在平台各临边部位设置高度不小于10cm的踢脚板。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>高温排烟管道外缺防护。</td>
+      <td></td>
+      <td>排烟管外设置隔热层或设置隔离装置，防止人员身体误触碰而烫伤。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>蒸汽发生器安全阀排放口设在室内。</td>
+      <td></td>
+      <td>安全阀排放口应接到室外安全处排放。</td>
+    </tr>
+    <tr>
+      <td><strong>环保设施</strong></td>
+      <td>未按"温瓯安委【2021】19号"文件要求对废气净化设施进行整改。</td>
+      <td></td>
+      <td>按"温瓯安委【2021】19号"文件附件1《工业企业有机废气净化安全技术导则》要求对废气净化设施进行整改，并通过验收。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>喷光台循环水帘等防护设施没有运行。</td>
+      <td></td>
+      <td>上班期间应保持各岗位职业病危害防护设施正常运行。</td>
+    </tr>
+    <tr>
+      <td><strong>特种设备及其附件</strong></td>
+      <td>
+        <p>1、储气罐压力表、安全阀无定期检测合格标志。</p>
+        <p>2、压力表安装在不易观察的位置，无最高工作压力位指示。</p>
+        <p>3、个别压力表已失准。</p>
+      </td>
+      <td><img src="/img/image74.png" srcset="/img/loading.gif" lazyload alt="image74"></td>
+      <td>
+        <p>1、压力表至少每半年，安全阀至少每一年检测一次完好情况。</p>
+        <p>2、将储气罐压力表转到已观察的位置，在压力表表盘上用红色标志线标出最高工作压力位。</p>
+        <p>3、立即更换损坏或失准的安全附件。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>一只储气罐（简单压力容器）超期使用。</td>
+      <td></td>
+      <td>报废该简单压力容器，或准备相关资料向特种设备监督管理部门申请办理特种设备使用登记证，按特种设备有关要求使用和管理。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>叉车无牌照。</td>
+      <td><img src="/img/image75.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>叉车属场内机动车，应向特种设备监管部门申请办理特种设备使用登记证，在定期检测合格有效期内使用。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>一只储气罐为Ⅰ类压力容器，未见其特种设备使用登记证等信息。</td>
+      <td></td>
+      <td>准备相关资料向特种设备监督管理部门申请办理特种设备使用登记证，按规定做好安全使用和管理。</td>
+    </tr>
+    <tr>
+      <td><strong>抛光车间等</strong></td>
+      <td>
+        <p>抛光一体机岗位存在的问题：1、地面积尘未及时清扫，无清扫记录。</p>
+        <p>2、使用铁质工具。</p>
+        <p>3、抛光一体机防爆配电箱螺栓不全。</p>
+        <p>4、一体机无水位、水量监测联锁装置。</p>
+        <p>5、现场有香烟、打火机等物品。</p>
+      </td>
+      <td><img src="/img/image76.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td>
+        <p>1、按规定做好抛光岗位粉尘清扫工作，并做好清扫记录；</p>
+        <p>2、抛光岗位禁止使用铁质等会产生火花的工具；3、防爆配电箱螺栓应齐全、紧固；</p>
+        <p>4、一体机应安装水位、水量监测联锁装置，当水位、流量不足时，一体机自动停止运行；</p>
+        <p>5、现场不得出现香烟、打火机等可燃物品、点火源。</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>抛光车间（喷漆车间、喷塑车间）未提供安评单位出具的整改确认报告。</td>
+      <td></td>
+      <td>抛光车间（喷漆车间、喷塑车间）应落实安评单位提出的整改意见，并得到其确认。</td>
+    </tr>
+    <tr>
+      <td><strong>其它管理</strong></td>
+      <td>消控室无持证值班人员，消防自动控制系统故障无记录、未处置。</td>
+      <td></td>
+      <td>消控室每班至少配置2名持证人员值班，及时做好值班记录，消除或上报故障。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>车间原料堆垛超高，与墙距、柱距等不符要求。</td>
+      <td></td>
+      <td>顶距、灯距、外墙距不小于50cm，内墙距不小于30cm，柱距10-20cm，垛距不小于100cm。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>设备、场所积尘严重。</td>
+      <td></td>
+      <td>确保作业时收尘设施正常运行，及时清扫少量洒落的粉尘，粉尘清理应采用吸尘的方式，禁止采用压缩空气吹扫等扬尘的方式清理设备、工件、场所的粉尘。</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>特种作业人员未取证</td>
+      <td><img src="/img/image77.png" srcset="/img/loading.gif" lazyload alt="IMG_256"></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+            </div>
+            <hr>
+            <div>
+              <div class="post-metas mb-3">
+                
+                  <div class="post-meta mr-3">
+                    <i class="iconfont icon-category"></i>
+                    
+                      <a class="hover-with-bg" href="/categories/saftyedu/">安全教育</a>
+                    
+                  </div>
+                
+                
+                  <div class="post-meta">
+                    <i class="iconfont icon-tags"></i>
+                    
+                      <a class="hover-with-bg" href="/tags/%E9%9A%90%E6%82%A3/">隐患</a>
+                    
+                  </div>
+                
+              </div>
+              
+              
+                <div class="post-prevnext">
+                  <article class="post-prev col-6">
+                    
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+    
+      <div class="d-none d-lg-block col-lg-2 toc-container" id="toc-ctn">
+        <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+
+<!-- Custom -->
+
+
+    
+
+    
+      <a id="scroll-top-button" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v"
+                 for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    
+  </main>
+
+  <footer class="text-center mt-5 py-3">
+  <div class="footer-content">
+     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+  </div>
+  
+
+  
+
+  
+</footer>
+
+
+  <!-- SCRIPTS -->
+  
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+<!-- Plugins -->
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+  
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/tocbot@4.12.3/dist/tocbot.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/anchor-js@4.3.1/anchor.min.js" ></script>
+
+
+
+  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js" ></script>
+
+
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var title = document.getElementById('subtitle').title;
+      
+      typing(title)
+      
+    })(window, document);
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 主题的启动项 保持在最底部 -->
+<script  src="/js/boot.js" ></script>
+
+
+</body>
+</html>
