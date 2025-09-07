@@ -1,0 +1,472 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=&#34;auto&#34;>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.png">
+  <link rel="icon" href="/img/favicon.png">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="description" content="积沙成塔">
+  <meta name="author" content="ing">
+  <meta name="keywords" content="">
+  
+  <title>有爆炸危险的甲、乙类生产车间、部位的防爆要求 - 安全001</title>
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
+
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css" />
+  <link  rel="stylesheet" href="/lib/hint/hint.min.css" />
+
+  
+    
+    
+      
+      <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@10.7.2/styles/github-gist.min.css" />
+    
+  
+
+  
+    <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+  
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_kmeydafke9r.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+<!-- 自定义样式保持在最底部 -->
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    var CONFIG = {"hostname":"example.com","root":"/","version":"1.8.11","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null}},"search_path":"/local-search.xml"};
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+
+<body>
+  <header style="height: 50vh;">
+    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand"
+       href="/">&nbsp;<strong>安全001</strong>&nbsp;</a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/power/">
+                    
+                    弱电基础
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/saftyedu/">
+                    
+                    安全教育
+                  </a>
+                
+              </div>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" data-toggle="modal" data-target="#modalSearch">&nbsp;<i
+                class="iconfont icon-search"></i>&nbsp;</a>
+          </li>
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="banner" id="banner" parallax=true
+         style="background: url('/img/default.png') no-repeat center center;
+           background-size: cover;">
+      <div class="full-bg-img">
+        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.6)">
+          <div class="page-header text-center fade-in-up">
+            <span class="h2" id="subtitle" title="有爆炸危险的甲、乙类生产车间、部位的防爆要求">
+              
+            </span>
+
+            
+              <div class="mt-3">
+  
+  
+    <span class="post-meta">
+      <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+      <time datetime="2025-09-07 22:28" pubdate>
+        2025年9月7日 晚上
+      </time>
+    </span>
+  
+</div>
+
+<div class="mt-1">
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-chart"></i>
+      1.8k 字
+    </span>
+  
+
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-clock-fill"></i>
+      
+      
+      21
+       分钟
+    </span>
+  
+
+  
+  
+</div>
+
+            
+          </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="d-none d-lg-block col-lg-2"></div>
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div class="py-5" id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none">有爆炸危险的甲、乙类生产车间、部位的防爆要求</h1>
+            
+            <div class="markdown-body">
+              <h3 id="有爆炸危险的甲、乙类生产车间、部位的防爆要求"><a href="#有爆炸危险的甲、乙类生产车间、部位的防爆要求" class="headerlink" title="有爆炸危险的甲、乙类生产车间、部位的防爆要求"></a>有爆炸危险的甲、乙类生产车间、部位的防爆要求</h3><p><strong>依据：</strong></p>
+<p>《爆炸危险环境电力装置设计规范》GB 50058-2014</p>
+<p>《建筑设计防火规范》 GB50016-2014[2018年版]</p>
+<p>《石油化工建筑物抗爆设计标准》 GB&#x2F;T 50779-2022 </p>
+<h3 id="一-建筑防爆"><a href="#一-建筑防爆" class="headerlink" title="一 建筑防爆"></a>一 建筑防爆</h3><h4 id="1-爆炸危险厂房的总体布局-（GB50016）"><a href="#1-爆炸危险厂房的总体布局-（GB50016）" class="headerlink" title="1. 爆炸危险厂房的总体布局 （GB50016）"></a><strong>1. 爆炸危险厂房的总体布局</strong> （GB50016）</h4><p>(1).爆炸危险的甲乙类厂房宜独立设置（3.6.1），敞开或半敞开式，宜采用钢筋混凝土或钢框架、排架结构</p>
+<p>(2).总控制室应独立设置（3.6.8）≥25m，分控制室宜独立设置（≥3.0h防火隔墙分隔，贴临）</p>
+<p>(3).干式除尘器和过滤器宜厂房外独立建筑，≥10m（≥3.0h防火隔墙+≥1.5h楼板分隔，内单独房间）（9.3.7）</p>
+<h4 id="2-爆炸危险厂房的平面布置（GB50016）"><a href="#2-爆炸危险厂房的平面布置（GB50016）" class="headerlink" title="2. 爆炸危险厂房的平面布置（GB50016）"></a>2. 爆炸危险厂房的平面布置（GB50016）</h4><p>(1).爆炸危险生产部位（3.6.7）：单层外墙、多层顶层+泄压设施附近</p>
+<p>(2).爆炸危险的设备（3.6.7）：避开梁、柱等主要承重构件</p>
+<p>(3).疏散楼梯及连通处（3.6.10）：门斗（隔墙≥2.0h防火隔墙，F甲，错位）</p>
+<p>(4).办公室休息室（3.3.5、3.3.9）：①不得布置甲乙厂房；必须贴临（≥二级，≥3.0h防爆墙，独立安全出口）② 仓库严禁宿舍，办公室、</p>
+<p>(5).休息室等严禁设置在甲乙库，不应贴邻（3.3.9）</p>
+<p>(6).排风设备（9.3.9）：不得布置在地下或半地下建筑（室）内</p>
+<h4 id="3-爆炸危险厂房、仓库防爆措施-（GB50016）"><a href="#3-爆炸危险厂房、仓库防爆措施-（GB50016）" class="headerlink" title="3.爆炸危险厂房、仓库防爆措施 （GB50016）"></a>3.爆炸危险厂房、仓库防爆措施 （GB50016）</h4><h5 id="引火源控制（3-6-6）"><a href="#引火源控制（3-6-6）" class="headerlink" title="引火源控制（3.6.6）"></a>引火源控制（3.6.6）</h5><p>(1).地面：不发火； </p>
+<p>(2).防静电：绝缘材料整体面层防</p>
+<h5 id="防止聚积-（3-6-6）"><a href="#防止聚积-（3-6-6）" class="headerlink" title="防止聚积 （3.6.6）"></a>防止聚积 （3.6.6）</h5><p>(1).不易设地沟，连通处防火材料封堵，下水道设置隔油设施 </p>
+<p>(2).地面、墙面平整、光滑，易于清扫 </p>
+<h5 id="遇水发生燃爆爆炸物品（3-6-12）"><a href="#遇水发生燃爆爆炸物品（3-6-12）" class="headerlink" title="遇水发生燃爆爆炸物品（3.6.12）"></a>遇水发生燃爆爆炸物品（3.6.12）</h5><p>(1).防止水浸渍措施，如设防雨水遮挡 </p>
+<h5 id="甲、乙、丙液体仓库，防止液体流散设施（3-6-12）"><a href="#甲、乙、丙液体仓库，防止液体流散设施（3-6-12）" class="headerlink" title="甲、乙、丙液体仓库，防止液体流散设施（3.6.12）"></a>甲、乙、丙液体仓库，防止液体流散设施（3.6.12）</h5><h4 id="4-泄压设施要求-（GB50016）"><a href="#4-泄压设施要求-（GB50016）" class="headerlink" title="4. 泄压设施要求 （GB50016）"></a>4. 泄压设施要求 （GB50016）</h4><h5 id="1-建筑结构（3-6-1）："><a href="#1-建筑结构（3-6-1）：" class="headerlink" title="(1)建筑结构（3.6.1）："></a>(1)建筑结构（3.6.1）：</h5><p>敞开式、半敞式，承重宜采用钢筋混凝土或钢框架、排架结构（泄压+抗爆）</p>
+<h5 id="2-泄压材质（3-6-3）："><a href="#2-泄压材质（3-6-3）：" class="headerlink" title="(2)泄压材质（3.6.3）："></a>(2)泄压材质（3.6.3）：</h5><p>轻质屋面板、墙体和易于泄压的门、窗等，＜60kg&#x2F;m2</p>
+<h5 id="设置位置（3-6-3）："><a href="#设置位置（3-6-3）：" class="headerlink" title="设置位置（3.6.3）："></a>设置位置（3.6.3）：</h5><p>(a)避开人员密集场所和主要道路，宜靠近爆炸部位；<br>(b)筒仓设置顶部盖板；<br>(c)屋顶泄压防止冰雪积聚<br>(d)轻可燃气体、蒸气甲类厂房，轻质屋面，顶棚平整无死角，通风良好(3.6.5)</p>
+<h5 id="3-泄压面积计算-3-6-4、3-6-13"><a href="#3-泄压面积计算-3-6-4、3-6-13" class="headerlink" title="(3)泄压面积计算(3.6.4、3.6.13)"></a>(3)泄压面积计算(3.6.4、3.6.13)</h5><p>厂房的长径比＞3，宜将建筑划分为长径比不大于3的多个计算段，各计算段中的公共截面不得作为泄压面积。<br>长径比：最长尺寸×L截面周长&#x2F;（4.0×S横截面积）</p>
+<h4 id="5-抗爆设计要求（GB50779）"><a href="#5-抗爆设计要求（GB50779）" class="headerlink" title="5.抗爆设计要求（GB50779）"></a>5.抗爆设计要求（GB50779）</h4><p>《石油化工建筑物抗爆设计标准》 GB&#x2F;T 50779-2022 </p>
+<p>5 建筑设计<br>5.1 一般规定<br>5.2 建筑门窗<br>5.3 建筑构造<br>6 结构设计<br>6.5 结构构造<br>6.6 基础设计</p>
+<h4 id="6-爆炸危险区域的确定-（GB50058）"><a href="#6-爆炸危险区域的确定-（GB50058）" class="headerlink" title="6. 爆炸危险区域的确定 （GB50058）"></a>6. 爆炸危险区域的确定 （GB50058）</h4><p>爆炸性气体环境应根据爆炸性气体混合物出现的频繁程度和持续时间<br>分为 0 区、1 区、2 区，(3.2.1 )</p>
+<p>爆炸危险区域应根据爆炸性粉尘环境出现的频繁程度和持续时间分为<br>20 区、21 区、22 区(4.2.2 )</p>
+<p>连续释放源（20区）一级释放源+1m（21区）二级释放源+3m（22区）</p>
+<p>在爆炸性粉尘环境中粉尘可分为下列三级：ⅢA 级为可燃性飞絮；ⅢB 级为非导电性粉尘；ⅢC 级为导电性粉尘。(4.1.2 )</p>
+<h4 id="7-爆炸危险环境变、配电所和控制室的布置"><a href="#7-爆炸危险环境变、配电所和控制室的布置" class="headerlink" title="7. 爆炸危险环境变、配电所和控制室的布置"></a>7. 爆炸危险环境变、配电所和控制室的布置</h4><h5 id="1-一般布置在爆炸危险场所区域范围以外-（GB50016-3-3-8）"><a href="#1-一般布置在爆炸危险场所区域范围以外-（GB50016-3-3-8）" class="headerlink" title="(1).一般布置在爆炸危险场所区域范围以外 （GB50016- 3.3.8）"></a>(1).一般布置在爆炸危险场所区域范围以外 （GB50016- 3.3.8）</h5><h5 id="2-确需毗邻："><a href="#2-确需毗邻：" class="headerlink" title="(2).确需毗邻："></a>(2).确需毗邻：</h5><p>限供甲、乙类厂房专用的 10kV 及以下的变、配电站,（GB50016- 3.3.8）</p>
+<p>(a).不得设置爆炸危险场所的正上方或正下方<br>(b).尽量考虑楼梯间和外墙布置<br>(c).爆炸危险等级确定共用墙面的数量，隔墙和楼板为抹灰实体和非燃烧体<br>(d).1区和2区，室内地面高出≥0.6m（GB50058-5.3.5）</p>
+<h3 id="二电气防爆-（GB50058）"><a href="#二电气防爆-（GB50058）" class="headerlink" title="二电气防爆 （GB50058）"></a>二电气防爆 （GB50058）</h3><p>(1).采取一定的措施消除或控制电气设备产生火花、电弧或高温的可能性，使其与易燃易爆隔离并在≤引燃温度下运行<br>(2).常用措施：隔离法、限制正常的工作温度、采用隔爆外壳、本质安全电路和超前切断电源等<br>(3).主要技术要求<br>(a).导线材质、允许载流量、敷设方式 (5.4.1)<br>(b).线路的联接 (5.4.3)<br>(c).电气设备的选型和安装(5.2)<br>(d).带电部件的接地(5.5)</p>
+<h3 id="三设施防爆（GB50016）"><a href="#三设施防爆（GB50016）" class="headerlink" title="三设施防爆（GB50016）"></a>三设施防爆（GB50016）</h3><h4 id="1-供暖系统防爆"><a href="#1-供暖系统防爆" class="headerlink" title="1 供暖系统防爆"></a>1 供暖系统防爆</h4><h5 id="1-供暖方式：不循环使用的热风采暖（9-2-3）"><a href="#1-供暖方式：不循环使用的热风采暖（9-2-3）" class="headerlink" title="(1).供暖方式：不循环使用的热风采暖（9.2.3）"></a>(1).供暖方式：不循环使用的热风采暖（9.2.3）</h5><p>(a).采暖管道、散热器表面接触——热表面 </p>
+<p>(b).水、水蒸汽的作用——遇水易燃或自热反应</p>
+<p>(c). 甲乙类严禁采用明火和电热散热器供暖（9.2.2）</p>
+<h5 id="2-管道材质及敷设："><a href="#2-管道材质及敷设：" class="headerlink" title="(2).管道材质及敷设："></a>(2).管道材质及敷设：</h5><p>不燃材料，（9.2.6）不得穿过易燃易爆房间（9.2.4）<br>不燃材料隔热（9.2.5）间距：<br>.&gt;100℃（≥100mm），≤ 100℃（≥50mm）<br>散热器表面的温度（9.2.1），可燃粉尘、纤维≤82.5℃，煤廊≤130℃</p>
+<h4 id="2-通风空调系统防爆"><a href="#2-通风空调系统防爆" class="headerlink" title="2 通风空调系统防爆"></a>2 通风空调系统防爆</h4><p>(1).通风方式：不循环使用<br>(2).管道敷设：严禁穿过防火墙和有爆炸危险的房间隔墙（9.3.2）<br>(a).送、排风管道宜分层设置（9.3.3）<br>(b).排风管明装，采用金属管道直接通向室外安全地点（9.3.9）<br>(c).排风设备不应布置在地下或半地下建筑（室）内（9.3.9）<br>(3).通风设备——防爆型（9.3.4）<br>(a).单独分隔通风机房且干管上设置防止回流设施——普通风机（9.3.4）<br>(b).燃气锅炉房——事故排风机≥12次&#x2F;h（9.3.16）</p>
+<p>(4).除尘器、过滤器的设置（9.3.5）：<br>(a).进入排风机前的除尘器是否采用不产生火花的除尘器<br>(b).对于遇水可能形成爆炸的粉尘，严禁采用湿式除尘器<br>(c).应设置泄压装置，应布置在系统的负压段上（9.3.8）<br>(d).宜布置在厂房外的独立建筑内，≥10m（9.3.7）<br>(5).接地装置<br>(a).排放系统设置导除静电的接地装置（9.3.9）<br>(a).燃油或燃气锅炉房机械通风设施应设置导除静电的接地装置（9.3.16）</p>
+<p>(6).风管设置公称动作温度为70℃的防火阀（9.3.11）：<br>(a).穿越防火分区处<br>(b).穿越通风、空气调节机房的房间隔墙和楼板处<br>(c).穿越重要或火灾危险性大的场所的房间隔墙和楼板处<br>(d).穿越防火分隔处的变形缝两侧<br>(e).竖向风管与每层水平风管交接处的水平管段上</p>
+
+            </div>
+            <hr>
+            <div>
+              <div class="post-metas mb-3">
+                
+                  <div class="post-meta mr-3">
+                    <i class="iconfont icon-category"></i>
+                    
+                      <a class="hover-with-bg" href="/categories/saftyedu/">安全教育</a>
+                    
+                  </div>
+                
+                
+                  <div class="post-meta">
+                    <i class="iconfont icon-tags"></i>
+                    
+                      <a class="hover-with-bg" href="/tags/%E6%A0%87%E5%87%86/">标准</a>
+                    
+                  </div>
+                
+              </div>
+              
+              
+                <div class="post-prevnext">
+                  <article class="post-prev col-6">
+                    
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/saftyedu/%E7%8E%B0%E5%9C%BA%E7%AE%A1%E7%90%86%E9%9A%90%E6%82%A3%E5%8F%82%E8%80%83%E5%9B%BE/">
+                        <span class="hidden-mobile">现场管理隐患参考图</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+    
+      <div class="d-none d-lg-block col-lg-2 toc-container" id="toc-ctn">
+        <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+
+<!-- Custom -->
+
+
+    
+
+    
+      <a id="scroll-top-button" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v"
+                 for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    
+  </main>
+
+  <footer class="text-center mt-5 py-3">
+  <div class="footer-content">
+     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+  </div>
+  
+
+  
+
+  
+</footer>
+
+
+  <!-- SCRIPTS -->
+  
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+<!-- Plugins -->
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+  
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/tocbot@4.12.3/dist/tocbot.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/anchor-js@4.3.1/anchor.min.js" ></script>
+
+
+
+  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js" ></script>
+
+
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var title = document.getElementById('subtitle').title;
+      
+      typing(title)
+      
+    })(window, document);
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 主题的启动项 保持在最底部 -->
+<script  src="/js/boot.js" ></script>
+
+
+</body>
+</html>
