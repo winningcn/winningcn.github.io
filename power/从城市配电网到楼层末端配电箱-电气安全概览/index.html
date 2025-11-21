@@ -1,0 +1,472 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=&#34;auto&#34;>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.png">
+  <link rel="icon" href="/img/favicon.png">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="description" content="从发电站到你家的末端配电箱，一文搞懂！">
+  <meta name="author" content="ing">
+  <meta name="keywords" content="">
+  
+  <title>电气安全：从发电站到你家的末端配电箱，一文搞懂！ - 安全001</title>
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
+
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css" />
+  <link  rel="stylesheet" href="/lib/hint/hint.min.css" />
+
+  
+    
+    
+      
+      <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@10.7.2/styles/github-gist.min.css" />
+    
+  
+
+  
+    <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+  
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_kmeydafke9r.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+<!-- 自定义样式保持在最底部 -->
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    var CONFIG = {"hostname":"example.com","root":"/","version":"1.8.11","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null}},"search_path":"/local-search.xml"};
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+
+<body>
+  <header style="height: 50vh;">
+    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand"
+       href="/">&nbsp;<strong>安全001</strong>&nbsp;</a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/">
+                <i class="iconfont icon-home-fill"></i>
+                首页
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="iconfont icon-category-fill"></i>
+                分类
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/power/">
+                    
+                    弱电基础
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/saftyedu/">
+                    
+                    安全教育
+                  </a>
+                
+              </div>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                归档
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/">
+                <i class="iconfont icon-user-fill"></i>
+                关于
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" data-toggle="modal" data-target="#modalSearch">&nbsp;<i
+                class="iconfont icon-search"></i>&nbsp;</a>
+          </li>
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="banner" id="banner" parallax=true
+         style="background: url('/img/default.png') no-repeat center center;
+           background-size: cover;">
+      <div class="full-bg-img">
+        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.6)">
+          <div class="page-header text-center fade-in-up">
+            <span class="h2" id="subtitle" title="电气安全：从发电站到你家的末端配电箱，一文搞懂！">
+              
+            </span>
+
+            
+              <div class="mt-3">
+  
+  
+    <span class="post-meta">
+      <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+      <time datetime="2025-11-21 22:01" pubdate>
+        2025年11月21日 晚上
+      </time>
+    </span>
+  
+</div>
+
+<div class="mt-1">
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-chart"></i>
+      1.1k 字
+    </span>
+  
+
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-clock-fill"></i>
+      
+      
+      11
+       分钟
+    </span>
+  
+
+  
+  
+</div>
+
+            
+          </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="d-none d-lg-block col-lg-2"></div>
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div class="py-5" id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none">电气安全：从发电站到你家的末端配电箱，一文搞懂！</h1>
+            
+            <div class="markdown-body">
+              <h3 id="电气安全：从发电站到你家的末端配电箱，一文搞懂！"><a href="#电气安全：从发电站到你家的末端配电箱，一文搞懂！" class="headerlink" title="电气安全：从发电站到你家的末端配电箱，一文搞懂！"></a>电气安全：从发电站到你家的末端配电箱，一文搞懂！</h3><p>你有没有想过，我们家里的电是怎么来的？ 肯定不是凭空变出来的！它要经过一段漫长的旅程，才能从发电站安全地到达你家的插座里。今天，咱们就来聊聊这个过程。</p>
+<p>首先，电从发电站（无论是水电、火电还是太阳能发电）出来，经过层层“高速公路”——也就是<strong>输电网</strong>和<strong>枢纽变电所</strong>，一路降低电压，才能逐渐进入咱们的城市。这个过程就像快递一样，大包裹先到中心，然后再分发到各个区域。</p>
+<p><img src="/img/image-20251120233239192.png" srcset="/img/loading.gif" lazyload alt="电网模型"></p>
+<p>​                                                                            图一.电网模型</p>
+<p>接下来，电会进入<strong>配电网</strong>，这是一个由高压、中压、低压组成的复杂网络。高压电就像主干道，中压电是支路，低压电就是通往你家门口的“最后一公里”。  电经过城市里的<strong>变配电所</strong>，电压进一步降低，到了图一上面我们最后看到的用户变配电所，平时检查遇到的室内变配电所。</p>
+<p><img src="/img/image-20251120234211039.png" srcset="/img/loading.gif" lazyload alt="工业厂房配电模型"></p>
+<p>​                                                                   图二.工业厂房配电模型</p>
+<p>室内变配电所，里一排排的设备都很常见了，                                                               </p>
+<p>​                                                                 </p>
+<p><img src="/img/image-20251120234755963.png" srcset="/img/loading.gif" lazyload alt="配电间设置要求"></p>
+<p>​                                                                   图三.配电间设置要求</p>
+<p>但这里有一个很重要的概念，环网。为啥要有环网？负荷等级。</p>
+<p><strong>为什么要环网供电？</strong></p>
+<p>有些重要的用电场所（比如医院、消防设施）会采用<strong>环网供电</strong>方式。 这是什么意思呢？ 简单说，就是从两个不同的电源给同一个地方供电，就像两条“生命线”。 这样，即使一条线路发生故障，另一条线路也能保证重要设备的正常运行，保证供电的可靠性。</p>
+<p><strong>一级负荷：</strong></p>
+<p>根据用电的重要程度，用电负荷也分为不同的等级。 <strong>一级负荷</strong>是最重要的，例如消防电梯、消防水泵、应急照明等，必须保证供电的可靠性，不能轻易停电。 很多重要场所为这类负荷配备了双电源，甚至柴油发电机等备用电源，确保万无一失。如果医院停电，手术怎么办？</p>
+<p>对于二级负荷，只需要两个回路供电，不必一定要求双电源。</p>
+<p><img src="/img/image-20251120235426188.png" srcset="/img/loading.gif" lazyload alt="变配电所S2"></p>
+<p>​                                                           图四.变配电所S2</p>
+<p>上图变配电所S210kv母线， 双电源供电，0.38kv母线， 双回路供电。</p>
+<p>下面说说一级负荷中特别重要的负荷</p>
+<p><img src="/img/image-20251121000111585.png" srcset="/img/loading.gif" lazyload alt="一级负荷中特别重要的负荷"></p>
+<p>​                                                                 图五.一级负荷中特别重要的负荷</p>
+<p>示例系统有两个电源：一个是常用的10千伏市电，另一个是400伏的柴油发电机。 市电通过变压器降压后，变成220&#x2F;380伏的家庭用电。 为了防止市电和发电机同时供电造成损坏，它们之间有个“互锁”装置。</p>
+<p>平时，重要设备（一级负荷）和普通设备（三级负荷）都用市电。 当WC母线发生故障时，会切换到WC0备用电路，这个备用电路也来自市电，不需要启动发电机。 只有市电完全停电时，才会启动柴油发电机供电。</p>
+<p><img src="/img/image-20251121000614317.png" srcset="/img/loading.gif" lazyload alt="一级负荷中特别重要的负荷"></p>
+<pre><code>                                                              图六.一级负荷中特别重要的负荷
+</code></pre>
+<p>消防电梯、水泵、风机和应急灯这些重要的设备（一级负荷）双电源供电，而且尽可能独立控制，普通设备(普通照明和插座)分层分区供电。</p>
+<p>最后，电会进入你家楼道的<strong>楼层配电箱</strong>，或者直接是你家的<strong>入户配电箱</strong>。 这个小小的箱子里面，藏着很多重要的“守护神”，比如<strong>断路器（也叫空气开关）</strong>和<strong>漏电保护器</strong>。</p>
+<p><strong>配电箱里的“守护神”：</strong></p>
+<ul>
+<li><strong>断路器（空气开关）：</strong> 就像家里的“保险丝”，当电路发生短路或者用电过载时（比如同时开了太多电器），它会自动跳闸，切断电源，防止电线烧毁，甚至引发火灾。</li>
+<li><strong>漏电保护器：</strong> 它的本领更厉害，能监测到电路中是否有漏电的情况（比如电器外壳带电），一旦发现漏电，就会迅速跳闸，保护咱们的人身安全，防止触电事故。</li>
+</ul>
+<p>所以，下次当你打开家里的电灯时，不妨想一想，电是怎么一步步来到你家的？ 也别忘了定期检查家里的配电箱，确保里面的“守护神”们都在正常工作，保障咱们的用电安全！</p>
+
+            </div>
+            <hr>
+            <div>
+              <div class="post-metas mb-3">
+                
+                  <div class="post-meta mr-3">
+                    <i class="iconfont icon-category"></i>
+                    
+                      <a class="hover-with-bg" href="/categories/power/">弱电基础</a>
+                    
+                  </div>
+                
+                
+                  <div class="post-meta">
+                    <i class="iconfont icon-tags"></i>
+                    
+                      <a class="hover-with-bg" href="/tags/EHS/">EHS</a>
+                    
+                      <a class="hover-with-bg" href="/tags/%E5%BC%B1%E7%94%B5/">弱电</a>
+                    
+                  </div>
+                
+              </div>
+              
+              
+                <div class="post-prevnext">
+                  <article class="post-prev col-6">
+                    
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/saftyedu/%E6%9C%89%E7%88%86%E7%82%B8%E5%8D%B1%E9%99%A9%E7%9A%84%E7%94%B2%E3%80%81%E4%B9%99%E7%B1%BB%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E3%80%81%E9%83%A8%E4%BD%8D%E7%9A%84%E9%98%B2%E7%88%86%E8%A6%81%E6%B1%82/">
+                        <span class="hidden-mobile">有爆炸危险的甲、乙类生产车间、部位的防爆要求</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+    
+      <div class="d-none d-lg-block col-lg-2 toc-container" id="toc-ctn">
+        <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;目录</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+
+<!-- Custom -->
+
+
+    
+
+    
+      <a id="scroll-top-button" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v"
+                 for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    
+  </main>
+
+  <footer class="text-center mt-5 py-3">
+  <div class="footer-content">
+     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+  </div>
+  
+
+  
+
+  
+</footer>
+
+
+  <!-- SCRIPTS -->
+  
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+<!-- Plugins -->
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+  
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/tocbot@4.12.3/dist/tocbot.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/anchor-js@4.3.1/anchor.min.js" ></script>
+
+
+
+  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js" ></script>
+
+
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var title = document.getElementById('subtitle').title;
+      
+      typing(title)
+      
+    })(window, document);
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 主题的启动项 保持在最底部 -->
+<script  src="/js/boot.js" ></script>
+
+
+</body>
+</html>
