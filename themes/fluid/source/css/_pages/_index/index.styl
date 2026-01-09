@@ -1,0 +1,71 @@
+.index-card
+  margin-bottom 1rem
+
+.index-img
+  color var(--sec-text-color)
+  img
+    display block
+    width 100%
+ 
+
+.index-info
+  display flex
+  flex-direction column
+ 
+ 
+  padding-bottom .5rem
+
+.index-header
+  color var(--text-color)
+  font-size 1.5rem
+  font-weight bold
+  line-height 1.4
+  white-space nowrap
+  overflow hidden
+  text-overflow ellipsis
+  margin-bottom .25rem
+
+  .index-pin
+    color var(--text-color)
+    font-size 1.5rem
+    margin-right .15rem
+
+.index-btm
+  color var(--sec-text-color)
+
+  a
+    color var(--sec-text-color)
+
+.index-excerpt
+  color var(--sec-text-color)
+  font-size: 0.9rem;
+
+  margin 0.5rem 0 0.5rem 0
+  max-height calc(1.4rem * 3)
+  line-height 1.4rem
+  overflow hidden
+
+  & > div
+    float right
+    margin-left -0.25rem
+    width 100%
+    word-break break-word
+    display -webkit-box
+    -webkit-box-orient vertical
+    -webkit-line-clamp 3
+
+@media (max-width: 767px)
+  .index-info
+    padding-top .5rem
+
+  .index-header
+    font-size 1.25rem
+    white-space normal
+    overflow hidden
+    word-break break-word
+    display -webkit-box
+    -webkit-box-orient vertical
+    -webkit-line-clamp 2
+
+    .index-pin
+      font-size 1.25rem
